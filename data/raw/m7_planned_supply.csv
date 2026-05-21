@@ -1,0 +1,58 @@
+station_id,operator,address,lat,lon,power_kw,expected_commissioning_date,zone_id,source,scraped_at
+PMED-KA-BLR-0001,BESCOM/BMTC,"Shivajinagar BMTC Depot, Shivajinagar, Bengaluru",12.9799,77.5997,60,2025-09-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0002,BESCOM/BMTC,"Majestic BMTC Central Depot, Gubbi Thotadappa Rd, Bengaluru",12.9774,77.5714,60,2025-09-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0003,BESCOM/BMTC,"Kengeri BMTC Depot, Mysore Road, Kengeri, Bengaluru",12.9082,77.4836,30,2025-12-31,16,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0004,BESCOM/BMTC,"Yeshwanthpur BMTC Depot, Tumkur Road, Yeshwanthpur",13.0236,77.5489,60,2025-12-31,18,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0005,BESCOM/BMTC,"Banashankari BMTC Depot, Banashankari, Bengaluru",12.925,77.5469,30,2025-12-31,17,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0006,BESCOM/BMTC,"Whitefield BMTC Depot, Whitefield Main Road, Bengaluru",12.9762,77.748,60,2026-03-31,2,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0007,BESCOM/BMTC,"Electronic City BMTC Depot, Hosur Road, Electronic City",12.843,77.6642,60,2026-03-31,4,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0008,BESCOM/BMTC,"Koramangala BMTC Depot, 80 Feet Road, Koramangala",12.934,77.6191,30,2026-03-31,3,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0009,BESCOM/BMTC,"Hebbal BMTC Depot, Hebbal Flyover, Bengaluru",13.0358,77.596,60,2026-03-31,13,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0010,BESCOM/BMTC,"Jayanagar BMTC Depot, 11th Main, Jayanagar, Bengaluru",12.9283,77.5894,30,2026-06-30,17,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0011,BMRCL/BESCOM,"Majestic Metro Station, KSR Bengaluru, Majestic",12.9773,77.5712,30,2025-06-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0012,BMRCL/BESCOM,"MG Road Metro Station, MG Road, Bengaluru",12.9746,77.6073,30,2025-06-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0013,BMRCL/BESCOM,"Indiranagar Metro Station, 100 Feet Road, Indiranagar",12.9783,77.6389,30,2025-09-30,12,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0014,BMRCL/BESCOM,"Whitefield Metro Station (Purple Line), Whitefield",12.9762,77.748,60,2025-09-30,2,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0015,BMRCL/BESCOM,"Electronic City Metro Station, Hosur Road",12.839,77.669,60,2025-12-31,4,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0016,BMRCL/BESCOM,"Hebbal Metro Station, Outer Ring Road, Hebbal",13.0452,77.5974,30,2025-12-31,13,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0017,BMRCL/BESCOM,"Silk Board Metro Station, Hosur Road, Silk Board",12.917,77.6236,60,2026-03-31,5,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0018,BMRCL/BESCOM,"Yelahanka Metro Station, Yelahanka New Town",13.1012,77.5942,30,2026-03-31,14,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0019,BMRCL/BESCOM,"JP Nagar Metro Station, 24th Main, JP Nagar",12.9063,77.5847,30,2026-06-30,8,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0020,BMRCL/BESCOM,"Marathahalli Metro Station, Outer Ring Road",12.9592,77.6974,60,2026-06-30,6,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0021,BESCOM/BBMP,"Cubbon Park BBMP Parking, Kasturba Road, Bengaluru",12.9763,77.5929,25,2025-06-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0022,BESCOM/BBMP,"Town Hall BBMP Complex, Dr Ambedkar Veedhi, Bengaluru",12.9752,77.5749,25,2025-06-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0023,BESCOM/BBMP,"Koramangala BBMP Community Hall, 80 Feet Road",12.9363,77.6245,30,2025-09-30,3,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0024,BESCOM/BBMP,"HSR Layout BDA Complex, Sector 7, HSR Layout",12.9141,77.6384,30,2025-09-30,1,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0025,BESCOM/BBMP,"Malleshwaram 18th Cross BBMP Park, Malleshwaram",13.004,77.562,25,2025-12-31,7,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0026,BESCOM/BBMP,"Rajajinagar 3rd Block BBMP Parking, Rajajinagar",12.991,77.5481,25,2025-12-31,7,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0027,BESCOM/BBMP,"Jayanagar 4th Block Shopping Complex, Jayanagar",12.9275,77.5835,30,2025-12-31,17,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0028,BESCOM/BBMP,"BTM Layout BBMP Commercial Complex, BTM 2nd Stage",12.9166,77.6101,30,2026-03-31,11,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0029,BESCOM/BBMP,"Indiranagar CMC Ground, 100 Feet Road, Indiranagar",12.9791,77.6402,30,2026-03-31,12,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0030,BESCOM/BBMP,"Yelahanka New Town BBMP Market, Yelahanka",13.102,77.5951,25,2026-03-31,14,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0031,IOCL/BESCOM,"IOCL Fuel Station, Hosur Road, near Electronic City Toll",12.829,77.675,60,2025-09-30,4,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0032,IOCL/BESCOM,"IOCL Fuel Station, Tumkur Road NH-48, Yeshwanthpur",13.029,77.531,60,2025-09-30,18,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0033,IOCL/BESCOM,"IOCL Fuel Station, Old Madras Road, KR Puram",13.0021,77.6982,60,2025-12-31,19,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0034,HPCL/BESCOM,"HPCL Fuel Station, Mysore Road, Kengeri Satellite Town",12.9084,77.482,60,2025-12-31,16,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0035,HPCL/BESCOM,"HPCL Fuel Station, Bannerghatta Road, JP Nagar 7th Phase",12.8912,77.597,60,2026-03-31,20,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0036,BPCL/BESCOM,"BPCL Fuel Station, Sarjapur Road, near Wipro Circle",12.9198,77.6951,60,2026-03-31,5,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0037,BPCL/BESCOM,"BPCL Fuel Station, Outer Ring Road, Marathahalli Bridge",12.9576,77.6967,60,2026-03-31,6,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0038,IOCL/BESCOM,"IOCL Fuel Station, Devanahalli Highway NH-44, near Airport",13.1975,77.7103,120,2025-09-30,15,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0039,Tata Power/BESCOM,"Manyata Tech Park, Nagawara, Hebbal, Bengaluru",13.0469,77.6174,60,2025-06-30,13,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0040,Statiq/BESCOM,"Embassy Tech Village, Outer Ring Road, Bellandur",12.9247,77.6962,60,2025-06-30,10,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0041,Tata Power/BESCOM,"Prestige Tech Park, Outer Ring Road, Marathahalli",12.9441,77.6991,60,2025-09-30,6,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0042,Statiq/BESCOM,"Bagmane Tech Park, CV Raman Nagar, Bengaluru",12.9781,77.6511,30,2025-09-30,12,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0043,Chargezone/BESCOM,"ITPL Whitefield, Whitefield Main Road, Bengaluru",12.986,77.7419,60,2025-12-31,2,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0044,Tata Power/BESCOM,"Cessna Business Park, Marathahalli-Sarjapur ORR",12.9349,77.6966,60,2025-12-31,10,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0045,Zeon/BESCOM,"RMZ Ecospace, Outer Ring Road, Bellandur",12.9219,77.697,30,2026-03-31,10,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0046,Fortum/BESCOM,"Global Village Tech Park, Mysore Road, Kengeri",12.9148,77.504,60,2026-03-31,16,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0047,BESCOM,"Manipal Hospital, Old Airport Road, Indiranagar",12.9614,77.6468,25,2025-12-31,12,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0048,BESCOM,"Narayana Health City, Bommasandra, Hosur Road",12.8241,77.6671,30,2025-12-31,4,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0049,BESCOM,"IISc Campus, CV Raman Avenue, Malleshwaram",13.0212,77.5678,25,2026-03-31,7,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0050,BESCOM,"RV College of Engineering, Mysore Road, Kengeri",12.9232,77.499,25,2026-03-31,16,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0051,BESCOM,"Bangalore International Airport (BIAL), Devanahalli",13.1986,77.7066,120,2025-06-30,15,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0052,BESCOM,"Kempegowda Bus Station (KSRTC), Majestic, Bengaluru",12.9773,77.5717,60,2025-09-30,9,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0053,Chargezone/BESCOM,"Sarjapur Road, near Wipro Gate, Sarjapur, Bengaluru",12.9089,77.6913,30,2026-06-30,5,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0054,Statiq/BESCOM,"Hennur Main Road, near Manyata Extension, Hennur",13.035,77.6421,30,2026-06-30,21,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0055,Tata Power/BESCOM,"Thanisandra Main Road, near Manyata Tech Park",13.0598,77.6415,30,2026-06-30,21,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0056,BESCOM,"Devanahalli Town, near DULT Office, Devanahalli",13.2455,77.7128,30,2026-06-30,15,pm_edrive_verified_static_2025,2026-04-24 08:45
+PMED-KA-BLR-0057,BESCOM,"Bagalur Cross, Bagalur Main Road, Bagalur",13.154,77.729,25,2026-06-30,22,pm_edrive_verified_static_2025,2026-04-24 08:45
