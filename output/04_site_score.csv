@@ -1,0 +1,21 @@
+zone_id,zone_name,site_score,site_rank,deployment_priority,zone_archetype,congestion_index,fast_charger_count,fast_desert_flag
+17,Yelahanka,63.0,1,Tier-1 (Deploy Now),commercial_transit,4094.172,0,1
+14,Kengeri,57.6,2,Tier-1 (Deploy Now),it_corridor,2346.357,0,1
+13,Outer Ring Road,52.0,3,Tier-1 (Deploy Now),it_corridor,738.074,0,1
+5,Rajajinagar,47.9,4,Tier-1 (Deploy Now),it_corridor,1989.725,0,1
+2,Tumkur Road,47.7,5,Tier-1 (Deploy Now),it_corridor,2992.597,0,1
+15,HSR Layout,42.9,6,Tier-2 (6-12 months),commercial_transit,544.433,0,1
+18,Electronic City,40.0,7,Tier-2 (6-12 months),it_corridor,521.369,0,1
+3,Indiranagar,35.2,8,Tier-2 (6-12 months),it_corridor,624.837,0,1
+8,Jayanagar,33.4,9,Tier-2 (6-12 months),it_corridor,369.126,0,1
+16,JP Nagar,33.2,10,Tier-2 (6-12 months),premium_commercial,117.037,0,1
+20,Devanahalli,31.0,11,Tier-3 (Strategic),premium_commercial,90.238,0,1
+4,MG Road,26.7,12,Tier-3 (Strategic),commercial_transit,150.488,0,1
+11,Whitefield ITPL,25.9,13,Tier-3 (Strategic),commercial_transit,839.849,0,1
+1,BTM Layout,24.4,14,Tier-3 (Strategic),commercial_transit,647.987,1,0
+9,Marathahalli,22.1,15,Tier-3 (Strategic),it_corridor,263.27,1,0
+6,Koramangala,21.8,16,Tier-3 (Strategic),premium_commercial,138.365,0,1
+12,Hebbal,21.0,17,Tier-3 (Strategic),commercial_transit,262.535,1,0
+10,Bellandur,18.9,18,Tier-3 (Strategic),it_corridor,170.633,1,0
+7,Sarjapur Road,17.2,19,Tier-3 (Strategic),commercial_transit,181.301,4,0
+19,Hoskote,15.8,20,Tier-3 (Strategic),it_corridor,80.197,0,1

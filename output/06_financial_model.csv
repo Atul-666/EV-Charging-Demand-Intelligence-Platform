@@ -1,0 +1,21 @@
+zone_id,zone_name,zone_archetype,roi_tier,recommended_product,sessions_per_day_est,net_capex_inr,payback_4_sessions,payback_6_sessions,payback_8_sessions,payback_10_sessions,payback_13_sessions
+1,BTM Layout,commercial_transit,MEDIUM,DC 120 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+2,Tumkur Road,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+3,Indiranagar,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+4,MG Road,commercial_transit,MEDIUM,DC 120 kW,8,1260000,47.5,28.2,20.0,15.5,11.6
+5,Rajajinagar,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+6,Koramangala,premium_commercial,MEDIUM,DC 120 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+7,Sarjapur Road,commercial_transit,MEDIUM,DC 120 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+8,Jayanagar,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+9,Marathahalli,it_corridor,MEDIUM,DC 60 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+10,Bellandur,it_corridor,MEDIUM,DC 60 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+11,Whitefield ITPL,commercial_transit,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+12,Hebbal,commercial_transit,MEDIUM,DC 120 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+13,Outer Ring Road,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+14,Kengeri,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+15,HSR Layout,commercial_transit,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+16,JP Nagar,premium_commercial,MEDIUM,DC 120 kW,11,1260000,47.5,28.2,20.0,15.5,11.6
+17,Yelahanka,commercial_transit,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+18,Electronic City,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+19,Hoskote,it_corridor,MEDIUM,AC 22 kW,3,1260000,47.5,28.2,20.0,15.5,11.6
+20,Devanahalli,premium_commercial,MEDIUM,DC 120 kW,12,1260000,47.5,28.2,20.0,15.5,11.6

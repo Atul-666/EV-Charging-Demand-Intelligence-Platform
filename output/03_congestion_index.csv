@@ -1,0 +1,21 @@
+zone_id,zone_name,ev_registrations,ev_growth_rate_yoy,S_eff,congestion_index,fast_desert_flag,zone_archetype
+1,BTM Layout,5234,1.097,0.6835,647.987,0,commercial_transit
+2,Tumkur Road,4384,1.097,0.0421,2992.597,1,it_corridor
+3,Indiranagar,6593,1.097,0.9235,624.837,1,it_corridor
+4,MG Road,1225,1.097,0.6896,150.488,1,commercial_transit
+5,Rajajinagar,14045,1.097,0.5847,1989.725,1,it_corridor
+6,Koramangala,1242,1.097,0.7707,138.365,1,premium_commercial
+7,Sarjapur Road,2367,1.097,1.1664,181.301,0,commercial_transit
+8,Jayanagar,3759,1.097,0.8878,369.126,1,it_corridor
+9,Marathahalli,2684,1.097,0.8889,263.27,0,it_corridor
+10,Bellandur,2125,1.097,1.108,170.633,0,it_corridor
+11,Whitefield ITPL,5001,1.097,0.4776,839.849,1,commercial_transit
+12,Hebbal,1959,1.097,0.6238,262.535,0,commercial_transit
+13,Outer Ring Road,8010,1.097,0.9527,738.074,1,it_corridor
+14,Kengeri,10711,1.097,0.3428,2346.357,1,it_corridor
+15,HSR Layout,5226,1.097,0.8311,544.433,1,commercial_transit
+16,JP Nagar,1125,1.097,0.8324,117.037,1,premium_commercial
+17,Yelahanka,6576,1.097,0.0558,4094.172,1,commercial_transit
+18,Electronic City,5168,1.097,0.8615,521.369,1,it_corridor
+19,Hoskote,767,1.097,0.8277,80.197,1,it_corridor
+20,Devanahalli,742,1.097,0.6976,90.238,1,premium_commercial
