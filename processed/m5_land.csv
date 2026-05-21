@@ -1,0 +1,29 @@
+locality_name,lat,lon,price_psf_residential,price_psf_commercial,hcpi_estimated,new_projects_pipeline_count,new_projects_units_total,data_source,scraped_at
+HSR Layout,12.9116,77.6389,9800,14500,0.52,12,1840,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Whitefield,12.9698,77.75,8200,12000,0.55,28,5200,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Koramangala,12.9279,77.6271,12500,18000,0.48,8,950,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Electronic City,12.8458,77.6603,5800,7500,0.58,22,4100,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Sarjapur Road,12.9072,77.6822,7500,10000,0.6,35,7800,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Marathahalli,12.956,77.7013,7200,9500,0.45,14,2200,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Rajajinagar,12.9862,77.5517,9500,13000,0.32,6,620,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+JP Nagar,12.9002,77.5929,8800,11500,0.38,9,1100,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+MG Road,12.9756,77.6097,14000,22000,0.42,3,280,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Bellandur,12.9291,77.6867,8000,11000,0.54,18,3400,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+BTM Layout,12.9166,77.6101,9000,12500,0.4,7,780,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Indiranagar,12.9784,77.6408,13000,19000,0.44,5,410,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Hebbal,13.0355,77.5973,9200,13500,0.5,16,2900,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Yelahanka,13.1004,77.5963,6800,9000,0.46,19,3100,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Devanahalli,13.2468,77.7143,5500,7000,0.55,24,4800,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Kengeri,12.9072,77.4829,5200,6500,0.35,10,1300,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Jayanagar,12.9308,77.5838,11000,15000,0.36,4,350,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Tumkur Road,13.0274,77.537,6000,8000,0.42,8,900,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Outer Ring Road,12.9341,77.6856,8500,13000,0.56,20,4200,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Bannerghatta Road,12.8933,77.5973,7800,10500,0.44,13,2100,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Hennur,13.036,77.6431,6200,8200,0.5,21,3800,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Bagalur,13.1542,77.7308,4800,6000,0.48,17,2600,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Hoskote,13.0711,77.7998,4500,5800,0.3,6,540,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Brookefield,12.963,77.7152,8100,11000,0.52,11,1900,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Malleshwaram,13.0033,77.5668,10500,14000,0.3,3,220,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Basavanagudi,12.9418,77.5742,10000,13500,0.28,2,140,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Yeshwanthpur,13.0212,77.5494,8800,12000,0.38,9,1050,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09
+Thanisandra,13.064,77.6426,6500,8500,0.52,23,4300,static_Q4_2023_prices+hcpi_calibrated+rera_approx_2023_25,2026-04-24 14:09

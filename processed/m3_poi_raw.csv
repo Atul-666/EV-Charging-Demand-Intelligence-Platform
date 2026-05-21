@@ -1,0 +1,3125 @@
+poi_type,lat,lon,weight,name
+petrol_pump,12.9365895,77.5804447,1,Bharat Petroleum
+petrol_pump,12.9356671,77.6144578,1,Bharat Petroleum
+petrol_pump,13.0322135,77.5698943,1,Indian Oil
+petrol_pump,12.9812136,77.6570884,1,HP Auto Care
+petrol_pump,12.9967798,77.5404068,1,Indian Oil
+petrol_pump,12.9966627,77.5400464,1,Bharat Petroleum
+petrol_pump,13.0096888,77.5624992,1,Bharat Petroleum
+petrol_pump,13.0436252,77.5536883,1,Hindustan Petroleum
+petrol_pump,12.9571863,77.5862334,1,Indian Oil
+petrol_pump,12.9758396,77.5985677,1,Bharat Petroleum
+petrol_pump,13.0382505,77.5209319,1,Unknown
+petrol_pump,13.0270252,77.5348756,1,Unknown
+petrol_pump,12.9380085,77.5496081,1,IBP Petrol Station
+petrol_pump,13.0553995,77.5072996,1,Indian Oil
+petrol_pump,12.9979379,77.6706603,1,Gokula Petrol / Gas Station
+petrol_pump,12.9916942,77.5457901,1,Indian Oil
+petrol_pump,12.9950213,77.5964919,1,Unknown
+petrol_pump,12.8388774,77.6783157,1,Indian Oil
+petrol_pump,12.8910036,77.5646686,1,Mobil Petrol / Gas Station
+petrol_pump,12.9134732,77.5590565,1,Kadirenahalli Petrol Pump
+petrol_pump,12.895836,77.5818445,1,Indian Oil
+petrol_pump,12.932367,77.5414216,1,Sri Mahadeshwara Filling Station
+petrol_pump,12.9420282,77.5802856,1,Indian Oil
+petrol_pump,12.9059935,77.5421849,1,HP
+petrol_pump,13.0291835,77.5788862,1,Unknown
+petrol_pump,12.933506,77.6303939,1,HP Petrol Pump
+petrol_pump,12.9309662,77.6004616,1,Classic Auto Gas
+petrol_pump,12.8853599,77.6417564,1,Indian Oil
+petrol_pump,12.9090166,77.6280806,1,Bharat Petroleum
+petrol_pump,13.0238021,77.5494737,1,Unknown
+petrol_pump,13.0394495,77.5186809,1,Unknown
+petrol_pump,12.9462008,77.5679859,1,Bull Temple Filling Station
+petrol_pump,12.9599025,77.5328566,1,Bharat Petrol Pump
+petrol_pump,12.9397172,77.5238766,1,Indian Oil Petrol Pump
+petrol_pump,12.947907,77.5327064,1,Shell
+petrol_pump,13.0663685,77.5936278,1,Shell Ganesh Enterprises
+petrol_pump,12.9087203,77.6275079,1,Indian Oil
+petrol_pump,12.9883033,77.5774436,1,Bharat Petroleum
+petrol_pump,12.9596642,77.5829322,1,Unknown
+petrol_pump,13.0042943,77.7122219,1,Bharat Petroleum Pump
+petrol_pump,12.941632,77.5641945,1,Sri Vishvesha Agencies
+petrol_pump,12.9608906,77.5106429,1,Petro / Gas  Station
+petrol_pump,12.9570377,77.5026901,1,Petrol Station
+petrol_pump,12.9771222,77.5466032,1,HP Petrol Bunk
+petrol_pump,12.9793805,77.5420846,1,Shell Petrol Bunk
+petrol_pump,13.0234554,77.5099399,1,HP
+petrol_pump,13.0354184,77.5178471,1,Unknown
+petrol_pump,13.0230791,77.522557,1,Unknown
+petrol_pump,12.9672844,77.57,1,Shree Krishna Auto Gas
+petrol_pump,12.9297811,77.5682637,1,Indian Oil
+petrol_pump,12.9966824,77.6193965,1,Indian Oil
+petrol_pump,12.9065766,77.5907568,1,Hindustan Petroleum
+petrol_pump,12.9841172,77.5600221,1,Unknown
+petrol_pump,12.9479149,77.5794869,1,Bharat Petroleum
+petrol_pump,13.0103477,77.5367403,1,HP Petrol
+petrol_pump,12.9072121,77.5462363,1,IOCL
+petrol_pump,12.9852478,77.5433506,1,BP petrol pump
+petrol_pump,12.9916432,77.5578265,1,HP
+petrol_pump,12.9810568,77.5583911,1,Indian Oil
+petrol_pump,12.9855941,77.5252604,1,IBP petrol pump
+petrol_pump,12.9850923,77.5232649,1,Indo Petrol / Gas Station
+petrol_pump,12.9862632,77.5222349,1,Indian Oil
+petrol_pump,13.0213985,77.6005015,1,Lakshmamma Petrol / Gas Station
+petrol_pump,12.9765112,77.5799146,1,Bharat Petroleum
+petrol_pump,13.0030286,77.6349993,1,Srinivasa Petrol / Gas Station
+petrol_pump,13.0045053,77.6960311,1,B R Muniyappa Petrol / Gas Station
+petrol_pump,12.9152651,77.5592492,1,Total Auto Gas
+petrol_pump,12.8965036,77.634968,1,Gogas Auto Lpg
+petrol_pump,13.0490027,77.5079841,1,Total Gas Station
+petrol_pump,12.9873459,77.5723926,1,Vijees Auto Gas
+petrol_pump,12.9673086,77.5461504,1,Indian Oil
+petrol_pump,12.9702784,77.5246208,1,Omkar Refill Station
+petrol_pump,12.9104004,77.5947964,1,Indian Oil Corporation
+petrol_pump,12.9460933,77.5950233,1,Aegis Autogas
+petrol_pump,13.0336462,77.5306463,1,Unknown
+petrol_pump,13.0366638,77.5237733,1,Unknown
+petrol_pump,12.9569629,77.5491868,1,Shell
+petrol_pump,12.9602862,77.5570381,1,Bharat Petroleum
+petrol_pump,13.0047906,77.636936,1,Indianoil
+petrol_pump,12.9856793,77.480059,1,Shell gas station
+petrol_pump,12.9740504,77.5500149,1,Total Gas Station
+petrol_pump,12.9072677,77.546892,1,Jana Bharat Gas Agency
+petrol_pump,12.9434017,77.5771336,1,Bharat Petroleum
+petrol_pump,12.8531236,77.6718789,1,Ram Gas agency & Home Appliances
+petrol_pump,13.0413718,77.6218064,1,Indian Oil
+petrol_pump,12.9609545,77.5284088,1,Hindustan Petroleum
+petrol_pump,13.0053314,77.5937908,1,Bharat Petroleum
+petrol_pump,12.9588104,77.5868782,1,Gogas
+petrol_pump,12.9013144,77.585703,1,HiDrive Auto LPG
+petrol_pump,12.8764083,77.6716475,1,Indian Oil
+petrol_pump,12.9364637,77.5159062,1,Go Gas
+petrol_pump,13.0206859,77.5521442,1,Hindustan Petroleum
+petrol_pump,12.9862919,77.5724177,1,Aegis Auto Gas
+petrol_pump,13.0309302,77.6690791,1,Bharat Petroleum
+petrol_pump,12.8917783,77.577424,1,Patel Fuel
+petrol_pump,12.9951873,77.5219448,1,Bharat Petroleum
+petrol_pump,12.9584933,77.5173345,1,Indian Oil
+petrol_pump,12.9201996,77.4856137,1,Nayara
+petrol_pump,12.9383074,77.4926135,1,Ageis auto gas/Emission testng
+petrol_pump,13.04959,77.6298009,1,Star Auto LPG
+petrol_pump,12.8758687,77.5684168,1,Indian Oil Fuel Station
+petrol_pump,12.8741353,77.570379,1,MRPL Fuel Station
+petrol_pump,12.9706594,77.5256373,1,Nayara
+petrol_pump,12.9285826,77.5028976,1,Bharat Petroleum
+petrol_pump,12.891779,77.5771096,1,Shell Pertol Station
+petrol_pump,12.9946331,77.5225363,1,Indian Oil
+petrol_pump,13.0311635,77.5771639,1,Nayara
+petrol_pump,12.9472886,77.5798621,1,Go Gas
+petrol_pump,12.8799104,77.5840531,1,Cauvery Petro Services
+petrol_pump,12.9573596,77.5511498,1,Bharat Petroleum
+petrol_pump,13.0140808,77.4961194,1,Indian Oil Fuel Station
+petrol_pump,13.0075192,77.5711141,1,HP Gas Station
+petrol_pump,12.9079574,77.6288166,1,Unknown
+petrol_pump,12.9682598,77.4811488,1,Pali Fuel - Bharat Petroleum
+petrol_pump,12.9515993,77.4845912,1,Indian Oil
+petrol_pump,12.9171682,77.574335,1,Indian Oil
+petrol_pump,12.9425359,77.6799763,1,Nayara
+petrol_pump,12.9572457,77.5509305,1,Bharat Petroleum
+petrol_pump,12.9294303,77.5039923,1,HP
+petrol_pump,13.0195518,77.5527632,1,TotalEnergies
+petrol_pump,12.9506877,77.605377,1,Total
+petrol_pump,12.8857538,77.5569183,1,HP
+petrol_pump,12.9420666,77.5854427,1,TotalEnergies
+petrol_pump,13.1322181,77.6600987,1,Bharat Petroleum
+petrol_pump,13.0358602,77.6229561,1,Bharat Petroleum
+petrol_pump,13.018365,77.6187666,1,Unknown
+petrol_pump,13.0282177,77.6207124,1,Gas Plus
+petrol_pump,13.1024731,77.6284623,1,HP
+petrol_pump,13.0393786,77.5962148,1,Go Gas
+petrol_pump,12.9463785,77.5680606,1,Indian Oil
+petrol_pump,12.8770005,77.6478369,1,HP
+petrol_pump,13.0311175,77.6301995,1,Gail Gas
+petrol_pump,13.0252988,77.6400749,1,Premier
+petrol_pump,12.9857026,77.7077508,1,Hindustan Petroleum
+petrol_pump,12.9872387,77.7088261,1,Unknown
+petrol_pump,13.014797,77.661934,1,Unknown
+petrol_pump,13.0205063,77.5842241,1,Bharath Petroleum
+petrol_pump,12.9717699,77.6544667,1,Bharat Petroleum
+petrol_pump,12.8874381,77.7360068,1,Bharat Petroleum
+petrol_pump,12.9565729,77.7314613,1,Shell
+petrol_pump,13.019561,77.7079007,1,Indian Oil
+petrol_pump,12.9919768,77.6595562,1,Shell
+petrol_pump,12.8627048,77.5312787,1,Shell
+petrol_pump,12.9907883,77.5718674,1,Indian Oil
+petrol_pump,12.975224,77.6013104,1,Indian Oil
+petrol_pump,13.0075596,77.6412505,1,Indian Oil Fuel
+petrol_pump,12.8422078,77.6184326,1,Unknown
+petrol_pump,12.842005,77.6191506,1,Unknown
+petrol_pump,12.9215131,77.6447168,1,Sowbhagya Fuel Station
+petrol_pump,12.9153481,77.6384761,1,HP
+petrol_pump,12.8751443,77.6484448,1,Bharat Petroleum
+petrol_pump,12.8974998,77.6211329,1,HP
+petrol_pump,12.9894848,77.5726484,1,Hindustan Petroleum
+petrol_pump,13.0416113,77.760871,1,Indian Oil
+petrol_pump,12.8740718,77.6410358,1,Indian Oil
+petrol_pump,12.9724757,77.6198663,1,Indian Oil
+petrol_pump,13.1351624,77.5695354,1,Indian Oil
+petrol_pump,12.9599425,77.64573,1,Indian Oil
+petrol_pump,12.9759709,77.5978446,1,HP
+petrol_pump,12.9929344,77.6091095,1,Unknown
+petrol_pump,12.997231,77.5467733,1,Bharat Petroleum
+petrol_pump,12.9712543,77.6820908,1,Shell
+petrol_pump,12.9590737,77.6532861,1,HP
+petrol_pump,13.0149703,77.6278217,1,Essar
+petrol_pump,12.9918853,77.6038854,1,Bharat Petroleum
+petrol_pump,12.9256655,77.6001167,1,Bharat Petroleum
+petrol_pump,12.9157061,77.4817653,1,Shell
+petrol_pump,12.9152074,77.4820917,1,Indian Oil
+petrol_pump,12.9121751,77.4847186,1,Bharat Petroleum
+petrol_pump,12.8837746,77.5507523,1,Sree Shakthi Filling Station (Indian Oil)
+petrol_pump,12.9152778,77.5588134,1,Bharath Petrol Bunk
+petrol_pump,12.9413757,77.4931777,1,HP
+petrol_pump,12.9330559,77.4887638,1,Unknown
+petrol_pump,12.9169249,77.6097614,1,Advaith
+petrol_pump,12.9325701,77.4904664,1,Unknown
+petrol_pump,12.935815,77.547652,1,Mamtha Petroleum
+petrol_pump,12.9207876,77.62083,1,Bharat Petroleum
+petrol_pump,13.0464368,77.5022271,1,Shell
+petrol_pump,12.9858677,77.4801379,1,Unknown
+petrol_pump,13.0049679,77.6197408,1,Indian Oil
+petrol_pump,12.9834613,77.6408291,1,Total
+petrol_pump,12.9234086,77.6700233,1,Devaraj Enterprises
+petrol_pump,12.9454671,77.6186752,1,Kaveri Petrol
+petrol_pump,12.967545,77.6542749,1,Indian Oil
+petrol_pump,12.9677858,77.6559777,1,Bharat Petroleum
+petrol_pump,13.0026608,77.5837858,1,HP
+petrol_pump,13.0252331,77.5474797,1,Shell
+petrol_pump,12.9127328,77.4856958,1,Madhu Petrol / Gas Station
+petrol_pump,12.9599472,77.6495855,1,Bharat Petroleum
+petrol_pump,12.9149376,77.6755298,1,JSN Petrol Pump
+petrol_pump,12.9098789,77.6878514,1,HP Petrol Pump
+petrol_pump,12.9248041,77.6504389,1,Indian Oil
+petrol_pump,12.9146969,77.6667944,1,HP Gas
+petrol_pump,12.9496064,77.6209073,1,Indian Oil
+petrol_pump,12.9395203,77.6253565,1,Indian Oil
+petrol_pump,12.8821434,77.6249568,1,Bharat Petroleum
+petrol_pump,12.8870237,77.6253854,1,Indian Oil
+petrol_pump,12.9238895,77.6407659,1,Petronas
+petrol_pump,12.9231995,77.6714025,1,Shell Petrol Bunk
+petrol_pump,12.941168,77.6957709,1,Indian Oil
+petrol_pump,12.9522929,77.5892459,1,Unknown
+petrol_pump,12.9452499,77.6189892,1,Indian Oil
+petrol_pump,12.9083259,77.6924324,1,Sree Kodandarama Petrol / Gas Station
+petrol_pump,12.8847224,77.7466159,1,Unknown
+petrol_pump,12.9337326,77.6114986,1,IOC Hamsa Service Station
+petrol_pump,12.8828741,77.7528061,1,Unknown
+petrol_pump,12.9620228,77.5942366,1,Unknown
+petrol_pump,12.9457867,77.5953339,1,Nandini Filling Station
+petrol_pump,12.9664157,77.5953066,1,Indian Oil
+petrol_pump,12.9870887,77.690427,1,Sai Krishna Service Station
+petrol_pump,12.9199427,77.6513279,1,Samahita Fuelling Station
+petrol_pump,12.9042505,77.6013264,1,Indian Oil
+petrol_pump,12.8587493,77.528631,1,Indian Oil
+petrol_pump,12.9496246,77.5928626,1,Shell
+petrol_pump,12.9557935,77.580791,1,Hindustan Petroleum
+petrol_pump,12.9234506,77.6718939,1,Propel Indianoil
+petrol_pump,12.9164072,77.6053473,1,Indian Oil
+petrol_pump,12.9171094,77.5742972,1,Indian Oil
+petrol_pump,12.8609655,77.7800125,1,Unknown
+petrol_pump,12.9166239,77.6199309,1,Indian Oil
+petrol_pump,13.0555122,77.5077907,1,Petrol Bunk
+petrol_pump,12.9264315,77.5013106,1,Indian Oil
+petrol_pump,12.9259635,77.5007714,1,Reliance
+petrol_pump,12.9253351,77.6376486,1,Shell
+petrol_pump,13.0208734,77.5630701,1,Aegis Autogas
+petrol_pump,13.0414443,77.6205262,1,Indian Oil
+petrol_pump,13.0280416,77.586258,1,Bharat Petroleum
+petrol_pump,13.0811284,77.548344,1,Indian Oil
+petrol_pump,13.1304009,77.5715772,1,Shell
+petrol_pump,12.8914498,77.5876943,1,Nayara Petrol Pump
+petrol_pump,13.042173,77.5921122,1,Essar Uni Gas
+petrol_pump,13.0303103,77.5708074,1,Hindustan Petroleum
+petrol_pump,12.9300193,77.6151126,1,HP
+petrol_pump,12.9720613,77.5865248,1,Indian Oil
+petrol_pump,12.9506051,77.6053997,1,Total
+petrol_pump,13.0223186,77.5330653,1,Bharat Petroleum
+petrol_pump,12.982202,77.7517912,1,Shell Petrol Pump Hope Farm
+petrol_pump,12.9381328,77.7001208,1,VP Fuel Park
+petrol_pump,12.8784238,77.5671712,1,HP Fuel Station
+petrol_pump,12.9822336,77.5664076,1,Shell
+petrol_pump,12.9908979,77.6138419,1,Bharat Petroleum
+petrol_pump,12.9619155,77.5641626,1,Bharat Petroleum
+petrol_pump,13.0442443,77.6428246,1,Shell
+petrol_pump,13.004881,77.5808184,1,Shell
+petrol_pump,12.9554413,77.691107,1,Indian Oil
+petrol_pump,13.0384687,77.6417513,1,Nayara Suryodaya Petrol Pump
+petrol_pump,13.0529299,77.6316858,1,Indian Auto Gas
+petrol_pump,12.9713763,77.5970715,1,Shell
+petrol_pump,12.9427702,77.6976742,1,Shell
+petrol_pump,12.9970673,77.6918445,1,HP Petrol / Gas Station
+petrol_pump,12.998664,77.6879518,1,Indian Oil
+petrol_pump,12.9388175,77.6306998,1,Bharat Petroleum
+petrol_pump,13.1087602,77.6027543,1,Indian Oil
+petrol_pump,13.0813774,77.5927865,1,HP Petrol / Gas Station
+petrol_pump,13.071778,77.5932014,1,Shell
+petrol_pump,12.9814362,77.6309396,1,Bharat Petroleum
+petrol_pump,12.9827132,77.6378143,1,Indian Oil
+petrol_pump,12.8530743,77.7303723,1,Unknown
+petrol_pump,12.8855678,77.7442726,1,Unknown
+petrol_pump,12.8956091,77.7230821,1,Shell
+petrol_pump,12.8764612,77.7357856,1,Indian Oil
+petrol_pump,12.8646312,77.7701717,1,HP
+petrol_pump,12.9752275,77.6969472,1,HP
+petrol_pump,13.0147303,77.6618456,1,Indian Oil
+petrol_pump,12.8873592,77.7409827,1,Unknown
+petrol_pump,12.8970523,77.7185221,1,HP
+petrol_pump,12.9159462,77.7245429,1,Unknown
+petrol_pump,12.8989685,77.7484777,1,Unknown
+petrol_pump,12.8443773,77.6723107,1,Bharat Petroleum
+petrol_pump,12.9709019,77.7673918,1,HP
+petrol_pump,12.9385028,77.7418541,1,Nayara
+petrol_pump,12.9564431,77.7106316,1,HP
+petrol_pump,12.9652826,77.7331247,1,HP
+petrol_pump,13.0457876,77.5072216,1,Unknown
+petrol_pump,13.0452676,77.5052013,1,Swathi Petrol / Gas Station
+petrol_pump,12.9565792,77.6974368,1,HP
+petrol_pump,12.9666822,77.7175592,1,Mats Fuel Park
+petrol_pump,12.8634168,77.6588425,1,Hindustan Petroleum
+petrol_pump,12.9397143,77.7272407,1,Bharat Petroleum
+petrol_pump,12.9319705,77.7425203,1,Shell
+petrol_pump,13.0195942,77.5526995,1,Total
+petrol_pump,12.9912334,77.7217831,1,Bharat Petroleum
+petrol_pump,12.84568,77.6893031,1,Indian Oil
+petrol_pump,12.9619947,77.7164589,1,Shell
+petrol_pump,13.0175611,77.761837,1,Shell
+petrol_pump,12.9004172,77.6335589,1,Shell
+petrol_pump,12.9089136,77.6440611,1,Shell
+petrol_pump,12.9073176,77.6448038,1,Indian Oil
+petrol_pump,12.998321,77.6892871,1,V Power Shell Petrol Bunk
+petrol_pump,12.9783415,77.7112436,1,Indian Oil
+petrol_pump,12.9165723,77.5975557,1,Indian Oil
+petrol_pump,12.9108627,77.6832509,1,Shell
+petrol_pump,12.9961474,77.5194088,1,GAIL
+petrol_pump,13.0076297,77.6917488,1,HP
+petrol_pump,13.0095563,77.7592905,1,HP
+petrol_pump,12.9826703,77.7078952,1,Shell
+petrol_pump,12.9826593,77.708601,1,Esskay Totalgaz
+petrol_pump,13.0060297,77.5789027,1,Bharath Petroleum
+petrol_pump,12.8597756,77.5900883,1,Shell Petrol Bunk
+petrol_pump,12.8608984,77.5896602,1,Unknown
+petrol_pump,12.8426521,77.5886058,1,Bharat Petroleum
+petrol_pump,13.060438,77.7430144,1,Shell
+petrol_pump,13.0647459,77.6457828,1,Bharat Petroleum
+petrol_pump,13.0677016,77.630796,1,Bharat Petroleum
+petrol_pump,13.0715462,77.607682,1,Indian Oil
+petrol_pump,13.0256351,77.6372769,1,Indian Oil
+petrol_pump,13.0102547,77.6621923,1,HP
+petrol_pump,12.9167658,77.5838493,1,Shell
+petrol_pump,13.040209,77.6417188,1,Total Gas
+petrol_pump,13.0786867,77.7372005,1,Unknown
+petrol_pump,13.0929578,77.7417455,1,Unknown
+petrol_pump,13.1267128,77.7443755,1,Unknown
+petrol_pump,13.0080071,77.5460066,1,Nayara
+petrol_pump,12.943176,77.5797756,1,Total
+petrol_pump,12.9128982,77.6654053,1,Shell
+petrol_pump,12.9556144,77.723197,1,Bharat Petroleum
+petrol_pump,12.9963142,77.5802792,1,Indian Oil
+petrol_pump,12.9950657,77.5791434,1,Trigaz
+petrol_pump,12.9974456,77.5604967,1,Indian Oil
+petrol_pump,12.9741007,77.6471703,1,Shell
+petrol_pump,12.9573879,77.5683918,1,Unknown
+petrol_pump,12.953579,77.5672418,1,Shell
+petrol_pump,12.9592494,77.5755707,1,HP
+petrol_pump,12.9473878,77.5797003,1,Unknown
+petrol_pump,13.0567923,77.7675965,1,Unknown
+petrol_pump,13.0288513,77.5360179,1,Jio-bp
+petrol_pump,12.9376715,77.5341687,1,Go Gas
+petrol_pump,12.9442181,77.5303458,1,Total Gas
+petrol_pump,12.9087795,77.5859899,1,Essar Fuel
+petrol_pump,12.9147902,77.5855586,1,Indian Oil
+petrol_pump,12.9062127,77.5756657,1,Gail Gas
+petrol_pump,12.9062101,77.5760402,1,Adwittya Filling Center
+petrol_pump,12.90674,77.579297,1,Shell
+petrol_pump,12.8354289,77.6801295,1,Indian Oil
+petrol_pump,12.8654129,77.5332959,1,Unknown
+petrol_pump,13.0575509,77.5466442,1,Unknown
+petrol_pump,12.9683403,77.4811019,1,Unknown
+petrol_pump,12.9424826,77.6799703,1,Nayara
+petrol_pump,13.0872617,77.5921952,1,Nayara
+petrol_pump,13.0030243,77.682296,1,Indian Oil
+petrol_pump,12.9823155,77.5941812,1,Bharati Petrol / Gas Station
+petrol_pump,12.9904731,77.5935832,1,Shell
+petrol_pump,12.9252987,77.5839415,1,Unknown
+petrol_pump,12.8764449,77.6716449,1,Aum Petroleum
+petrol_pump,12.9358954,77.5155211,1,HP
+petrol_pump,12.9544671,77.5437395,1,Unknown
+petrol_pump,12.9564423,77.5487311,1,Indian Oil
+petrol_pump,12.8685916,77.6216155,1,Unknown
+petrol_pump,13.0119515,77.6466304,1,Bharat Petroleum
+petrol_pump,12.9037719,77.5617198,1,Chinnaswamy Petrol
+petrol_pump,12.9080004,77.5712087,1,Bharath Petroleum
+petrol_pump,12.9293231,77.5141903,1,Bharat Petroleum
+petrol_pump,12.9270828,77.5146577,1,Unknown
+petrol_pump,12.9327013,77.5165546,1,Indian Oil
+petrol_pump,12.9381836,77.5222149,1,Indian Oil
+petrol_pump,12.9383556,77.5213719,1,Indian Oil
+petrol_pump,12.9062571,77.6018225,1,Shell
+petrol_pump,13.09805,77.5657615,1,Shell
+petrol_pump,12.9068134,77.5715681,1,Unknown
+petrol_pump,12.937058,77.5767783,1,Unknown
+petrol_pump,13.0978156,77.5983365,1,Bharat Petroleum
+petrol_pump,13.092155,77.5944272,1,HP
+petrol_pump,13.0970962,77.5962139,1,Nayara
+petrol_pump,13.1038724,77.6027696,1,Unknown
+petrol_pump,13.104101,77.6044514,1,Unknown
+petrol_pump,13.1061709,77.6012637,1,Indian Oil
+petrol_pump,13.0417951,77.6137657,1,Indian Oil
+petrol_pump,12.9213761,77.6004341,1,Totalgaz
+petrol_pump,12.9268126,77.600711,1,Go Gas
+petrol_pump,12.8921805,77.6560731,1,Unknown
+petrol_pump,13.0134636,77.6497514,1,Unknown
+petrol_pump,13.0579696,77.5864011,1,Indian Oil
+petrol_pump,12.9965003,77.6117967,1,HP Petrol Pump
+petrol_pump,13.0515941,77.5750956,1,Unknown
+petrol_pump,12.8621404,77.6145485,1,Unknown
+petrol_pump,12.8765992,77.6093628,1,Unknown
+petrol_pump,12.876856,77.6092451,1,Shell
+petrol_pump,12.8764194,77.611127,1,Unknown
+petrol_pump,12.8764655,77.6109125,1,Unknown
+petrol_pump,13.102354,77.6285336,1,Unknown
+petrol_pump,13.0581868,77.593874,1,Indian Oil
+petrol_pump,13.1035338,77.6243171,1,Unknown
+petrol_pump,12.9664434,77.5047496,1,Unknown
+petrol_pump,13.0257619,77.5211449,1,Unknown
+petrol_pump,13.0516667,77.4906328,1,Unknown
+petrol_pump,13.0452976,77.5087542,1,Unknown
+petrol_pump,13.0368506,77.5744706,1,Unknown
+petrol_pump,13.0402384,77.5732183,1,Unknown
+petrol_pump,13.0405542,77.6185896,1,GAIL Gas
+petrol_pump,13.0665366,77.6388272,1,Indian Oil
+petrol_pump,13.0978208,77.5637622,1,Indian Oil
+petrol_pump,12.8811682,77.6452788,1,Indian Oil
+petrol_pump,12.9297245,77.5045873,1,Nayara
+petrol_pump,12.9295595,77.5039161,1,Hindustan Petroleum
+petrol_pump,12.8919069,77.6114356,1,Indian Oil Petrol Pump
+petrol_pump,13.0556846,77.6065451,1,BP
+petrol_pump,13.1043309,77.7447349,1,Unknown
+petrol_pump,13.1378387,77.7445437,1,Unknown
+petrol_pump,13.1369115,77.5685299,1,Bharat Petroleum
+petrol_pump,12.8533014,77.6672068,1,Bharat Petroleum
+petrol_pump,12.8769434,77.6053151,1,Indian Oil
+petrol_pump,13.0568379,77.6483035,1,Unknown
+petrol_pump,12.9342175,77.539285,1,Kalabhyraveshwara Service Station
+petrol_pump,13.0015823,77.6315101,1,Bharat Petroleum
+petrol_pump,13.0272712,77.5434423,1,Hindustan Petroleum
+petrol_pump,13.0260033,77.5443013,1,Indian Oil
+petrol_pump,13.0240773,77.5473789,1,Shell
+petrol_pump,12.9516562,77.4846217,1,Unknown
+petrol_pump,13.0650967,77.5707917,1,Indian Oil
+petrol_pump,13.0123161,77.5537226,1,Shell
+petrol_pump,12.885716,77.555222,1,Unknown
+petrol_pump,12.8855934,77.5548424,1,Unknown
+petrol_pump,12.9576256,77.5518773,1,Shell
+petrol_pump,13.097355,77.591324,1,Indian Oil
+petrol_pump,13.093924,77.5824216,1,Indian Oil
+petrol_pump,13.0598951,77.633003,1,Trugaz
+petrol_pump,13.0739546,77.6519915,1,Shell
+petrol_pump,12.8879159,77.5370528,1,Unknown
+petrol_pump,12.8924509,77.5214403,1,Sri Nageshwar petrol station
+petrol_pump,12.9221575,77.5599758,1,Devegowda Petrol Bunk
+petrol_pump,12.8689102,77.6828733,1,Unknown
+petrol_pump,12.8765263,77.6741472,1,Nayara Petrol Pump
+petrol_pump,13.0000803,77.686935,1,Indian Oil
+petrol_pump,13.1053094,77.6607236,1,Unknown
+petrol_pump,13.0695146,77.5627369,1,Bharat Petroleum
+petrol_pump,12.9531548,77.6403548,1,Unknown
+petrol_pump,13.0057898,77.554405,1,Varadaraja Petrol / Gas Station
+petrol_pump,12.9846074,77.7740604,1,Bharat Petroleum
+petrol_pump,12.9440818,77.6794164,1,Unknown
+petrol_pump,13.0661342,77.5302722,1,Unknown
+petrol_pump,13.0426534,77.5567946,1,Bharat Petroleum
+petrol_pump,13.0431085,77.5567444,1,Indian Oil
+petrol_pump,13.0268662,77.5579948,1,Unknown
+petrol_pump,12.9599079,77.5835708,1,Shell
+petrol_pump,12.9536909,77.542113,1,Unknown
+petrol_pump,13.0323501,77.7305044,1,HP
+petrol_pump,13.0637977,77.5594052,1,Indian Oil
+petrol_pump,12.9733044,77.5814842,1,Indian Oil
+petrol_pump,12.9988699,77.6748143,1,Bharat Petroleum
+petrol_pump,12.9615128,77.5856889,1,Unknown
+petrol_pump,12.9588488,77.5825323,1,Bharat Petroleum
+petrol_pump,13.0403844,77.7412571,1,Shell
+petrol_pump,13.1315114,77.6491899,1,Essar
+petrol_pump,13.0247183,77.585307,1,Hindustan Petroleum
+petrol_pump,13.0516451,77.6305706,1,Shell Petrol Pump
+petrol_pump,13.0443092,77.6266882,1,Unknown
+petrol_pump,12.9561783,77.5768519,1,Unknown
+petrol_pump,13.0917737,77.6361751,1,HP
+petrol_pump,12.9282286,77.7394738,1,HP
+petrol_pump,13.0222409,77.689256,1,Unknown
+petrol_pump,12.8839331,77.5961576,1,Bharat Petroleum
+petrol_pump,12.9917118,77.686655,1,Go Gas
+petrol_pump,12.9223271,77.5600687,1,Unknown
+petrol_pump,12.9368813,77.5848296,1,Mahashakthi Enterprises
+petrol_pump,13.0593562,77.6489698,1,Bharat Petroleum
+petrol_pump,12.9043124,77.5066365,1,Indian Oil
+petrol_pump,12.9042592,77.5075814,1,Bharat Petroleum
+petrol_pump,12.9090263,77.5124855,1,Unknown
+petrol_pump,13.0262815,77.6351164,1,Bharat Petroleum
+petrol_pump,12.9782314,77.6795336,1,HP Petrol Bunk
+petrol_pump,12.9777913,77.6790776,1,Unknown
+petrol_pump,13.0215887,77.6787745,1,Shell
+petrol_pump,13.0384604,77.6596851,1,Indian Oil Petrol Pump
+petrol_pump,13.0323557,77.6600139,1,HP Petrol Pump
+petrol_pump,13.0299353,77.6624162,1,Nayara Essar Petrol Pump
+petrol_pump,13.0875097,77.5922646,1,Essar
+petrol_pump,12.9468921,77.7469574,1,Gail Gas
+petrol_pump,13.0514406,77.4883439,1,HP
+petrol_pump,12.8595388,77.5699665,1,Indian Oil Corporation
+petrol_pump,12.8714215,77.5834596,1,Unknown
+petrol_pump,12.8712521,77.5834651,1,Achyutha Fules - Nayara Petrol
+petrol_pump,12.8541569,77.5762405,1,Unknown
+petrol_pump,12.8608957,77.559172,1,Unknown
+petrol_pump,13.1190734,77.6329461,1,Unknown
+petrol_pump,13.1226834,77.6324227,1,Hindustan Petroleum
+petrol_pump,12.9788943,77.5416146,1,Unknown
+petrol_pump,13.0211878,77.5844051,1,Shell
+petrol_pump,12.9755501,77.548309,1,Indian Oil
+petrol_pump,13.1204531,77.7735633,1,Unknown
+petrol_pump,12.9926017,77.7125712,1,Unknown
+petrol_pump,12.951504,77.4948533,1,Unknown
+petrol_pump,13.1042565,77.6198807,1,Unknown
+petrol_pump,13.0917514,77.6549808,1,Hindustan Petroleum
+petrol_pump,13.0397025,77.6384641,1,Unknown
+petrol_pump,12.9591122,77.555799,1,Indian Oil
+petrol_pump,13.0561317,77.6324405,1,Bharat Petroleum
+petrol_pump,12.8764132,77.528991,1,Unknown
+petrol_pump,13.0553872,77.5071726,1,Indian Oil
+petrol_pump,12.8755356,77.5345151,1,Unknown
+petrol_pump,12.8733652,77.5404062,1,GAIL CNG
+petrol_pump,12.8971346,77.5705733,1,Unknown
+petrol_pump,12.9759236,77.5573789,1,Unknown
+petrol_pump,12.9885207,77.5086958,1,Unknown
+petrol_pump,12.9884579,77.5099068,1,Unknown
+petrol_pump,12.904067,77.7467287,1,Indian Oil
+petrol_pump,12.989969,77.5741628,1,Unknown
+petrol_pump,12.9975361,77.6908899,1,Unknown
+petrol_pump,12.9284892,77.6008072,1,Indian Oil Petrol Bunk
+petrol_pump,12.8601703,77.590256,1,Indian Oil
+petrol_pump,13.0538614,77.7629471,1,Unknown
+petrol_pump,13.1343233,77.484265,1,Unknown
+petrol_pump,13.0149462,77.6280785,1,Shell
+petrol_pump,13.0256981,77.6303283,1,HP Petrol Pump
+petrol_pump,12.8990752,77.6584302,1,Indian Oil
+petrol_pump,13.0128418,77.6428309,1,Matrushree Petrol / Gas Station
+petrol_pump,13.0132839,77.6356805,1,Unknown
+petrol_pump,13.0085366,77.6427566,1,Unknown
+petrol_pump,12.9085275,77.4875244,1,Unknown
+petrol_pump,13.0046832,77.6537517,1,Nayara
+petrol_pump,13.0110872,77.6463117,1,HP Petrol Pump
+petrol_pump,12.9465949,77.7470158,1,Naanjandri Fuel Park
+petrol_pump,13.0029376,77.5536244,1,Go Gas
+petrol_pump,13.0038847,77.6573616,1,Bharat Petroleum Petrol Pump
+petrol_pump,13.1214351,77.6232339,1,Indian Oil
+petrol_pump,12.8835577,77.6428894,1,Shell
+petrol_pump,13.1370284,77.6695673,1,Indian Oil
+petrol_pump,12.8745721,77.542367,1,Nayara - Kanakapura Road
+petrol_pump,12.8743737,77.5421104,1,HP - Sri Rama Outlet
+petrol_pump,13.1229819,77.5211875,1,Unknown
+petrol_pump,13.1110164,77.5276705,1,Unknown
+petrol_pump,13.0525583,77.6753388,1,Unknown
+petrol_pump,13.0908867,77.5367329,1,HP
+petrol_pump,13.0910562,77.53603,1,Nayara
+petrol_pump,13.0847527,77.5532305,1,Hindustan Petroleum
+petrol_pump,13.0849784,77.553489,1,Unknown
+petrol_pump,13.0693933,77.5623976,1,Essay Petroleum
+petrol_pump,13.0222556,77.6081873,1,Unknown
+petrol_pump,13.0185914,77.5919576,1,Unknown
+petrol_pump,13.0301395,77.6079288,1,Unknown
+petrol_pump,12.9889597,77.4972585,1,Unknown
+petrol_pump,12.9436858,77.5388157,1,Nayara
+petrol_pump,13.0124198,77.6666622,1,IBP Petrol Pump
+petrol_pump,12.9918333,77.6147457,1,Hindustan Petroleum
+petrol_pump,13.0154238,77.6664847,1,Bharat Petroleum
+petrol_pump,13.0102981,77.6811167,1,GAIL Gas
+petrol_pump,13.0118087,77.6726236,1,Shell Petrol Bunk
+petrol_pump,13.0208874,77.6852618,1,Unknown
+petrol_pump,13.0183324,77.6780086,1,Bharat Petroleum
+petrol_pump,13.0241648,77.694715,1,Bharat Petroleum
+petrol_pump,13.0103076,77.6820438,1,HP Petrol Bunk
+petrol_pump,12.9835679,77.7705256,1,Unknown
+petrol_pump,13.0098523,77.6439029,1,Unknown
+petrol_pump,12.898837,77.6334802,1,Unknown
+petrol_pump,13.009624,77.4831032,1,Unknown
+petrol_pump,12.9665819,77.5053465,1,Unknown
+petrol_pump,12.9658751,77.5045692,1,Unknown
+petrol_pump,12.9262703,77.7324689,1,Unknown
+petrol_pump,12.968987,77.7448185,1,Unknown
+petrol_pump,13.0512897,77.6873799,1,Unknown
+petrol_pump,12.9511085,77.7453695,1,Indian Auto Gas
+petrol_pump,12.9614142,77.6345753,1,Indian Oil
+petrol_pump,13.0553541,77.6636654,1,Unknown
+petrol_pump,13.0382814,77.5647074,1,Unknown
+petrol_pump,13.0910781,77.5379151,1,Unknown
+petrol_pump,12.8904711,77.7313917,1,Unknown
+petrol_pump,12.8853646,77.6417803,1,Unknown
+petrol_pump,12.8554605,77.6635778,1,Indian Oil
+petrol_pump,12.9274853,77.5894444,1,Advaitha Petrol Bunk
+petrol_pump,12.8632531,77.5911378,1,Unknown
+petrol_pump,13.0376483,77.6755123,1,HPCL KSJ enterprises
+petrol_pump,13.1043409,77.6106994,1,Unknown
+petrol_pump,12.842757,77.6400922,1,Hindustan Petroleum Corporation Limited
+petrol_pump,12.912279,77.5138731,1,Indian Oil
+petrol_pump,12.9324608,77.5161986,1,Total Gaz
+petrol_pump,12.8384402,77.7248718,1,HP
+petrol_pump,13.0977549,77.5622434,1,Unknown
+petrol_pump,13.0142468,77.7098662,1,Unknown
+petrol_pump,12.9179641,77.7534964,1,Unknown
+petrol_pump,13.1321236,77.773873,1,Unknown
+petrol_pump,12.874745,77.5763072,1,Indian Oil
+petrol_pump,13.0222082,77.7142207,1,Unknown
+petrol_pump,12.8965526,77.5710357,1,Indian Oil
+petrol_pump,13.0561549,77.7114976,1,Unknown
+petrol_pump,13.0804116,77.7164671,1,Unknown
+petrol_pump,12.9242678,77.614629,1,Unknown
+petrol_pump,12.8793096,77.5167492,1,Nayara
+petrol_pump,12.94683,77.5326434,1,Unknown
+petrol_pump,12.9443785,77.5294528,1,Unknown
+petrol_pump,12.9441243,77.5295546,1,HP
+petrol_pump,12.9041255,77.5086447,1,Shell
+petrol_pump,13.1390779,77.5818143,1,Unknown
+petrol_pump,12.9944331,77.684516,1,HP
+petrol_pump,12.9139825,77.7153842,1,Unknown
+petrol_pump,13.126302,77.6674984,1,Hindustan Petroleum
+petrol_pump,13.0050281,77.6856327,1,Gail gas CNG station
+petrol_pump,13.0963095,77.6003683,1,Indian Oil
+petrol_pump,13.0968866,77.5990637,1,Unknown
+petrol_pump,13.0074095,77.7440145,1,Unknown
+petrol_pump,13.0263305,77.7214493,1,Bharat Petroleum
+petrol_pump,13.0137032,77.7098896,1,Unknown
+petrol_pump,12.9864598,77.5403962,1,Total gas
+petrol_pump,12.9572151,77.5623554,1,Anjandri Petrol / Gas Station
+petrol_pump,13.1274381,77.6672908,1,Unknown
+petrol_pump,12.9252483,77.6341302,1,Gail Gas
+petrol_pump,13.0290212,77.7602283,1,Unknown
+petrol_pump,13.0330418,77.5990535,1,Bharat Petroleum
+petrol_pump,12.9669407,77.5469039,1,Total Gas
+petrol_pump,12.9643212,77.7530343,1,Unknown
+petrol_pump,12.9034712,77.6044423,1,Unknown
+petrol_pump,13.0659862,77.6414313,1,GAIL's
+petrol_pump,12.9266108,77.6771258,1,Unknown
+petrol_pump,12.9037283,77.6270298,1,Reddy Filling Station
+mall,12.9803877,77.6046163,2,Gem Plaza
+mall,12.942312,77.60802,2,Manokamana Cermanic
+mall,12.9219037,77.6203113,2,Market Square Value Mall
+mall,12.8908667,77.597713,2,South India Shopping Mall
+mall,12.9578822,77.7160787,2,HyperCity
+mall,12.9337996,77.6159147,2,Tibet Mall
+mall,12.9567706,77.7007709,2,KLM Fashion Mall
+mall,12.9565198,77.6976884,2,Brand Factory
+mall,12.9773998,77.5762252,2,Grand Majestic Mall
+mall,12.9216966,77.620318,2,Davanam Sarovar Portico Suites
+mall,12.9734315,77.6112855,2,Star Bazaar
+mall,13.0047715,77.5693819,2,Manyavar Mohey
+mall,13.0006043,77.5694526,2,Kamakshi Silk
+mall,12.9825963,77.6108753,2,Westside
+mall,12.9345856,77.6112435,2,Nexus Koramangala
+mall,12.9723089,77.5959385,2,UB City
+mall,12.9661345,77.7178871,2,Brookfield Mall
+mall,13.0942029,77.5951482,2,The Galleria Mall
+mall,12.9596656,77.7478555,2,Nexus Whitefield
+mall,12.9375355,77.6281117,2,Oasis Centre
+mall,12.9700438,77.6096803,2,Garuda Mall
+mall,12.9143458,77.5994854,2,Gopalan Innovation Mall
+mall,12.9869853,77.7364154,2,Park Square Mall
+mall,12.958635,77.6567676,2,Kemp Fort Mall
+mall,12.9355908,77.5177172,2,Gopalan Arcade Mall
+mall,12.9722407,77.6066085,2,Mota Royal Arcade
+mall,12.9734281,77.6203876,2,One M G Road
+mall,13.0490834,77.5933929,2,Esteem Mall
+mall,12.9162738,77.5923203,2,Mantri Junction
+mall,12.9584995,77.5534667,2,Gopalan Mall
+mall,12.9829196,77.5594515,2,Golden Heights Mall
+mall,12.9123867,77.6006154,2,Commerce @ Mantri
+mall,12.9929432,77.6615107,2,Gopalan Signature Mall
+mall,13.0109648,77.5552202,2,Orion Mall
+mall,12.9934419,77.6640393,2,Gopalan Grand Mall
+mall,12.9752286,77.6055684,2,Shrungar Shopping Center
+mall,13.0122259,77.5539301,2,@home
+mall,12.9219021,77.620384,2,Market Square Mall
+mall,12.9077073,77.6011533,2,Nexus Vega City
+mall,12.973548,77.5516898,2,GT World Mall
+mall,13.0246252,77.5487524,2,Vaishnavi Sapphire Centre
+mall,12.9656763,77.5616212,2,ETA Namma Mall
+mall,12.9943024,77.5843483,2,RainTree
+mall,13.0284013,77.5723448,2,Max
+mall,12.9734475,77.6217468,2,Lido Mall
+mall,12.9158099,77.6103436,2,ND Fusion Mall
+mall,13.0012762,77.6326046,2,Orion East Mall
+mall,12.9915771,77.5705772,2,Mantri Square
+mall,12.9262202,77.6753775,2,Reliance Centro
+mall,12.9123841,77.6005095,2,Unknown
+mall,12.8856584,77.5526591,2,Mantri Mall Kanakpura Road
+mall,13.0708864,77.5904608,2,Phoenix Mall of Asia
+mall,12.9895302,77.7280737,2,Nexus Shantinekatan
+mall,12.8758758,77.5957621,2,Royal Meenakshi Mall
+mall,12.9403168,77.5250986,2,Unknown
+mall,13.0975628,77.5838593,2,Centro Mall
+mall,12.8881564,77.5629073,2,Prestige Forum Falcon City Mall
+mall,13.0553259,77.7637627,2,Orion Uptown Mall
+mall,12.9752362,77.602208,2,1 Sobha
+mall,12.9731949,77.6069935,2,5th Avenue Mall
+mall,12.8419713,77.6768224,2,M5 ECity Mall
+mall,12.9727109,77.6065571,2,Forum Rex Walk
+mall,12.9694764,77.7496225,2,JK Mall
+mall,12.9708539,77.6073681,2,Eva Mall
+mall,12.8951331,77.6571353,2,PNR Felicity
+mall,12.9289418,77.5913637,2,Garuda Swagath Mall
+mall,13.0834421,77.6436248,2,Bhartiya Mall
+mall,12.8916568,77.5977538,2,Centro Mall
+mall,13.0300681,77.6621769,2,Reliance Smartpoint
+mall,12.9094652,77.5130242,2,YGR Signature Mall
+mall,12.8746351,77.761431,2,Confident Square Mall
+mall,12.979772,77.6069575,2,Safina Plaza
+mall,12.996344,77.6953449,2,VR Bengaluru
+mall,12.9969747,77.6964687,2,Phoenix Market City
+hotel,12.9212938,77.6635656,2.5,Gangothri Residency
+hotel,12.9214046,77.6639051,2.5,Ringview Residency
+hotel,12.9762752,77.5767096,2.5,Hotel Hindustan
+hotel,12.9769025,77.5763491,2.5,Hotel Anand Regency
+hotel,12.9932258,77.5717309,2.5,Sri Krishna Lodge
+hotel,12.9822391,77.594459,2.5,The Capitol
+hotel,12.980445,77.604525,2.5,The Infantry Hotel
+hotel,12.980921,77.576491,2.5,Hotel Maurya
+hotel,12.989096,77.572253,2.5,Hotel Swathi
+hotel,12.9850452,77.579248,2.5,Nalapad's Hotel Bangalore International
+hotel,12.9727609,77.5701982,2.5,Sudha Lodge
+hotel,12.9717886,77.5705791,2.5,Radha Krishna Delux Lodge
+hotel,12.974344,77.5712299,2.5,Hotel Mahaveer
+hotel,12.944337,77.620028,2.5,Hotel Ganga Sagar
+hotel,12.971672,77.7175701,2.5,MGM Mark
+hotel,12.967339,77.5427777,2.5,CYCD
+hotel,12.9353574,77.6293981,2.5,Maple's
+hotel,12.9505253,77.6992384,2.5,Hotel Verdisso Suites
+hotel,12.984215,77.6005578,2.5,Hotel Ramada
+hotel,12.980883,77.575992,2.5,Fortune Park JP Celestial Hotel
+hotel,12.9342871,77.6161496,2.5,Terminus
+hotel,12.9335142,77.6151725,2.5,Blue Petal Business Hotel
+hotel,12.9671321,77.6822005,2.5,Century
+hotel,12.9372193,77.619574,2.5,4 Seasons Suites
+hotel,12.9363256,77.6222355,2.5,Casa De Bengaluru
+hotel,12.9262515,77.6168174,2.5,Royal Comforts
+hotel,12.9409092,77.6278297,2.5,Unknown
+hotel,12.938785,77.6300973,2.5,Shilton Royale
+hotel,12.9383855,77.6310907,2.5,CHef Inn Residency
+hotel,12.9264034,77.5858296,2.5,Pai Vijay
+hotel,12.9330194,77.6105953,2.5,Inn
+hotel,12.9353977,77.6090855,2.5,Libra
+hotel,12.9478373,77.5970782,2.5,Hotel Mayflower
+hotel,12.8452479,77.6653173,2.5,Lords Plaza
+hotel,12.9780729,77.579383,2.5,Golden Residency
+hotel,12.9775086,77.5793777,2.5,Hotel Kanthi Comforts
+hotel,12.9656255,77.5895554,2.5,Hotel Geo
+hotel,12.9604081,77.5709546,2.5,Prakash Cafe & Lodge
+hotel,12.9684323,77.5964096,2.5,Villa Lavelle
+hotel,12.9717723,77.5729725,2.5,Ramakrishna Lodge
+hotel,12.9560897,77.6055497,2.5,Confident Propos
+hotel,12.9066302,77.592944,2.5,Emilion HHI Select
+hotel,12.9813835,77.5753478,2.5,Hotel Tourist
+hotel,12.9750295,77.5703109,2.5,Hotel City Centaur International
+hotel,12.9744293,77.5706029,2.5,Sri Krishna Lodge
+hotel,12.9738994,77.5706296,2.5,Sri Thirumala Lodge
+hotel,12.975607,77.5751762,2.5,Shree Lodge
+hotel,12.9894357,77.5729477,2.5,Hotel Samrat Residency
+hotel,12.979285,77.5748279,2.5,JP Cordial
+hotel,12.9789865,77.574935,2.5,Rajaprakash
+hotel,12.9805241,77.5750066,2.5,Ksheera Sagar
+hotel,12.979643,77.5751455,2.5,Hotel Kapila
+hotel,12.9306091,77.5853075,2.5,The Royal Comfort
+hotel,12.988584,77.5474906,2.5,Rekha Residency
+hotel,12.9857195,77.5520611,2.5,Shivas
+hotel,12.9870577,77.572403,2.5,Hotel Blue Diamond
+hotel,12.9881972,77.5494003,2.5,Suvali
+hotel,12.9959438,77.5548935,2.5,Cafe Coffee Day
+hotel,12.9917517,77.5576615,2.5,Mallika Residency
+hotel,12.987225,77.5397658,2.5,Kashyap Lodge
+hotel,12.9633735,77.5898343,2.5,Hotel Vintage Residency
+hotel,13.0200701,77.5544961,2.5,Hotel Grand Bee
+hotel,12.9796492,77.6070313,2.5,Hotel Safina
+hotel,12.9786599,77.5740904,2.5,Rajath Lodge
+hotel,12.9772171,77.5766278,2.5,Sajjan Lodge
+hotel,12.9290137,77.6276776,2.5,Grand Mercure
+hotel,12.9937001,77.571322,2.5,The Basil
+hotel,12.9621219,77.6492356,2.5,Royal Shades
+hotel,12.9797725,77.5747917,2.5,Sandhya Lodge
+hotel,12.9770921,77.5795669,2.5,Hotel Grand Inn
+hotel,13.0209593,77.5844241,2.5,Hotel Check Inn
+hotel,12.8900044,77.6398044,2.5,Ekaa
+hotel,13.0388864,77.6249175,2.5,Hotel Raj Elegance
+hotel,13.0364837,77.5895892,2.5,The Royal Senate
+hotel,12.8831063,77.7501677,2.5,Planet Earth
+hotel,12.9801755,77.6049823,2.5,The Monarch Luxor Hotel
+hotel,13.0174207,77.5916073,2.5,Coral Tree by Goldfinch
+hotel,13.0108784,77.5788998,2.5,Chevron Orchards Hotel
+hotel,12.9731115,77.5701532,2.5,Signature Inn
+hotel,12.9531464,77.652966,2.5,Status
+hotel,12.9783904,77.6373978,2.5,Shalimar
+hotel,12.9787061,77.6369437,2.5,The Himalayan Inn
+hotel,12.9830426,77.6401968,2.5,Regenta Inn
+hotel,12.9256581,77.6006309,2.5,Swathi hotel
+hotel,12.9102961,77.6063748,2.5,Aahar Bhavan - Veg Hotel
+hotel,12.9786795,77.6955571,2.5,Magic Inn
+hotel,12.9497498,77.6991506,2.5,Golden Pearl
+hotel,12.9296589,77.6851578,2.5,The Grand Adigas Residency
+hotel,12.9344183,77.626046,2.5,Mango Hotels
+hotel,12.979241,77.637434,2.5,City Centre Residency
+hotel,12.9474456,77.5987375,2.5,Sahana hotel
+hotel,12.962198,77.6419389,2.5,Nandhana Hometel
+hotel,12.9666575,77.6412198,2.5,Bloom Hotel
+hotel,12.9759033,77.6022279,2.5,Sri Lakshmi Comforts
+hotel,12.9282162,77.6825344,2.5,Courtyard
+hotel,12.9278298,77.68268,2.5,Fairfield
+hotel,12.9571314,77.701877,2.5,Bhagini Deluxe Lodge
+hotel,12.9705826,77.6458859,2.5,Upar Hotels
+hotel,12.9861681,77.7449117,2.5,Bhagini Residency
+hotel,12.9707119,77.6072217,2.5,Iris Business Hotel
+hotel,12.9790044,77.6421218,2.5,Unknown
+hotel,12.9691128,77.6415527,2.5,Bloomrooms
+hotel,12.917697,77.6154889,2.5,Unknown
+hotel,12.9604413,77.7181435,2.5,En Amma
+hotel,12.9333545,77.5350149,2.5,PES South Indian Mess
+hotel,12.9671986,77.6066888,2.5,Stylotel
+hotel,12.9229815,77.5894385,2.5,Pratik Comforts
+hotel,13.0109804,77.5068574,2.5,Shri Rama Hotel
+hotel,12.9095608,77.6043781,2.5,Sri Sai Bala Ji PG
+hotel,13.0004913,77.5417024,2.5,Home
+hotel,13.021693,77.6404039,2.5,Barbecue Nation
+hotel,12.9641301,77.570664,2.5,Vardhaman Paradise
+hotel,12.9570959,77.7020257,2.5,Unknown
+hotel,13.0243972,77.6032595,2.5,Sree Guru Cool Joint
+hotel,13.0272339,77.60426,2.5,A1 Ambur Biryani
+hotel,13.0249623,77.6034912,2.5,Sri Manjunatha Fast Food Hotel
+hotel,13.0270211,77.6041517,2.5,Sri Kampli Someshwara Tiffin Center
+hotel,12.9233121,77.664167,2.5,Bavitha
+hotel,12.9466623,77.6476746,2.5,Dass Suites
+hotel,12.9464234,77.6478264,2.5,Synergy Suites
+hotel,12.946457,77.6492864,2.5,Gardenia Suites Golf Links
+hotel,12.9450094,77.6492092,2.5,Shri Balaji Andra Style Mess
+hotel,12.9489087,77.6872536,2.5,Vinayaka Hotel
+hotel,12.9213347,77.66384,2.5,Hotel Enzo International
+hotel,12.9217521,77.6638083,2.5,Hotel IRA Residency
+hotel,12.9457742,77.6491278,2.5,Shri Nidhi Sagar
+hotel,13.0230447,77.6473827,2.5,Hotel Little Imperial
+hotel,12.9062397,77.578546,2.5,Aurick Boutique
+hotel,12.9462306,77.6738079,2.5,Nirvana
+hotel,12.9725982,77.5794076,2.5,TAP Paradise Hotel
+hotel,12.9529166,77.5450511,2.5,Rosewood International Hotel
+hotel,12.9316906,77.5555034,2.5,Sankethi's
+hotel,12.9070384,77.6957798,2.5,Sambrahma
+hotel,12.9701227,77.5794148,2.5,Hotel Tap Comfort
+hotel,12.9730281,77.5692897,2.5,UG Regal - Budget Hotel
+hotel,12.9735897,77.5767585,2.5,Unknown
+hotel,12.9087932,77.5984614,2.5,Mass Residency
+hotel,13.0105439,77.5504232,2.5,Hotel Vande Matharam
+hotel,12.9805787,77.571467,2.5,Sheetal Residency
+hotel,12.9456273,77.5952951,2.5,Hotel Empark
+hotel,12.984291,77.5543158,2.5,Canara Coffee
+hotel,12.9798988,77.5759082,2.5,Suntruppati
+hotel,12.9391683,77.5715609,2.5,Anand Sagar
+hotel,12.9690356,77.6066442,2.5,Fab Hotel Legacy Brigade Road
+hotel,12.9777748,77.574757,2.5,Mayur Comfor Lodge
+hotel,12.978436,77.5753365,2.5,Royal Regency Lodge
+hotel,12.9776892,77.5747972,2.5,Pushpamala lodge
+hotel,12.9782866,77.5753838,2.5,Royal Lodge
+hotel,12.9777193,77.5748871,2.5,Manjusri Paradise Lodge
+hotel,12.9321765,77.623039,2.5,Anjappar Chettinad Restuarant Koramangala
+hotel,12.9736357,77.6218548,2.5,Hyatt
+hotel,12.9038932,77.6415555,2.5,Unknown
+hotel,12.9454272,77.5950799,2.5,Hotel Dreams inn
+hotel,12.9455189,77.5951301,2.5,Dreams inn
+hotel,12.949295,77.5931079,2.5,AMM Residency
+hotel,12.9711154,77.6058262,2.5,Hotel Imperial
+hotel,12.9359094,77.5927065,2.5,Limra
+hotel,12.9352918,77.6091731,2.5,Blue bells
+hotel,12.9470874,77.5941987,2.5,Supreme
+hotel,13.1212373,77.6097115,2.5,Golden Amulya
+hotel,12.980358,77.5737339,2.5,Rajmahal Boarding and Lodge
+hotel,12.9804313,77.5765457,2.5,The Rialto Hotel
+hotel,12.975729,77.5992456,2.5,The Chancery Hotel
+hotel,12.9744204,77.5709781,2.5,Hotel Adarsha Palace
+hotel,13.0108921,77.5505079,2.5,Minla Hotel
+hotel,12.9923067,77.5944585,2.5,Ujval
+hotel,12.9948258,77.5970478,2.5,Jayamahal Palace
+hotel,13.0236855,77.6372866,2.5,Woodland
+hotel,12.9698386,77.6066965,2.5,Ocea International
+hotel,13.0419285,77.6132521,2.5,Country Inn & Suites by Carlson
+hotel,12.9272923,77.6161593,2.5,Comfy
+hotel,12.9669657,77.6068192,2.5,Hotel Vellara
+hotel,13.0426855,77.6095271,2.5,Courtyard
+hotel,12.9803587,77.5717968,2.5,Hotel Kaveri
+hotel,12.8390795,77.6220571,2.5,Unknown
+hotel,12.9773082,77.5750587,2.5,Grand Suites
+hotel,13.0491546,77.5930152,2.5,Cafe Coffee Day
+hotel,13.0488736,77.6120246,2.5,Athidi
+hotel,12.9599897,77.5565132,2.5,Benhur Pride
+hotel,12.8476527,77.6715305,2.5,Seasons
+hotel,13.0552034,77.6020719,2.5,Akshaya
+hotel,13.0755912,77.602687,2.5,Clara Prime Inn
+hotel,13.0725494,77.6026735,2.5,Treebo Hoppers stop
+hotel,13.028156,77.558854,2.5,Comfort Inn & Suites
+hotel,13.0848194,77.6344471,2.5,Rio Restaurant
+hotel,12.9878823,77.5558068,2.5,Vajra Heritage
+hotel,12.9243237,77.6743323,2.5,Melody Inn
+hotel,12.9742409,77.575254,2.5,Hotel Mahalakshmi
+hotel,12.997393,77.5500353,2.5,MySpace Express Balaji Residency
+hotel,12.9899117,77.5532573,2.5,Sri Devi Lodge
+hotel,12.9899326,77.5527397,2.5,Aryan Residency
+hotel,12.9259979,77.6708823,2.5,Treebo Hotel Worldtree Bellandur
+hotel,12.9716633,77.5726981,2.5,Lalithamahal
+hotel,12.9648679,77.7016525,2.5,Fab Hotel
+hotel,12.9711847,77.5763869,2.5,Madhu Lodge
+hotel,12.9340481,77.5344673,2.5,Celestial Heights
+hotel,12.9735807,77.5794876,2.5,Hotel Bangalore Gate
+hotel,12.9727609,77.6073763,2.5,Monarch Hotel
+hotel,12.949846,77.715858,2.5,OYO 13120 Ambrosia
+hotel,13.0251512,77.548137,2.5,Holiday Inn Express
+hotel,12.9764637,77.6196256,2.5,Radisson City Center
+hotel,12.9372838,77.6196276,2.5,Unknown
+hotel,13.0695006,77.5039562,2.5,Sree Ganesha Juice And Ice Cream
+hotel,13.0076876,77.6836853,2.5,New Brindavan Hotel
+hotel,12.98714,77.5494285,2.5,Naidu Palace
+hotel,12.921283,77.5932645,2.5,Kalpavriksha Upahar
+hotel,13.0279389,77.5617921,2.5,Galaxy Suites
+hotel,13.0191154,77.5851502,2.5,Four Seasons Hotel
+hotel,12.9883253,77.5497463,2.5,H K Residency
+hotel,12.9902802,77.5504638,2.5,Navya Residency
+hotel,12.996571,77.5508266,2.5,The Grand Coral
+hotel,12.9899013,77.5533586,2.5,Mathrushree Residency
+hotel,12.9235417,77.6185557,2.5,Olivia Inn & Suites
+hotel,12.9924782,77.5984472,2.5,Kengiri
+hotel,12.983268,77.5941621,2.5,The Chevron
+hotel,12.9778932,77.6444166,2.5,Woke
+hotel,13.0284821,77.5199844,2.5,SUPREME HOTEL
+hotel,12.9899167,77.5735756,2.5,Ayra Hotel
+hotel,13.0219436,77.5536336,2.5,Vijayalakshmi Residency
+hotel,12.9361688,77.631568,2.5,Halcyon Hotel Residences
+hotel,12.9784414,77.5762946,2.5,HLV Grand Inn
+hotel,12.9723309,77.604513,2.5,Oxford Inn
+hotel,12.9809954,77.5751603,2.5,Hotel Citadel
+hotel,12.9134318,77.6054041,2.5,OYO Townhouse 264
+hotel,12.9705614,77.6167908,2.5,Laika Boutique Stay
+hotel,12.971156,77.6171355,2.5,Golden Lotus
+hotel,12.9599329,77.5933074,2.5,Octave Hotel
+hotel,13.0292753,77.5591419,2.5,Hotel Sree Nandanam Residency
+hotel,13.0534758,77.5753819,2.5,Udupi upahar
+hotel,13.0494386,77.5757447,2.5,Unknown
+hotel,12.9854725,77.6070269,2.5,Hotel Ashoka
+hotel,12.9229069,77.6513844,2.5,Astra Hotels and Suits
+hotel,12.943185,77.6213595,2.5,Regenta Inn Grand
+hotel,12.9836966,77.5493494,2.5,Hotel Madhu
+hotel,12.9747329,77.6971865,2.5,The Liverpool Hotels
+hotel,12.9820167,77.605782,2.5,Kamat’s Hotel Mayura
+hotel,13.040766,77.6195055,2.5,Ibis
+hotel,12.9169645,77.5791794,2.5,Le Foliage
+hotel,12.9793312,77.6291742,2.5,Palmtree
+hotel,12.9756154,77.6173406,2.5,Shilton
+hotel,12.9824346,77.7483784,2.5,Sri Udupi Parkk
+hotel,12.9870772,77.5785393,2.5,Pranam Comforts
+hotel,12.9610375,77.7137754,2.5,DBrooks Elite Business Hotel
+hotel,12.9602164,77.7218029,2.5,Super Hotel O
+hotel,12.9158426,77.6456594,2.5,Nestaway
+hotel,12.9711587,77.6006922,2.5,Nahar Heritage Hotel
+hotel,12.9705889,77.6006124,2.5,Treebo Hotel Edge
+hotel,13.0020778,77.66305,2.5,Hotel Grand Seasons
+hotel,12.9794641,77.6951644,2.5,Living Hub
+hotel,13.017598,77.6524891,2.5,Udupi Krishna Grand
+hotel,12.9550861,77.6506473,2.5,Pearl suites
+hotel,12.9648241,77.5985719,2.5,Melange Astris
+hotel,13.1048911,77.6003651,2.5,Narayana Comforts
+hotel,13.1045642,77.6001407,2.5,Shreyas Residency
+hotel,12.9776602,77.5767332,2.5,Unknown
+hotel,12.9566329,77.7100815,2.5,Hotel Runway Suites
+hotel,12.9668206,77.6412282,2.5,Bloom Hotel
+hotel,12.9690174,77.6361697,2.5,FabHotels
+hotel,13.0586077,77.5927247,2.5,Attide biz
+hotel,12.9773169,77.7250751,2.5,Astra Hotels
+hotel,12.9441289,77.5680437,2.5,Treebo Akshaya Bull Temple
+hotel,12.9709,77.7070266,2.5,Purple Inn
+hotel,13.0551394,77.7636306,2.5,Holiday Inn
+hotel,12.9857927,77.5789851,2.5,Janardhan
+hotel,12.9184255,77.5810973,2.5,Olive Jayanagar
+hotel,12.9130408,77.605488,2.5,FabExpress Oriental Suites
+hotel,12.9521048,77.5945294,2.5,Poornima Regency
+hotel,12.9479778,77.5946052,2.5,Temple Tree Hotel
+hotel,12.9447473,77.5968662,2.5,Bilton
+hotel,12.9565763,77.5922448,2.5,Hotel Sarbhawal Residency
+hotel,12.9564473,77.5913961,2.5,Dreamz Lodge
+hotel,12.9165478,77.5979007,2.5,Hotel Raja Galaxy
+hotel,12.9774811,77.5769604,2.5,Vovo premier hotel
+hotel,12.9178452,77.6074222,2.5,Patna Wale
+hotel,12.9667247,77.5947078,2.5,Olive Richmond Circle
+hotel,12.9739463,77.5700295,2.5,Tiba Hotel
+hotel,12.9703425,77.6145858,2.5,Brunton Heights
+hotel,12.9107771,77.5993001,2.5,Fountain Tree
+hotel,12.9083896,77.6010602,2.5,Greenpark Bengaluru
+hotel,13.0352071,77.6313287,2.5,Unknown
+hotel,12.9644349,77.5982536,2.5,Adarsh Hamilton
+hotel,12.9803053,77.5753071,2.5,Hotel Fortuner Palace
+hotel,12.9795168,77.5748096,2.5,Sandhya Residency
+hotel,12.9781312,77.5751887,2.5,Hotel Nest Rooms
+hotel,12.977964,77.5752147,2.5,Hotel Adora
+hotel,12.9783733,77.576356,2.5,Embassy Hotel
+hotel,12.9773382,77.5754024,2.5,Hotel Pawansree
+hotel,12.977412,77.6271225,2.5,Tierra Woods A Business Hotel
+hotel,12.987215,77.5745717,2.5,Modern Hotel
+hotel,12.9886039,77.5743879,2.5,Kalyan Lodge
+hotel,13.022564,77.552725,2.5,Sri Ganesh Lodge
+hotel,13.022011,77.553635,2.5,Bangalore Residency
+hotel,13.0220727,77.5536787,2.5,Sky Inns
+hotel,13.054191,77.5084393,2.5,The Ventura Grand Hotel
+hotel,12.9259511,77.6770405,2.5,Velvette
+hotel,12.925273,77.6345868,2.5,Hypons Hotel
+hotel,13.0446641,77.6264389,2.5,Howard Johnson By Wyndham
+hotel,12.9995618,77.6766252,2.5,New Light Suites
+hotel,13.0591987,77.5925501,2.5,Oyo Sri Sai Guru Comforts
+hotel,12.8908703,77.6060528,2.5,Sri Sai Suites
+hotel,12.9164559,77.5914845,2.5,Woody's
+hotel,12.9172625,77.6089283,2.5,Olive by Embassy Group
+hotel,12.9611744,77.7134635,2.5,Reside Inn
+hotel,12.9642942,77.7150513,2.5,Wonder Stay Suite Rooms
+hotel,12.9623355,77.7165652,2.5,blrpods.com
+hotel,13.0970123,77.5880556,2.5,Prakyathi
+hotel,12.9295732,77.631965,2.5,Ananya Comforts
+hotel,12.9568542,77.7091393,2.5,Bel Air
+hotel,12.9207294,77.620094,2.5,Eyrie Nest
+hotel,12.9443025,77.5973,2.5,Shanthi Rooms
+hotel,12.9446454,77.5967137,2.5,The Porch Inn
+hotel,12.9644249,77.7157354,2.5,Royal Keys
+hotel,12.9671589,77.6106158,2.5,"Bloom Hotel, Richmond Road"
+hotel,12.9150972,77.6001882,2.5,Hotel Aaccord
+hotel,12.9152214,77.6001762,2.5,Grand Country Stays
+hotel,12.9738833,77.6066721,2.5,Hotel Purple Brigade
+hotel,12.9736749,77.6067694,2.5,Olive by Embassy Group
+hotel,12.9598265,77.6023759,2.5,Dream Hotel
+hotel,13.0109453,77.5789338,2.5,Hyde Park
+hotel,13.0982579,77.5693033,2.5,Silver Key Hotel Rooms
+hotel,12.9085871,77.7270285,2.5,Paradise Living
+hotel,12.9258725,77.6695619,2.5,Tranquil Inn
+hotel,12.9815416,77.6048201,2.5,Hotel AJ International
+hotel,12.9249913,77.4846808,2.5,Hotel Gowdru Mane
+hotel,12.8907385,77.6099645,2.5,Hotel Gwen by Rivido
+hotel,12.959972,77.7170562,2.5,Hotel Highsky
+hotel,12.9771116,77.5764106,2.5,Brindavana Grand Hotel
+hotel,13.0240406,77.5570922,2.5,Hotel Banyan Tree
+hotel,12.9803129,77.5751582,2.5,Hotel Dwaraka
+hotel,12.9321442,77.6331345,2.5,The Bouvice
+hotel,12.9137636,77.5995367,2.5,The Anantaar
+hotel,12.9843483,77.7498546,2.5,Hotel Royal Blooms
+hotel,12.9448582,77.5951023,2.5,Parkwood Inn
+hotel,12.9401156,77.5839124,2.5,Stopover
+hotel,12.951596,77.7156715,2.5,Ashiana
+hotel,12.9331601,77.5833173,2.5,The Resident
+hotel,12.9348121,77.6159774,2.5,Santrina Hotels
+hotel,13.0408034,77.6200335,2.5,Grand Continent
+hotel,12.9297066,77.6851669,2.5,Shreyas Inn
+hotel,12.9604673,77.6445251,2.5,Myspace Express GD Inn
+hotel,12.9586151,77.7156175,2.5,Red Moon Suites
+hotel,12.9585048,77.7155365,2.5,The Dritan
+hotel,12.9753386,77.6050408,2.5,Ivory Tower
+hotel,12.9769092,77.6539039,2.5,UPAR Hotels Near Bagmane Tech Park - Indiranagar
+hotel,13.0326546,77.610977,2.5,Olive Life RT Nagar by Embassy Group
+hotel,12.9593175,77.650493,2.5,Rosalba
+hotel,12.9736941,77.576158,2.5,Shiva Ganga Comforts
+hotel,12.9267142,77.6390034,2.5,Open Hotel by Olive - Meet Me At
+hotel,12.970713,77.6088063,2.5,Olive Hotel
+hotel,12.9610224,77.6485355,2.5,Leela Palace
+hotel,13.0285247,77.635622,2.5,Crown Plaza Regency
+hotel,12.9922954,77.5818863,2.5,The Lalit Ashok
+hotel,12.9857849,77.5848345,2.5,Taj West End
+hotel,12.9824783,77.5945234,2.5,Hotel Paraag
+hotel,12.9671208,77.5957228,2.5,ITC Gardenia Royal
+hotel,12.9723892,77.5949303,2.5,JW Marriott
+hotel,12.9633777,77.7169385,2.5,Transtree Corporate Guest Houses
+hotel,12.9775672,77.7131084,2.5,Unknown
+hotel,12.9892353,77.7301089,2.5,Sheraton Grand Whitefield
+hotel,12.9773071,77.7151358,2.5,Fortune Select Trinity
+hotel,12.9775091,77.7133863,2.5,Radha Hometel
+hotel,12.9723046,77.717856,2.5,Lemon Tree Hotel
+hotel,12.9591432,77.6486531,2.5,Sterlings Mac
+hotel,12.9727137,77.5998856,2.5,Airlines
+hotel,12.9557822,77.7344348,2.5,Holiday Inn & Suites Hotel
+hotel,12.9558494,77.7343954,2.5,Miraya
+hotel,12.9794405,77.7520194,2.5,Four Points by Sheraton
+hotel,12.9781951,77.5799401,2.5,Kaniṣka Gryāṇḍ
+hotel,12.9654947,77.5899699,2.5,Hotel V T Paradise
+hotel,12.9575191,77.7090707,2.5,Treebo Cartier Hotel
+hotel,12.9753389,77.6206686,2.5,Conrad Bengaluru
+hotel,12.9967652,77.5973407,2.5,Jayamahal Palace Hotel
+hotel,12.973497,77.6182729,2.5,Oberoi Hotel
+hotel,12.9732276,77.6196562,2.5,Taj MG Road
+hotel,12.9665281,77.5962869,2.5,Lavelle Mansion
+hotel,12.9787594,77.6945877,2.5,Sarovar Portico
+hotel,12.9794388,77.7100195,2.5,Keys Select Hotel
+hotel,12.9769073,77.7185992,2.5,Ginger
+hotel,12.9775248,77.5759265,2.5,Ramakrishna Lodge
+hotel,13.0420334,77.5547246,2.5,Gokulam Grand Hotel & Spa
+hotel,12.9943143,77.5859516,2.5,ITC Windsor
+hotel,12.9422791,77.6974473,2.5,Octave
+hotel,12.9800014,77.586191,2.5,"Radisson Blu Hotel, Atria"
+hotel,12.967088,77.5959765,2.5,ITC Royal Gardenia Hotel
+hotel,12.9461479,77.5734306,2.5,Jain Bhavan
+hotel,12.9574304,77.6442133,2.5,Hotel Royal Orchid
+hotel,12.9787842,77.6975346,2.5,Midtown Suites
+hotel,12.9647995,77.7015957,2.5,Lotus Park Business Hotel
+hotel,12.9490794,77.6997115,2.5,Nandhana Hotels
+hotel,12.916851,77.6726242,2.5,Octave Hotel
+hotel,12.8368165,77.6616072,2.5,Radha Regent
+hotel,12.8502543,77.6603143,2.5,The Oterra Bengaluru Electronics City
+hotel,12.8797375,77.6467821,2.5,Keys
+hotel,13.0145056,77.5542784,2.5,Parijata Grand
+hotel,13.0586734,77.5861118,2.5,Chairman's Resort
+hotel,12.9867004,77.7376125,2.5,Vivanta by Taj
+hotel,12.9793335,77.7512766,2.5,Melody Inn Service Apartments
+hotel,12.8401733,77.6595099,2.5,Golden Tulip
+hotel,12.9074106,77.5985357,2.5,Shravanthi Sarovar Portico
+hotel,12.967194,77.5937715,2.5,Ibis
+hotel,12.982791,77.5962731,2.5,Mastiff Hotel
+hotel,12.9836915,77.5934606,2.5,Ashraya International
+hotel,12.9750346,77.6031873,2.5,High Gates
+hotel,12.969222,77.6001631,2.5,St. Mark's Hotel
+hotel,12.9786736,77.6369749,2.5,Himalayan Inn
+hotel,12.9792646,77.6377002,2.5,Octave Fairmont Suites
+hotel,12.9658035,77.5986722,2.5,Chancery Pavilion
+hotel,12.9677136,77.6018332,2.5,The Ritz-Carlton
+hotel,12.9711846,77.6007124,2.5,Nahar Heritage Hotel
+hotel,12.9689715,77.6143299,2.5,Welcomhotel
+hotel,12.9708303,77.6471428,2.5,S Comfort Inn
+hotel,12.9431377,77.5848848,2.5,Brigade Homestead
+hotel,12.9394567,77.6286611,2.5,Pleasant Boulevard
+hotel,12.9403822,77.62697,2.5,Oyo Olivia Comforts
+hotel,12.9796317,77.6038432,2.5,Athaśrī Infantry
+hotel,12.9523786,77.6398512,2.5,Ginger Bangalore IRR
+hotel,12.9688363,77.7353882,2.5,Unknown
+hotel,13.0243802,77.6420515,2.5,The Pommels
+hotel,13.0236528,77.6399415,2.5,Regal Suites
+hotel,13.0271615,77.5438622,2.5,The Fern Residency - Yeshwanthpur
+hotel,13.0233133,77.5627482,2.5,Krishinton Suites
+hotel,13.0179258,77.652116,2.5,Global Wings
+hotel,12.9860345,77.5953782,2.5,Citrus Cunningham
+hotel,12.9550277,77.7158771,2.5,Icon Grand by Bhagini
+hotel,12.9896159,77.7131918,2.5,Bhagini Residency
+hotel,12.984042,77.5779534,2.5,Hotel Race View
+hotel,12.9645649,77.7164868,2.5,De Venetian
+hotel,12.9239862,77.6544939,2.5,Greens Bar and Restaurant
+hotel,12.9741176,77.5755788,2.5,Gokul Majestic Lodging
+hotel,12.9770765,77.5786184,2.5,UT Elegance
+hotel,12.979031,77.5640807,2.5,West Fort Hotel
+hotel,12.9788129,77.5776096,2.5,The Sandeś Kingston
+hotel,12.9370136,77.6951215,2.5,Aloft Bengaluru Cessna Business Park
+hotel,12.9371986,77.5806228,2.5,Unknown
+hotel,12.9179289,77.6241187,2.5,FabHotel 4 Seasons
+hotel,12.9854666,77.5792748,2.5,Goldfinch Hotel
+hotel,12.9006544,77.6320397,2.5,Ibis Hotel
+hotel,12.9652521,77.601996,2.5,The Elanza Hotel
+hotel,12.9560092,77.7430419,2.5,Transtree Hotel
+hotel,12.839372,77.6592546,2.5,Svenska
+hotel,12.9847491,77.5783723,2.5,Vividus Hotel Bangalore
+hotel,12.9613564,77.7012646,2.5,Comet
+hotel,12.9645571,77.594912,2.5,Woodlands
+hotel,13.0863776,77.5919964,2.5,Royal Orchid Hotel and Convention Centre
+hotel,12.9750159,77.6153372,2.5,Royal Orchid Central
+hotel,12.9728066,77.6079065,2.5,Park Residency
+hotel,13.0668624,77.5028071,2.5,Unknown
+hotel,12.9662016,77.5948997,2.5,Ramanashree Richmond
+hotel,12.9749118,77.6387735,2.5,The Grand Serenity Apartment Hotel
+hotel,12.9818421,77.7091201,2.5,Fairfield by Marriott
+hotel,12.9760677,77.7177482,2.5,The Sulit Whitefield
+hotel,12.9872568,77.6168799,2.5,Lemon Tree Premier
+hotel,12.992001,77.5881897,2.5,Hotel Shangri-La
+hotel,12.9232591,77.6716416,2.5,Citrus Classic
+hotel,12.9795381,77.7281346,2.5,The Marriot Hotel
+hotel,12.9192452,77.66509,2.5,DoubleTree Suites by Hilton
+hotel,12.9820572,77.6456726,2.5,The Olive Hotel
+hotel,12.9537716,77.6394318,2.5,The Paul
+hotel,12.9618167,77.716394,2.5,Sri Udupi Park
+hotel,12.9707907,77.7129319,2.5,Bloom
+hotel,12.9874018,77.7332053,2.5,The DEN
+hotel,12.9555004,77.7143827,2.5,Bhagini Ikon
+hotel,12.9706331,77.6072661,2.5,Iris Business Hotel
+hotel,13.0710053,77.5041226,2.5,Gate of Karma
+hotel,12.9799903,77.5784707,2.5,Holiday Inn Express & Suites
+hotel,12.9178828,77.6238062,2.5,Inn@Silicon Valley
+hotel,13.0291792,77.5409571,2.5,Taj Yeshwantpur
+hotel,13.0840628,77.6428001,2.5,The Leela Bhartiya City
+hotel,12.9894764,77.5949017,2.5,Fortune Select JP Cosmos
+hotel,12.9907794,77.5811436,2.5,KSTDC Kumar Krupa
+hotel,13.0424779,77.6206056,2.5,Hilton Bengaluru Embassy Manyata Business Park
+hotel,13.0418354,77.6201145,2.5,Hilton Garden Inn Bengaluru Embassy Manyata Business Park
+hotel,12.9604681,77.7138843,2.5,Northern Suites
+hotel,12.9763448,77.6194746,2.5,Radisson City Center
+hotel,12.9668566,77.7512537,2.5,Royal Orchid Suites
+hotel,12.9515383,77.7035326,2.5,Icon Suites by Bhagini
+hotel,12.9740563,77.6194526,2.5,The Park Bangalore
+hotel,12.9468258,77.6991641,2.5,Bloom Hub
+hotel,12.9157905,77.6984123,2.5,Oyo Town House 363
+hotel,12.9903162,77.7326467,2.5,Hotel Aloft
+hotel,12.9899692,77.7231717,2.5,Hotel Zuri
+hotel,12.9574346,77.7147082,2.5,Octave Brookefield Suites
+hotel,12.9656193,77.7138513,2.5,Mojatel by Icon
+hotel,12.9778718,77.7119218,2.5,Earth Hotels
+hotel,12.9599396,77.7217521,2.5,Treebo SLN Heritage
+hotel,12.9602374,77.7202041,2.5,Hotel Pheonix
+hotel,12.9610376,77.7177773,2.5,Oyo Townhouse
+hotel,12.9583044,77.7154148,2.5,Olive
+hotel,12.929889,77.6832741,2.5,Ibis
+hotel,12.9756655,77.5992787,2.5,The Chancery Hotel
+hotel,12.9783642,77.6971917,2.5,Regenta Inn
+hotel,12.9642086,77.7123079,2.5,Parkwoods Elite
+hotel,12.9705402,77.6080073,2.5,The Grand Magrath Hotel
+hotel,12.9974913,77.5841812,2.5,Jagadish Hotel
+hotel,12.978588,77.6974759,2.5,Lotus Hotel
+hotel,12.9863374,77.7325996,2.5,Holiday Inn Express Bengaluru Whitefield ITPL
+hotel,12.9845647,77.5764746,2.5,"Renaissance Bengaluru, Race Course"
+hotel,12.9193534,77.6207668,2.5,Oyo Rooms 88840 MN Residency
+hotel,12.924297,77.6668937,2.5,Oyo Townhouse 258
+hotel,13.1045694,77.6001325,2.5,Unknown
+hotel,12.9647078,77.599637,2.5,The Pride Hotel
+hotel,12.9990976,77.5836173,2.5,Hotel Tulip
+hotel,13.0126008,77.5551071,2.5,Sheraton Grand Bangalore Hotel at Brigade Gateway
+hotel,12.9503784,77.6985834,2.5,Radisson Blu Bengaluru Outer Ring Road
+hotel,12.841901,77.6452833,2.5,Hotel Royal Inn
+hotel,12.9045146,77.5940708,2.5,Castle JP
+hotel,12.9688497,77.7168965,2.5,DoubleTree by Hilton Bengaluru Whitefield
+hotel,12.9166611,77.5901004,2.5,"Hotel Pai Comforts, JP Nagar"
+hotel,12.9484943,77.6456417,2.5,Hilton Bangalore Embassy GolfLinks
+hotel,12.94268,77.6945842,2.5,Twenty Fourt Hotel
+hotel,13.0540239,77.5929259,2.5,Hyatt Centric Hebbal Bengaluru
+hotel,12.95547,77.6410108,2.5,Ramadha Encore
+hotel,13.0795808,77.592201,2.5,Attide Boutique
+hotel,13.0243052,77.5468919,2.5,Hotel Leroy Grand
+hotel,12.972346,77.608644,2.5,Vivanta Residency Road
+hotel,12.9879034,77.7261975,2.5,Days Suites Bengaluru
+hotel,12.9714184,77.6083241,2.5,Ballal Residency
+hotel,12.9848381,77.5808828,2.5,37th Crescent Hotel
+hotel,12.9747673,77.5994236,2.5,Southern Star Hotel
+hotel,13.0141463,77.5542921,2.5,Parijata Gateway
+hotel,13.0401792,77.6257073,2.5,Unknown
+hotel,12.9286113,77.6721522,2.5,Brahma Tiffins
+hotel,12.971521,77.7071647,2.5,The Olive Hotel
+hotel,12.9633762,77.6431855,2.5,Hotel Noble Nook
+hotel,13.0560366,77.768117,2.5,Hotel Classic Comfort
+hotel,12.9825538,77.7518484,2.5,Bloom
+hotel,12.9940333,77.7320013,2.5,Hilton Garden Inn Bengaluru Whitefield
+hotel,12.9232976,77.6760472,2.5,Sterling Keys
+it_park,12.8598081,77.6618768,3,Wipro Ahmed Plaza
+it_park,13.0278179,77.6356862,3,Filtrex Technologies
+it_park,13.026214,77.6358131,3,Ambara Software Technologies
+it_park,13.0261501,77.6361659,3,Mitsubishi Electric Asia
+it_park,13.0250368,77.6361978,3,DreamQuest Infotech
+it_park,12.9802986,77.5515067,3,National Institute of Design Industry Programme Centre - NID
+it_park,13.0282919,77.5958844,3,Ample Technologies
+it_park,13.0376828,77.6128514,3,Mahiti Infotech
+it_park,12.9801926,77.6071661,3,Prestige Estates Limited
+it_park,12.9846273,77.7366959,3,ITPB
+it_park,12.9853202,77.7435314,3,GR Salarpuria Tech Park
+it_park,12.9497765,77.6435314,3,Embassy GolfLinks Business Park
+it_park,13.048355,77.6207059,3,Manyata Tech Park
+it_park,12.9681643,77.6018382,3,Prestige Towers
+it_park,13.0384209,77.5338618,3,Bharat Fritz Weiner
+it_park,13.0211693,77.5748124,3,Central Power Research Institute
+it_park,12.9622995,77.5734349,3,Bangalore Medical College Hospitals
+it_park,13.0090538,77.6650423,3,Steel Authority of India Limited - SAIL Warehouse
+it_park,12.8510075,77.6778748,3,Tech Mahindra
+it_park,12.9723089,77.5959385,3,UB City
+it_park,13.0126119,77.5632536,3,Bharath Heavy Electricals Limited
+it_park,12.9922954,77.5818863,3,The Lalit Ashok
+it_park,12.9623165,77.6553945,3,U. R. Rao Satellite Centre
+it_park,12.9971746,77.6983937,3,ITI Industrial Estate
+it_park,12.996756,77.7387324,3,Satellite Goods Terminal
+it_park,13.0549568,77.4827958,3,Jindal Aluminium Limited
+it_park,12.987813,77.5906109,3,JP Techno Parks
+it_park,12.9520497,77.5390745,3,Karnataka Vidyuth Karkhane Limited
+it_park,12.98676,77.6524835,3,Bharat Earth Movers Limited
+it_park,12.9940375,77.7054691,3,Bhoruka Tech Park
+it_park,12.9807805,77.7143203,3,B.S.A. Tech Park
+it_park,12.9843092,77.6949436,3,Bagmane World Technology Center
+it_park,12.9671208,77.5957228,3,ITC Gardenia Royal
+it_park,12.9590437,77.6481096,3,RMZ Titanium
+it_park,12.9888904,77.7055856,3,Bhoruka Gases Limited
+it_park,12.9941856,77.660714,3,RMZ Infinity
+it_park,12.9846246,77.7307706,3,Rajesh Exports Limited
+it_park,12.9638813,77.7202167,3,Brigade Tech Gardens
+it_park,12.8881683,77.5481314,3,ISKCON Akshyapatra Kitchen
+it_park,12.8992515,77.5995246,3,Honeywell Technology Solutions Lab Pvt Ltd
+it_park,12.9819023,77.7227162,3,Larsen & Toubro Infotech Ltd
+it_park,12.9814693,77.7212459,3,Prestige Featherlite Tech Park
+it_park,12.9834642,77.7270179,3,Makino India Private Limited
+it_park,12.9820237,77.7212935,3,Microchip Tech Park
+it_park,12.9809298,77.7211695,3,Secon Surveys Private Limited
+it_park,12.9850885,77.7285286,3,Whitefield Palms
+it_park,12.9734362,77.7208188,3,Nethra Tech Park
+it_park,12.9773071,77.7151358,3,Fortune Select Trinity
+it_park,12.9837828,77.7302655,3,First Technology Place
+it_park,12.9838989,77.595759,3,Embassy Icon
+it_park,12.9975063,77.6254829,3,ITC
+it_park,12.9964645,77.6707447,3,India Tin Industries Limited
+it_park,13.0090973,77.692393,3,"Government Hospital, K.R. Puram"
+it_park,13.0556323,77.7459406,3,VRKP Steel Industries Private Limited
+it_park,13.0453414,77.7470556,3,Om Pharmaceuticals Limited
+it_park,12.9890676,77.7325417,3,SJR Primeco Union City
+it_park,13.0575748,77.7421849,3,GlaxoSmithKline Pharmaceuticals
+it_park,12.9831371,77.7511068,3,HM Tech Park
+it_park,12.9587541,77.6508938,3,Old Britannia Headquarters
+it_park,12.8437347,77.6686028,3,ITI Spacenet
+it_park,12.8378806,77.6650796,3,Aliaxis Research and Technology Centre Asia
+it_park,12.9772062,77.7262126,3,BMTC Depot 18 (ITPL)
+it_park,12.9527563,77.5940825,3,Southern Roadways Private Limited
+it_park,12.9625267,77.648894,3,JSS Educational Institutions
+it_park,12.980772,77.7238023,3,Silver Software
+it_park,12.9679401,77.7240678,3,Divyashree Technopark
+it_park,12.9792881,77.7243702,3,Skora Tech Park
+it_park,12.9863103,77.727379,3,Embassy Crest
+it_park,12.8482649,77.679014,3,TCS Think Campus
+it_park,12.9943143,77.5859516,3,ITC Windsor
+it_park,12.9850087,77.7469584,3,Geneva Industries Limited
+it_park,13.0537701,77.5726437,3,Unique ID authority of India - UIDAI
+it_park,12.8869388,77.5994151,3,British Biologicals
+it_park,12.9948778,77.6899495,3,Schunk Carbon Technology India Pvt. Ltd
+it_park,12.9967438,77.5836892,3,Bangalore Development Authority
+it_park,12.9152362,77.6839385,3,Wipro SJP2
+it_park,12.8379125,77.6557878,3,Wipro EC 4
+it_park,12.8383798,77.6616664,3,Wipro EC 1
+it_park,12.8387622,77.6635722,3,Software Technology Parks of India
+it_park,12.8374616,77.6592462,3,Wipro EC 2 / 3
+it_park,12.8378962,77.6593008,3,Wipro EC 2 Learning Center
+it_park,12.8368055,77.6623857,3,Infotech Enterprises Ltd
+it_park,12.8448254,77.6606029,3,Opto Circuits India Pvt. Ltd.
+it_park,13.0405544,77.6165402,3,Bharath Electronics Limited
+it_park,12.9304516,77.6910331,3,Embassy TechVillage
+it_park,12.9422614,77.6928369,3,Prestige Tech Park
+it_park,12.8472519,77.6724231,3,BMTC Depot 19 (Electronic City)
+it_park,12.8437784,77.6717453,3,HCL Technologies
+it_park,12.9033466,77.6242532,3,Punit Creation
+it_park,12.9029087,77.6235088,3,SCS Modular Furniture
+it_park,12.9204244,77.6214469,3,Wipro M3 / M4
+it_park,12.8422969,77.6614977,3,Infosys
+it_park,12.9787834,77.6612699,3,Bagmane Tech Park
+it_park,12.9838608,77.5962637,3,The Institute of Engineers
+it_park,12.9757511,77.5974939,3,Prestige Obelisk
+it_park,12.9934271,77.6545222,3,ITD Casting Yard
+it_park,13.021548,77.6426405,3,Cosmopolitian Club
+it_park,12.9779226,77.6010276,3,Additional Director General of Police
+it_park,12.9802629,77.5055802,3,Visvesvaraya Technological University - Regional Center
+it_park,12.8991593,77.6309555,3,AMR Tech Park
+it_park,13.0272291,77.5182139,3,Arvind Motors Private Limited
+it_park,12.9577347,77.744257,3,Sigma Soft Tech Park
+it_park,12.8488919,77.6659169,3,Infosys Technologies Limited
+it_park,12.9741442,77.613647,3,Karnataka State Power Transmission Corporation Limited
+it_park,12.9735616,77.6124743,3,Prestige Meridian
+it_park,12.9735535,77.6170182,3,Nitesh Broadway
+it_park,12.913751,77.6859884,3,Wipro Corporate Office
+it_park,12.9351057,77.6795572,3,Prestige Lakeshore Drive
+it_park,12.9709944,77.6055697,3,Prestige
+it_park,12.9903952,77.5863777,3,Embassy Zenith
+it_park,12.9728381,77.7200602,3,Gayatri Tech Park
+it_park,12.9699135,77.7173293,3,Kalyani Tech Park
+it_park,12.9702242,77.7083347,3,Bagmane Solarium City
+it_park,12.9733247,77.7103106,3,Prestige Technostar
+it_park,12.9760677,77.7177482,3,The Sulit Whitefield
+it_park,12.9693967,77.6128826,3,Embassy Heights
+it_park,13.0290443,77.7359962,3,NSP Electronics Limited
+it_park,12.9256878,77.6826976,3,Global Technology Park
+it_park,12.9893406,77.7528082,3,Whitefield Metro Depot
+it_park,12.9811164,77.5978418,3,Hindustan Aeronautics Limited
+it_park,12.9822531,77.6117279,3,Karnataka Institute of Cricket
+it_park,12.9013353,77.7047386,3,RGA Tech Park
+it_park,12.9834716,77.5938468,3,Embassy Square
+it_park,12.9817664,77.5751539,3,Karnataka Power Transmission Corporation Limited
+it_park,12.9620572,77.5994998,3,Global Tech Park
+it_park,12.9373521,77.6063767,3,Global Tech Park
+it_park,12.919526,77.5004126,3,Sattva Global City
+it_park,12.9745164,77.6595914,3,Bharat Earth Movers Limited
+it_park,12.8968842,77.712249,3,Wipro SEZ
+it_park,12.9215792,77.6691759,3,Prestige Ferns Galaxy
+it_park,12.941182,77.6943084,3,Oracle Tech Hub
+it_park,12.9852716,77.7026573,3,Bagmane Capital
+it_park,13.05651,77.5943049,3,RMZ Latitude Commercial
+it_park,13.051895,77.59427,3,Umiya Velociti
+it_park,13.0635192,77.5947283,3,Gardencity IT Park
+it_park,12.9858459,77.5878302,3,Prestige Trade Tower
+it_park,13.0193322,77.5846869,3,Embassy One
+it_park,12.9906189,77.5914771,3,Embassy Links
+it_park,13.0421104,77.6235201,3,MS Ramaiah Tech Park
+it_park,12.9799903,77.5784707,3,Holiday Inn Express & Suites
+it_park,12.9304997,77.6151243,3,Enzyme Tech Park
+it_park,12.9712707,77.6142727,3,Prestige Falcon Tower
+it_park,12.9364104,77.6102985,3,Prestige Cube
+it_park,13.0532657,77.4965581,3,Karnataka State Labour Institute
+it_park,12.9779311,77.5508471,3,Rajajinagar IT Park
+it_park,13.0840628,77.6428001,3,The Leela Bhartiya City
+it_park,13.0840949,77.6406193,3,Bhartiya Centre of Information Technology
+it_park,13.040846,77.5892827,3,Karnataka State Seeds Corporation Limited
+it_park,13.0592782,77.7423825,3,GlaxoSmithKline Pharmaceuticals
+it_park,13.0596555,77.7375134,3,Tann Utility Services
+it_park,12.9986386,77.6266918,3,ITC Green Centre
+it_park,12.9859571,77.6161285,3,Prestige Summit
+it_park,13.0685423,77.5919573,3,L&T Tech Park Phase 1
+it_park,13.0111272,77.5491864,3,Mysore Fruit Products Pvt. Ltd.
+it_park,12.9688935,77.6138526,3,Embassy Quest
+it_park,12.9850572,77.7501553,3,Sumadhura Capitol Towers
+it_park,12.9715196,77.6151225,3,Prestige Solitaire
+it_park,12.875361,77.5672543,3,Medreich Limited
+it_park,13.054445,77.5929426,3,Enzyme Citrine
+it_park,12.9838947,77.5928473,3,Embassy Point
+it_park,12.9896837,77.5186932,3,Central Relief Committee
+it_park,12.9551096,77.5183645,3,National Assessment and Accredition Council
+it_park,12.9303739,77.695667,3,Qube Software Park
+it_park,12.9856369,77.6921476,3,Site map
+it_park,12.9802515,77.6034791,3,Prestige Saleh Ahmed
+it_park,12.981016,77.6033944,3,Prestige Central
+it_park,13.0260161,77.5461611,3,DNR Altitude
+it_park,12.974931,77.6169047,3,Prestige Dynasty
+it_park,12.9378059,77.6955459,3,Prestige Tech Pacific Park
+it_park,12.9392869,77.700812,3,Prestige Featherlite Tech Hub
+it_park,12.8438305,77.6574686,3,Helix Biotech Park
+it_park,12.8922208,77.6422759,3,AKR Tech Park
+it_park,12.8438396,77.7703312,3,SABIC India Technology Center
+it_park,13.0271679,77.5443832,3,Sports Habitat
+it_park,13.0233372,77.5486181,3,Raitha Bhavan
+it_park,12.9199713,77.6716962,3,Vaishnavi Tech Park
+it_park,12.9911317,77.5897316,3,Cottage Industries Exposition Limited - CIE
+it_park,12.9660099,77.6031923,3,Karnataka State Agricultural Produce Processing and Export Corporation Limited
+it_park,13.0528326,77.6149933,3,Manyata Substation
+it_park,12.9636828,77.7023922,3,Kalyani Roshni Tech Hub
+it_park,12.9978927,77.607601,3,Adam's Golden Heritage
+it_park,13.0098039,77.5701634,3,Department of Pre-University Education
+it_park,13.0414192,77.5895603,3,National Seeds Corporation Limited
+it_park,12.8411905,77.6733939,3,Titan
+it_park,12.841443,77.6773626,3,Salarpuria Sattva Alexandria Tech Park
+it_park,12.9727332,77.5994697,3,Prestige Emerald Towers
+it_park,12.97283,77.6003566,3,Prestige Sterling Square
+it_park,12.9730905,77.5990305,3,Hitananda Building
+it_park,12.970548,77.6151287,3,Prestige Loka
+it_park,12.8551706,77.6754656,3,Manjushree Technopark
+it_park,12.9686252,77.5879355,3,Chief Metropolitan Magistrate Courts Complex
+it_park,12.9704879,77.607071,3,Nitesh Lexington Avenue
+it_park,12.9283728,77.632791,3,Wipro House
+it_park,12.9274639,77.6327789,3,Vaishnavi Summit
+it_park,12.9249247,77.6281359,3,Axilor Transit
+it_park,12.9243532,77.6276561,3,KIOCL Limited
+it_park,12.9879903,77.7467804,3,Titanium Tech Park
+it_park,12.9851686,77.7092273,3,United Telecoms Limited
+it_park,12.9761295,77.7220712,3,Wipro GE Healthcare
+it_park,12.9760088,77.7258262,3,Prasad Technology Park
+it_park,12.9752825,77.726686,3,Prestige Omega
+it_park,12.9723606,77.7209935,3,V K Tech Park
+it_park,12.9694565,77.6002015,3,Prestige Samrah Plaza
+it_park,12.9863282,77.7329666,3,Subramanya Tech Park
+it_park,12.9796599,77.7243843,3,Akshay Tech Park
+it_park,12.9823039,77.7207388,3,Salaruria Sattva Mindcomp Tech Park
+it_park,12.9863374,77.7325996,3,Holiday Inn Express Bengaluru Whitefield ITPL
+it_park,12.931826,77.613092,3,Eastland Citadel
+it_park,12.9195053,77.5383509,3,Aditya Kalyana Mantapa
+it_park,12.9637204,77.5878998,3,Unity Building Annexe
+it_park,12.8503341,77.6699683,3,Maruthi Concorde Tech Park
+it_park,12.9315804,77.6153638,3,Prestige RMZ Startech
+it_park,12.9334535,77.5844896,3,Nature Cure Hospital Campus
+it_park,13.0252042,77.6225716,3,Karnataka State Beverage Corporation Limited
+it_park,13.1076284,77.6033814,3,Manipal Hospital North
+it_park,12.9313007,77.6854111,3,Shilpitha Tech Park
+it_park,12.9757765,77.7069324,3,Castotech Enterprises
+it_park,13.0196143,77.5482926,3,Prestige Capital Square
+it_park,12.9661193,77.5115976,3,Karnataka Renewable Energy Development Limited
+it_park,13.1101135,77.6030793,3,Embassy Business Hub - Philips
+it_park,12.9821553,77.5962216,3,Prestige Minsk Square
+it_park,12.9374886,77.6057154,3,Prestige Blue Chip
+it_park,12.936954,77.6076255,3,Prestige Technopolis
+it_park,13.1098033,77.6023297,3,Embassy Business Hub
+it_park,12.9206634,77.5727966,3,Brigade Software Park
+it_park,12.9933531,77.5893552,3,Embassy Star
+it_park,12.8915097,77.641278,3,Novel Tech Park
+it_park,12.8914704,77.6375458,3,Ozone Manay Technology Park
+it_park,12.9037652,77.6012345,3,Hyptechie
+it_park,12.9033589,77.5619554,3,City Central Library
+it_park,12.9638087,77.7224299,3,Brigade Tech Gardens Brookefield
+it_park,12.9863725,77.739803,3,Brigade Tech Park
+it_park,12.9879034,77.7261975,3,Days Suites Bengaluru
+it_park,12.9841558,77.7282068,3,Whitefield Palms
+it_park,12.9859815,77.7093255,3,Rathi Legacy - Rohan Tech Park
+it_park,12.9741821,77.616978,3,Nitesh Timesquare
+it_park,12.9733951,77.6173934,3,Prestige Thirulakshmi
+it_park,12.9740282,77.615828,3,Mittal Tower
+it_park,12.987487,77.5956143,3,Ino-Mim LIimited
+it_park,13.0880086,77.6593899,3,The Furniture Park
+it_park,12.9460342,77.6073618,3,Sattva Citadel
+it_park,13.0301937,77.5787185,3,Tata Communication Limited
+it_park,12.8590499,77.6608099,3,White Feather Wedding Hall
+it_park,12.9702234,77.6000049,3,Prestige Sigma
+it_park,12.9318608,77.6016903,3,Salarpuria Infinity
+it_park,12.9265043,77.6009129,3,Uma Admirality
+it_park,13.0204889,77.6422731,3,City Central Library
+it_park,13.0387291,77.5748746,3,Ramana Maharshi Heritage Auditorium
+it_park,12.9167185,77.6714151,3,Zepto HQ-Bharat IT Park
+it_park,12.8346213,77.66105,3,Inknowtech
+it_park,12.8485654,77.6739135,3,Tech 37
+it_park,12.9940333,77.7320013,3,Hilton Garden Inn Bengaluru Whitefield
+it_park,12.8414367,77.6597484,3,Fortune Sakura City
+it_park,12.9567604,77.728921,3,Brigade Padmini Tech Valley
+it_park,12.9579522,77.6627096,3,Prestige Terminus
+it_park,13.1036464,77.6340381,3,White Pearl Convention Centre
+it_park,12.9891164,77.7574509,3,Alembic City
+it_park,13.0088583,77.6960677,3,Seethi Bhairaveshwara Furnitures
+it_park,13.0478249,77.5611623,3,Bharat Electronics Limited
+hospital,12.8550625,77.6642727,1.5,Swamy Hospital
+hospital,12.9134182,77.6774852,1.5,Clinic
+hospital,12.9235041,77.5857517,1.5,Shanti Hospital
+hospital,12.9263714,77.6765455,1.5,Apollo Hospital
+hospital,12.9155759,77.6349897,1.5,Narayana Hrudayalaya Dental Clinic
+hospital,12.9129006,77.6419101,1.5,Dr Ganesh Medical and Diabetic Clinic
+hospital,12.9207173,77.5745968,1.5,JBS Hospital
+hospital,12.9231684,77.584433,1.5,Jayanagar heart Centre
+hospital,13.0371728,77.6409543,1.5,Sri Vijayalakshmi Pragathi Hospital
+hospital,13.0185503,77.6364728,1.5,Sathya Hospital
+hospital,12.8500655,77.6624706,1.5,Ramakrishna Hospital
+hospital,12.9981215,77.5404836,1.5,Chord Road Hospital Pvt Ltd
+hospital,12.9978931,77.5436127,1.5,Pristline Hospital
+hospital,12.9376734,77.5802836,1.5,"Bengaluru Hospital, Susruta Medical Aid AndResearch Home Limited"
+hospital,13.0011275,77.5639285,1.5,Manipal Northside Hospital
+hospital,12.9503234,77.6162619,1.5,Government Primary Health Centre
+hospital,12.9100629,77.5924585,1.5,Divakars speciality Hospital
+hospital,12.960765,77.7137961,1.5,Hema Poly Clinic
+hospital,12.9234317,77.5923374,1.5,BMTC Hospital
+hospital,12.9364329,77.583477,1.5,Ramakrishna Nursing Home and Hospital
+hospital,12.939058,77.5510802,1.5,Sri Vinayaka Poly Clinic
+hospital,13.0322788,77.576876,1.5,RMV Hospital
+hospital,12.9559302,77.7112689,1.5,Yashomathi Hospitals
+hospital,12.9815051,77.6011944,1.5,Mallya Audikesh Diagnostics Center
+hospital,12.985247,77.5803846,1.5,Mallige Medical Centre
+hospital,13.0038999,77.6039313,1.5,Devine Hospital
+hospital,12.9452313,77.5861734,1.5,Lalbagh Nursing Home
+hospital,12.9797287,77.7271089,1.5,Dr. Batra Clinic
+hospital,12.9988604,77.5817424,1.5,Government Maternity Hospital
+hospital,12.9681189,77.54325,1.5,Soujanya Clinic
+hospital,12.967291,77.5429164,1.5,Kanva Diagnostics Collection Centre
+hospital,12.9568527,77.6990468,1.5,New Akshay Mallya Hospital
+hospital,12.9951629,77.69923,1.5,Presidency Hospital
+hospital,12.90306,77.4974982,1.5,BGS Gleneagles Hospitals
+hospital,12.9073391,77.5830655,1.5,Srinivas Clinic
+hospital,13.0043642,77.5652959,1.5,Unknown
+hospital,12.8915893,77.560715,1.5,Metro Hospital
+hospital,12.9668213,77.7168891,1.5,Brookefield Hospital(A Unit Of Sanjeevani Hospital)
+hospital,12.9573067,77.7087044,1.5,Tenet diagnostics
+hospital,12.995242,77.6523255,1.5,ESI Hospital
+hospital,12.9111263,77.7073377,1.5,Karunalayam Hospital
+hospital,12.9367955,77.5907094,1.5,SDS Tuberculosis Research Centre and Rajiv Gandhi Institute of Chest diseases
+hospital,12.942614,77.5854533,1.5,Maiya Multispecialty Hospital
+hospital,12.9671401,77.6094485,1.5,Narayana Netralaya
+hospital,13.0829889,77.5489026,1.5,Nagappa Hadli Hospital
+hospital,12.9746134,77.5129757,1.5,"Vasan Eye Care Hospital, Nagarabhavi"
+hospital,12.930936,77.5153776,1.5,Rc Hospital
+hospital,12.9263226,77.5156579,1.5,Veturi Child Health Centre
+hospital,13.0686568,77.5582571,1.5,Ketham's Hospital Pvt. Ltd
+hospital,13.0425433,77.5155377,1.5,Ragavendra Hospital
+hospital,13.0349833,77.5676844,1.5,Guru Kripa Clinic
+hospital,13.0973922,77.5964894,1.5,Deeksha Orthopaedic Hospital
+hospital,13.0997316,77.5980216,1.5,Shushrusha Hospital
+hospital,12.9126298,77.5913594,1.5,Chirag Hospital and Maternity Center
+hospital,12.9256842,77.5489346,1.5,Udhbhava Hospital
+hospital,12.9206648,77.5598673,1.5,DG Hospital
+hospital,12.9423039,77.6174893,1.5,Srinivasa Nursing Home
+hospital,12.9336501,77.5660602,1.5,Kangila Clinic
+hospital,13.0990911,77.5861904,1.5,Chaitanya Hospital
+hospital,12.9402371,77.6253403,1.5,"Vasan Eye Care Hospital, Koramangala"
+hospital,12.9075992,77.6488507,1.5,health nest
+hospital,13.0281613,77.5793947,1.5,Amma's ENT Clinic
+hospital,13.026721,77.5789272,1.5,Krishna Specialty Clinic
+hospital,12.995625,77.6113272,1.5,Seventh Day Adventist Hospital
+hospital,12.9965077,77.6220456,1.5,Srinivasa Nursing Home
+hospital,12.914434,77.6050207,1.5,Kids Care Clinic
+hospital,12.9382768,77.6186753,1.5,Pristine Health care
+hospital,12.9186845,77.630774,1.5,Prerana Dental Clinic
+hospital,12.9180492,77.6318764,1.5,Mamtha Health Center
+hospital,13.0079383,77.5469059,1.5,Suprabha Hospital
+hospital,13.0083564,77.5469273,1.5,Sangolli Nursing Home
+hospital,13.0037682,77.5498337,1.5,Diacon Hospital
+hospital,12.9273417,77.6221301,1.5,Agarwal Eye Hospital
+hospital,12.8736928,77.6449626,1.5,Sri Sapthagiri Clinic
+hospital,12.9169725,77.6300572,1.5,Sagar Dental Clinic
+hospital,12.9257842,77.6170828,1.5,Venkateshwara Hospital
+hospital,13.0047859,77.543073,1.5,Namratha Hospital
+hospital,12.9162576,77.6374069,1.5,Devi Eye Hospital
+hospital,13.0275337,77.5397051,1.5,Mysore Hospital
+hospital,12.9293288,77.5877091,1.5,Jayanagar Orthopaedic Centre
+hospital,12.9458714,77.5675192,1.5,Shekar Hospital
+hospital,13.0011459,77.5359798,1.5,Punya Hospital
+hospital,12.9102705,77.6265538,1.5,Vasan Eye Care
+hospital,12.8517246,77.6681472,1.5,Apollo Clinic
+hospital,12.9135707,77.5788941,1.5,Parimala Clinic
+hospital,12.9160081,77.6193573,1.5,Karanth Speciality Hospital
+hospital,12.9162878,77.6138218,1.5,Gangothri Hospital
+hospital,12.9239335,77.61116,1.5,Spurthy Hospital
+hospital,12.9351929,77.6086817,1.5,Prasad Eye Hospital
+hospital,12.9387115,77.5937737,1.5,NIMHANS Screening block
+hospital,12.9388056,77.5942994,1.5,NIMHANS OPD
+hospital,12.9483598,77.5940621,1.5,Manjunath Hospital
+hospital,12.9484356,77.5942592,1.5,Karthik Hospital
+hospital,12.9147871,77.6247622,1.5,Aswad Hospital
+hospital,13.0264438,77.5933686,1.5,TSR heart care
+hospital,13.0022409,77.5490879,1.5,Fortis Hospital
+hospital,12.9956506,77.5510696,1.5,Citi Hospital
+hospital,12.9995223,77.5505328,1.5,"Vasan Eye Care Hospital, Rajaji Nagar"
+hospital,12.9998205,77.55045,1.5,Ananya Hospital
+hospital,12.9970915,77.5719766,1.5,Baptist
+hospital,12.973967,77.5479135,1.5,Shivakrupa Hospital
+hospital,13.0248621,77.6139585,1.5,Dr. Ambedkar Medical College Hospital
+hospital,12.9926441,77.5742046,1.5,"Sri Maruthi hospital, Sheshadripuram"
+hospital,12.9267954,77.6699091,1.5,Sunny Medicals Hospital Clinic
+hospital,13.0307899,77.653594,1.5,Karunya Homoeopathy Centre
+hospital,13.0148188,77.6653699,1.5,Ayur Seva Hospital
+hospital,12.8990004,77.6218548,1.5,Vinayaka Specialty Hospital
+hospital,13.0207033,77.6760593,1.5,Koshys Hospital
+hospital,12.9593144,77.5265054,1.5,Gurushree Hitech Multispeciality Hospital
+hospital,12.9755854,77.5313495,1.5,"Shobha Hospital, Bengaluru Urban"
+hospital,12.9744053,77.5426819,1.5,"Gayathri Hospital, Bengaluru Urban"
+hospital,12.9309944,77.4929837,1.5,MEDSOL Hospital
+hospital,13.003447,77.504284,1.5,Government Primary Health Centre
+hospital,12.9761294,77.5326369,1.5,Bharathy Hospital
+hospital,12.9202791,77.5598033,1.5,Yogananda Medical and Research Centre
+hospital,12.8778532,77.6246582,1.5,"Government Primary Healthcare Center, Begur"
+hospital,12.9074968,77.6492213,1.5,Cure & Care Dental Clinic Dr. Moumita Mukherjee
+hospital,13.0372438,77.5648754,1.5,Shirdi Sai Hospital
+hospital,12.8924828,77.6198497,1.5,Nayantara Opticals
+hospital,12.9411061,77.5850591,1.5,Kottakkal Arya Vaidya Sala
+hospital,13.0100409,77.6674667,1.5,"Charan Homeopathy, Ramamurthy Nagar"
+hospital,13.0834023,77.6348642,1.5,Dhanavantri Hospital
+hospital,12.8807554,77.5841671,1.5,T.R.Hospital
+hospital,12.891484,77.5816961,1.5,Rainbow Clinic and Diagnostic Laboratory
+hospital,13.0078742,77.5625316,1.5,Cloud Nine Hospital
+hospital,12.9993857,77.5606403,1.5,"Nayak Hospital, Gayathri Nagar"
+hospital,12.8845448,77.5701276,1.5,"Rajnandani Hospital, Bangalore"
+hospital,12.915903,77.5550223,1.5,"Maharaja Agrasen Hospital, Bengaluru Urban"
+hospital,12.9231342,77.5642974,1.5,Banashankari Referral Hospital
+hospital,12.9179548,77.555816,1.5,Bangalore Kidney Foundation - NU Hospital
+hospital,12.9613237,77.511726,1.5,"Panacea Hospital, Nagarabhavi"
+hospital,12.9856882,77.5435424,1.5,Shanbhag Hospital
+hospital,12.9946566,77.5397544,1.5,Trupti Nursing Home
+hospital,13.0124345,77.6580271,1.5,Srivijaya Speciality Hospital
+hospital,12.9349187,77.6305022,1.5,Magnus Diagnostic Lab
+hospital,13.000431,77.5411664,1.5,Krupa Medical center
+hospital,13.0774744,77.5587548,1.5,Soukya Hospital
+hospital,12.9191813,77.6381379,1.5,Greenview Medical Center
+hospital,12.9121004,77.6485848,1.5,Vaidyaratnam Oushadhasala
+hospital,12.9064393,77.6308237,1.5,Blossoms Hospital
+hospital,12.8791713,77.6454925,1.5,Live100
+hospital,13.0077936,77.6923101,1.5,ESi Hospital
+hospital,12.9744193,77.5336479,1.5,Happy Tooth
+hospital,12.9745812,77.532699,1.5,Rishi Women and Child Clinic
+hospital,12.9736894,77.5369482,1.5,Penta Care Ayurvedic Hospital
+hospital,12.9436624,77.5419997,1.5,Shalini Nursing & MAternity Home
+hospital,12.9729127,77.5394723,1.5,Shreya Poly Clinic
+hospital,12.9612829,77.5271683,1.5,Anurag Medical Center
+hospital,13.0007683,77.6132902,1.5,United Medical lab
+hospital,12.9843701,77.555666,1.5,Pragathi Ayurvedic Center
+hospital,12.8413465,77.6475451,1.5,Srujana Hospital
+hospital,12.9231571,77.6728066,1.5,Narayana Hrudayalaya Dental Clinic
+hospital,12.8948505,77.6109105,1.5,Vatsalya Chidren's Clinic
+hospital,12.9002599,77.6271003,1.5,Kottakkal Arya Vaidya Sala
+hospital,12.9623406,77.5342853,1.5,Sharavathi Hospitals (P) Ltd.
+hospital,12.9169288,77.5592568,1.5,"Dr.Agarwal's Eye Hospital Ltd, Padmanabha Nagar"
+hospital,12.9184617,77.5555842,1.5,Shraddha Eye Care
+hospital,12.931334,77.5154779,1.5,"Vasan Eye Care Hospital, Rajarajeswari Nagar"
+hospital,12.9055088,77.5858347,1.5,Cloud Nine Fertility
+hospital,12.8827229,77.5466715,1.5,Aikya Healthcare
+hospital,12.8840897,77.5664029,1.5,Konanakunte Government Hospital
+hospital,12.9878709,77.7319773,1.5,Cloud Nine Hospital
+hospital,12.9768424,77.7103746,1.5,Telerad Rx Dx Health Care Whitefield
+hospital,12.9784409,77.6375845,1.5,Motherhood Hospital(Unit Of Rhea Healthcare Pvt Ltd)
+hospital,12.9762645,77.6376528,1.5,Respiratory and womens health clinic.
+hospital,12.9766951,77.6362278,1.5,Rashmi Hospital
+hospital,12.9734836,77.6357281,1.5,Netradama Eye Hospital
+hospital,12.9425246,77.6025303,1.5,Sree Venkateshwara Speciality Hospital
+hospital,13.0002667,77.5694894,1.5,Leela Hospital and Diagnostic Center
+hospital,12.968031,77.5878222,1.5,Dr. Rajkumar Blood Bank
+hospital,12.9241818,77.6737518,1.5,Nelivigi Eye Hospital
+hospital,12.9517397,77.6994832,1.5,Sanghi Medical Centre (P) Ltd
+hospital,13.0294181,77.5593857,1.5,"Sri Sai Krupa Hospital, Bengaluru Urban"
+hospital,12.9826672,77.6381036,1.5,ALDOS Medical Service Pvt LTD
+hospital,12.8870605,77.603414,1.5,Government Hospital
+hospital,12.8893134,77.602422,1.5,Rajashree Granthim hospital
+hospital,12.8504718,77.6553058,1.5,Sri Laxmi Hospital
+hospital,12.8377272,77.6584571,1.5,Wipro First Aid Clinic
+hospital,12.9474222,77.5986921,1.5,Krishna Nursing Home
+hospital,12.9900105,77.5988107,1.5,"Shifa Hospital, Bengaluru Urban"
+hospital,12.9159249,77.5856011,1.5,Milann Fertility Center
+hospital,12.962951,77.6418711,1.5,Gift IVF center
+hospital,12.9603157,77.5930493,1.5,HCG Cancer Hospital
+hospital,12.9584755,77.5919279,1.5,Health Care Global
+hospital,12.9292418,77.5893625,1.5,Gulecha Dental Care
+hospital,12.9767055,77.5424167,1.5,Unknown
+hospital,13.0206063,77.6445361,1.5,Rajbal Skin Clinic
+hospital,12.9066637,77.6287463,1.5,Prashanth Hospital
+hospital,13.0147612,77.6335463,1.5,Dianova Diabetes Center and Hospital
+hospital,12.9777082,77.6323407,1.5,Ameena Medical centre
+hospital,12.9700356,77.6362439,1.5,Dr.Agarwal Eye & Dental Hospital
+hospital,12.9599306,77.7160447,1.5,SRL Diagnostics
+hospital,12.9850421,77.5460481,1.5,Dr Raos Maternity Hospital
+hospital,12.9485535,77.5748248,1.5,Sagar Chandramma Hospitals
+hospital,13.0169826,77.6432959,1.5,Trilife Hospital
+hospital,13.0267226,77.6041132,1.5,Vignesh Lab and Diagnostics
+hospital,12.9368104,77.6206345,1.5,Apollo Cradle
+hospital,12.9717049,77.5493718,1.5,Shiva Kumaraswamy Building
+hospital,12.8615976,77.5999324,1.5,Myo Medex - Ace Speciality Clinic
+hospital,12.911533,77.6764094,1.5,Stanford Speciality Hospital
+hospital,12.9124371,77.6813917,1.5,Dr Mohan Nursing Home
+hospital,12.9072384,77.6755805,1.5,Sparsh Clinic
+hospital,12.9041502,77.6741043,1.5,Raksha Orthopaedic And Multi Speciality Centre
+hospital,12.8750879,77.5950098,1.5,Narayana Nethralaya
+hospital,12.9121008,77.6820003,1.5,Naadi Ayurveda Center
+hospital,12.9217604,77.6618321,1.5,Kottakkal Arya Vaidya Sala
+hospital,12.9122002,77.6818637,1.5,The Family Doctor & The Family Pharma
+hospital,12.9194712,77.6130111,1.5,Life Care Hospital
+hospital,12.9161259,77.6311505,1.5,Bhagavathi Hospitals Private Limited
+hospital,12.9250105,77.6278708,1.5,Gunasheela Hospitals
+hospital,12.9151071,77.5624888,1.5,NRS Medical & Dental Specialists Centre
+hospital,12.9060641,77.6049776,1.5,Anurag Medical Centre
+hospital,12.9390944,77.5619057,1.5,Sarvodaya Hospital
+hospital,12.9703581,77.63022,1.5,Indianova Healthcare Pvt Ltd
+hospital,12.9977711,77.7548105,1.5,Sky Diagnostic Centre kumbena agrahara
+hospital,12.9179831,77.6691258,1.5,Dr Rachna - Homeopathy
+hospital,13.0830463,77.6347174,1.5,Regal Hospital
+hospital,13.0158543,77.7033173,1.5,Thyrocare
+hospital,12.9240063,77.6545058,1.5,Welnext
+hospital,12.966771,77.5349228,1.5,Employees State Insurance Dispensary
+hospital,12.9951627,77.5738144,1.5,Dr Solankis Eye Hospital
+hospital,13.0053923,77.5713352,1.5,Sri Sanjeevini Cold Laser Therapy
+hospital,12.975403,77.6470594,1.5,Dr. Bhargavi Reddy Women & Children Hospital
+hospital,12.973892,77.6460904,1.5,Axon Speciality Hospital
+hospital,12.9891818,77.689783,1.5,Bright Children's Clinic
+hospital,13.0316481,77.6023154,1.5,Sanjeevini Children & Women Clinic
+hospital,13.0203944,77.6512682,1.5,Procare Hospital
+hospital,12.9003193,77.6008061,1.5,Parimala Health Care
+hospital,13.0087504,77.6939806,1.5,"Sriram Hospital, Bangalore"
+hospital,13.0110115,77.6935975,1.5,K R Puram Super Speciality Hospital
+hospital,13.0048396,77.7036425,1.5,Maithri Nursing Home
+hospital,12.9702741,77.6468603,1.5,Unknown
+hospital,12.9876871,77.6093097,1.5,Medic Star Hospital
+hospital,12.9856985,77.6058578,1.5,Hsis Gosha Hospital
+hospital,12.9959413,77.6082575,1.5,Santosh Hospital
+hospital,12.9914123,77.6117329,1.5,Hospital
+hospital,12.9127062,77.6201668,1.5,Keva Ayurveda Health Care Pvt Ltd
+hospital,12.9552696,77.6428508,1.5,Ayurvaid Hospital
+hospital,12.9891941,77.6037864,1.5,H B S Hospital
+hospital,12.9705436,77.5834769,1.5,St. Martha's Heart Centre
+hospital,13.0325717,77.5582602,1.5,Sumathi Nursing and Maternity Home
+hospital,12.9863736,77.5793154,1.5,Desai Nursing Home
+hospital,12.9881648,77.5548179,1.5,Fortis Hospital
+hospital,12.9165359,77.6361865,1.5,Healing Earth Multispeciality Ayurveda Hospital
+hospital,12.9165795,77.6362187,1.5,Global Ayurveda Multispeciality Hospital
+hospital,12.8830054,77.6073285,1.5,Brahmi Ayurvedic Center
+hospital,12.9344224,77.6299785,1.5,Fj Merrit Hydrotherapy And Wellness
+hospital,12.9175511,77.6039486,1.5,Vedam Ayurveda Multispeciality Hospital
+hospital,12.9667253,77.6378289,1.5,Ayur jagruti
+hospital,13.0204424,77.6440607,1.5,Herbocare Hospital Pvt
+hospital,12.9378359,77.5573329,1.5,""" NRS Medical & Dental Specialists Centre"""
+hospital,12.9992982,77.7575636,1.5,Tele Rad RX DX Health care Pvt Ltd
+hospital,12.8526731,77.6676459,1.5,Spring Leaf Health Care Pvt Ltd
+hospital,12.9386994,77.5518394,1.5,Chiranjeevi Hospital & Maternity Home
+hospital,12.9373748,77.5494778,1.5,"Vinayaka Hospital, Hanumantha Nagar"
+hospital,12.9354293,77.5477956,1.5,Diavista Diabetes & Multispeciality Hospital
+hospital,12.9420715,77.553698,1.5,Meenakshi Hospital
+hospital,12.9408667,77.5603657,1.5,Medi-Tech Multi Speciality Hospital
+hospital,12.9420124,77.5506918,1.5,Kusuma Hospital
+hospital,12.9274553,77.5516293,1.5,Ring Road Hospital
+hospital,12.9389007,77.5438808,1.5,Pulse Multispecialty Hospital
+hospital,12.9316792,77.5450887,1.5,Surya Galaxy Hospital
+hospital,12.9593576,77.7461682,1.5,Wellness Ever
+hospital,12.9566858,77.7419283,1.5,Hair Loss Treatment in Bangalore - Hairline International
+hospital,12.9242825,77.6170883,1.5,Surya Diagnostics and Health Services
+hospital,13.0090882,77.6918556,1.5,Nimi dental bangalore
+hospital,12.9967611,77.7591252,1.5,New Life Hospital bangalore
+hospital,12.9946163,77.6023871,1.5,Ayushman Ayurvedic therapy centre
+hospital,12.9984229,77.5403887,1.5,Pristine Hospital
+hospital,12.9575029,77.5276466,1.5,Sri Vinayaka Hospital
+hospital,12.9573897,77.5276882,1.5,Shathayu Ayurveda Wellness Centre
+hospital,12.9594984,77.5275515,1.5,Hospital Sharavathi
+hospital,12.9735891,77.5443283,1.5,Arogya Kendra
+hospital,13.0029689,77.5526666,1.5,The Family Doctor Malleswaram
+hospital,12.9644231,77.5333324,1.5,Venkat Charmalaya
+hospital,12.9787049,77.5403581,1.5,V Care Medical Systems P Ltd
+hospital,12.968821,77.5246297,1.5,Manasa Hospital
+hospital,12.9691657,77.5351921,1.5,Saikrupa Hospital For Women's and Surgical Centre
+hospital,12.9768117,77.5449094,1.5,Cutis Academy of Cutaneous Sciences
+hospital,12.9621516,77.533401,1.5,Shreya Hearing Clinic
+hospital,12.9353208,77.6205504,1.5,Acura Speciality Hospital
+hospital,12.9603312,77.5300796,1.5,Prasad Nethralaya
+hospital,12.9717905,77.5372864,1.5,Vijayanagar Global Hospital
+hospital,12.9649703,77.5389842,1.5,Blossom Infertility Center
+hospital,12.958321,77.5350434,1.5,Padmashree Nursing Home and Maternity Home
+hospital,12.9639998,77.5302683,1.5,Unknown
+hospital,12.9706209,77.5151893,1.5,Dhanush Hospital
+hospital,12.957572,77.5184436,1.5,"S K Hospital, Bengaluru Urban"
+hospital,12.9062193,77.580682,1.5,"Green City Hospital, Bengaluru Urban"
+hospital,12.9947201,77.5715879,1.5,The Homoeo World
+hospital,12.9698405,77.5327211,1.5,Modern Family Doctor Pvt Ltd
+hospital,12.9312101,77.5756907,1.5,Oxford Hospital
+hospital,12.8584183,77.6653346,1.5,Oxford Hospital
+hospital,12.9059465,77.5904192,1.5,R R Hospital & Trauma Centre
+hospital,12.9039905,77.5859569,1.5,M N Speciality Clinic
+hospital,12.9067129,77.6265085,1.5,Prashanth Hospital
+hospital,12.9009278,77.5986641,1.5,Parimala Health Care
+hospital,12.853228,77.6653506,1.5,Springleaf Hospital
+hospital,13.0096231,77.6924713,1.5,Sri Ram Hospital
+hospital,12.9458746,77.5877756,1.5,Vijay Diagnostic Centre
+hospital,12.924274,77.5680927,1.5,Dr Lal PathLabs
+hospital,12.9242869,77.6532853,1.5,Welnext
+hospital,12.8943049,77.5682821,1.5,Sri Sai Ram Hospital
+hospital,13.0044499,77.5530755,1.5,Tamara Hospital & IVF Centre
+hospital,12.995573,77.5354215,1.5,ChanRe Rheumatology and Immunology Center and Research
+hospital,13.0120509,77.6998816,1.5,Deepa Hospital
+hospital,12.9709463,77.5451059,1.5,"Manasa Hospital, Vijayanagar"
+hospital,13.0957329,77.6273067,1.5,Agarahara Government Hospital
+hospital,12.9056092,77.5426964,1.5,Nagarathna Hospital
+hospital,13.0130826,77.5761449,1.5,Ramana Rao's clinic
+hospital,12.9983402,77.6200927,1.5,Government Maternity Home
+hospital,12.9306876,77.5794541,1.5,Lucid Medical Diagnostics
+hospital,12.9984887,77.5504219,1.5,Cauvery Orthopaedic Centre
+hospital,12.9168014,77.5851878,1.5,"Apollo Bengaluru Cradle Limited, Jayanagar"
+hospital,12.997613,77.5509423,1.5,"Nethradhama Superspeciality Eye Hospital, Rajajinagar"
+hospital,12.9397588,77.59445,1.5,NIMHANS - Ashwini Block
+hospital,13.0215807,77.7128053,1.5,Sathya Sai Lake Side Ortho Hospital
+hospital,12.9817167,77.6800412,1.5,Comfort Multispeciality Hospital
+hospital,12.9400669,77.5931597,1.5,National Institute of Mental Health and Neuro Sciences
+hospital,12.9404277,77.5988406,1.5,NBRC(National Brain Research Center)
+hospital,12.9876335,77.6851595,1.5,Dr. Roshni's Tooth Planet Dental Clinic
+hospital,12.9716236,77.6273835,1.5,Cambridge Hospital
+hospital,12.9555357,77.5918347,1.5,Respigen healthcare
+hospital,13.014746,77.6357881,1.5,Doctor's diagnostics Centre
+hospital,13.0080001,77.5837482,1.5,Hosmat Hospital
+hospital,12.9597752,77.6569127,1.5,Cloudnine Hospital Pvt. Ltd.
+hospital,13.0090912,77.656317,1.5,Subramanium Medicine Store
+hospital,13.0104342,77.6583242,1.5,Chaya Super Speciality Hospital
+hospital,12.9849537,77.5569222,1.5,Altius Hospital
+hospital,12.9918415,77.5968531,1.5,Bangalore Diabetes Hospital
+hospital,13.011845,77.5526061,1.5,NU Hospitals
+hospital,12.9472091,77.5966914,1.5,V. S. Achar Multispeciality Hospital
+hospital,12.933223,77.5842632,1.5,Nature Cure Hospital
+hospital,12.966103,77.5549647,1.5,Government Hospital
+hospital,12.9403849,77.5945391,1.5,"Emergency Block , NIMHANS"
+hospital,12.9138086,77.5273633,1.5,Usha Vikranth Diagnostic Center and Hospital
+hospital,12.9719805,77.6474011,1.5,Nethradhama Superspeciality Eye Hospital
+hospital,13.0308849,77.7599564,1.5,Kannamangala Primary Health Center
+hospital,13.0028637,77.7569157,1.5,Telerad RXDX Kadugodi
+hospital,13.0552027,77.6028234,1.5,Care Health
+hospital,12.9542624,77.5709473,1.5,Sri Shankara Cancer Hospital And Research Centre (A Service Unit Of Sscf)
+hospital,12.9939752,77.5391801,1.5,Vathsalya Speciality Hospital
+hospital,12.9878631,77.6177434,1.5,Lakeside Medical Centre and Hospital
+hospital,12.9677607,77.5413282,1.5,Maruthi Hospital
+hospital,12.9362087,77.616947,1.5,Aparna Hospital
+hospital,12.9338175,77.6201615,1.5,Apollo Spectra Hospitals
+hospital,12.9256013,77.6359638,1.5,Sankeerthana Hospital and Fertility Center
+hospital,12.881611,77.6260763,1.5,Jayashree Multi Specilaity Hospital
+hospital,13.066842,77.6390545,1.5,Bangalore Prime Hospital
+hospital,13.118638,77.6078781,1.5,CyteCare
+hospital,12.9366526,77.6277125,1.5,Shiva Vision Care
+hospital,13.0711049,77.5781394,1.5,Medical Center
+hospital,12.8437851,77.6659275,1.5,apollo medical shop
+hospital,12.9781293,77.6372391,1.5,Sujatha Hospital
+hospital,13.011214,77.6979598,1.5,Patil Hospital
+hospital,12.9821954,77.5493143,1.5,The Eye Surgical Centre
+hospital,13.1001877,77.5813432,1.5,Omega Multispeciality Hospital
+hospital,13.0957808,77.5792872,1.5,NDR Hospital
+hospital,13.0665572,77.59647,1.5,Venus Bone & Joint Centre
+hospital,13.0182102,77.540004,1.5,Lourdes High School
+hospital,13.016705,77.539386,1.5,Boregowda Lingamma Hospital
+hospital,13.0175606,77.5394308,1.5,Kanva Hospital
+hospital,12.9156896,77.4808065,1.5,Kengeri Upanagara Government Hospital
+hospital,12.9158516,77.5593919,1.5,Yogananda Multi Speciality Hospital
+hospital,12.9998982,77.5501121,1.5,Dr. Agrawal's Eye Hospital
+hospital,12.9948905,77.5347984,1.5,Ashok Hospital
+hospital,12.9376087,77.5666429,1.5,Balaji Hospital and Gastroenterology Center
+hospital,12.9517481,77.4939886,1.5,Abhay Hospital
+hospital,13.0237316,77.5941463,1.5,Chaitanya Hospital
+hospital,12.9981979,77.568151,1.5,Dr. B. Venkatasubbarao Memorial Hospital
+hospital,12.9497745,77.5802779,1.5,"South City Hospital, Bengaluru Urban"
+hospital,13.0370143,77.6238732,1.5,"Sri Sai Hospital, Bengaluru Urban"
+hospital,12.9998457,77.5663653,1.5,Jupiter Hospital And Institute Of Vascular Surgery
+hospital,12.9829857,77.5309655,1.5,"Shreyas Hospital, Bengaluru Urban"
+hospital,13.0289685,77.6045479,1.5,Ashirwad Hospital
+hospital,13.0965172,77.5787745,1.5,N.D.R. Hospital
+hospital,13.0263529,77.5933929,1.5,Asha Kiran Children & Women Health Care Centre
+hospital,12.9690441,77.5688544,1.5,Radha Maternity and Surgical Hospital
+hospital,12.9878104,77.5809833,1.5,"Hitech Kidney Stone Hospital, Bengaluru Urban"
+hospital,12.9822186,77.5599374,1.5,Sri Dhavantari Ayurveda Hoapital
+hospital,12.9845512,77.5528322,1.5,Vaidyam Hospital
+hospital,12.9897745,77.5551014,1.5,Suresh Hospital - Bangalore
+hospital,13.0058226,77.5694512,1.5,Lakshmi Maternity Home
+hospital,13.0077265,77.5696993,1.5,Manjunatha Maternity Home and Surgical Centre
+hospital,12.9932806,77.580691,1.5,Samprathi Eye Hospital And Squint Centre
+hospital,13.0089953,77.5406188,1.5,Shankara Nethralaya Eye Hospital
+hospital,12.8919509,77.5799654,1.5,Supra South City Hospital
+hospital,12.9992083,77.550269,1.5,ChanRe Rheumatology and Immunology Center and Research
+hospital,12.9579894,77.5114394,1.5,Chandana Hospital
+hospital,13.0398217,77.6230843,1.5,"J M J Hospital, Bengaluru Urban"
+hospital,12.9215013,77.5655432,1.5,Sri Krishna Hospital
+hospital,12.9966677,77.5716037,1.5,Malleswaram Eye Day Care Hospital - Bengalore
+hospital,12.9933551,77.5729595,1.5,Mahaveer Eye Hospital Private Limited
+hospital,12.9989833,77.5802015,1.5,Bilva Hospital
+hospital,12.9256932,77.5773127,1.5,"Nethradhama Superspeciality Eye Hospital, Jayanagar"
+hospital,12.9122295,77.5994906,1.5,Dr Agarwals Eye Hospital Ltd
+hospital,12.926471,77.6167399,1.5,Sri Venkateshwara Hospitals
+hospital,12.9339097,77.620208,1.5,"Nova Specialty Surgery Center, Koramangala"
+hospital,12.9118831,77.5528805,1.5,C.S. Hospital
+hospital,12.9650437,77.5435022,1.5,Sri Kalabyraveshwara Swamy Ayurvedic Medical College hospital
+hospital,12.9765645,77.5455876,1.5,"Anugraha Hospital, Vijayanagar"
+hospital,13.103924,77.5837862,1.5,Apple Hospital
+hospital,12.9711822,77.5781228,1.5,Amar Hospital
+hospital,12.95727,77.5640827,1.5,Retina Institute Of Karnataka
+hospital,12.9572978,77.5644522,1.5,The Venlakh Hospital
+hospital,12.9406698,77.5644596,1.5,Vishwabharathi Hospital Pvt. Ltd
+hospital,12.9404548,77.5578493,1.5,"Sunetra Eye Hospital, Bengaluru Urban"
+hospital,12.9253299,77.5711893,1.5,Sri Vivekananda Sevashrama
+hospital,12.9276382,77.568896,1.5,Saraswathi Hospital
+hospital,12.9894936,77.7337486,1.5,Narayana Multispeciality Hospital
+hospital,12.9386321,77.5944105,1.5,National Institute of Mental Health and Neuro Sciences
+hospital,12.9291283,77.5461361,1.5,Netraspandana Healthcare and Research Pvt. Ltd
+hospital,13.0945892,77.594104,1.5,North City CT Scan
+hospital,12.9176216,77.5550705,1.5,Nu Trust
+hospital,12.9817311,77.5333714,1.5,"Padmavathi Hospital, Bengaluru Urban"
+hospital,12.9957177,77.5031644,1.5,Panchamukhi Specialityu Hospital
+hospital,12.9881868,77.5087273,1.5,Sri Lakshmi Multi Speciality Hospital
+hospital,13.0090828,77.6235594,1.5,K C Raju Multi Speciality Hospital
+hospital,12.9278657,77.5519297,1.5,Ring Road Hospital
+hospital,12.8822813,77.5957945,1.5,"Vasan Eye Care Hospital, Bannergatta Road"
+hospital,12.924624,77.6170966,1.5,Varalakshmi Hospital
+hospital,13.0223669,77.5587304,1.5,Kala Hospital
+hospital,12.917589,77.5948906,1.5,"Shekhar Hospital, Jayanagar"
+hospital,13.0842019,77.5308891,1.5,Rajalakshmi Hospital
+hospital,12.9103393,77.5732398,1.5,"Vasan Eye Care Hospital, Sarakki"
+hospital,12.9551501,77.7051643,1.5,Lions Airport City Hospital
+hospital,12.9079615,77.6235715,1.5,Mahanth Hospital
+hospital,12.9255233,77.5937748,1.5,Sunayana Eye Hospital
+hospital,13.024837,77.592089,1.5,"Lakshmi Hospital, Ganganagar"
+hospital,13.0186045,77.6479433,1.5,Lokhande S Hospital
+hospital,13.0250141,77.5856289,1.5,Dr. T.V.Ramesh Piles Hospital
+hospital,12.9163994,77.5847384,1.5,Dr Kamini Rao Hospital(A Unit Of Bacc Health Care Pvt Ltd)
+hospital,12.9605309,77.592659,1.5,HCG
+hospital,13.0218188,77.613084,1.5,Dr Ambedkar Medical College Hospital
+hospital,12.9929043,77.5588015,1.5,"Supriya Hospital, Bengaluru Urban"
+hospital,13.0212406,77.6070739,1.5,Manju Sree Hospital
+hospital,13.0322819,77.5770459,1.5,Raj Mahal Vilas Hospital
+hospital,12.9412109,77.6238987,1.5,Devi Eye Hospital
+hospital,12.974865,77.5096312,1.5,Essential Hospital
+hospital,13.0373572,77.6409059,1.5,Shree Vijayalakshmi Hospital and Trauma Centre
+hospital,12.9548208,77.5672585,1.5,Kalasa Maternity Home
+hospital,12.982442,77.5493681,1.5,Sidvin Hospital Pvt Ltd
+hospital,12.9246384,77.5509238,1.5,Abhilash Hospital And Sara Rehabilitation Centre
+hospital,12.9343279,77.6228848,1.5,"HCG, Koramangala"
+hospital,12.8957636,77.6330289,1.5,"Ganesh Nursing Home, Bengaluru Urban"
+hospital,12.8987442,77.6263127,1.5,Kavya Hospital
+hospital,12.9275311,77.5457901,1.5,Sg Hospital
+hospital,12.9988238,77.5819892,1.5,Place Guttahalli Maternity Home
+hospital,12.9608027,77.5911717,1.5,"Phoenix Hospital, Bengaluru Urban"
+hospital,12.9215104,77.4832503,1.5,"Shreya Hospital, Bengaluru Rural"
+hospital,13.0241341,77.6335546,1.5,"Vasan Eye Care Hospital, Banaswadi"
+hospital,12.9255704,77.4857756,1.5,Sri Annapoorneshwari Hospital
+hospital,13.0251833,77.5920609,1.5,"Vasan Eye Care Hospital, R.T.Nagar"
+hospital,12.9563016,77.5747874,1.5,Kims Hospital and Research Centre
+hospital,12.9489406,77.5949925,1.5,"Karthik Hospital, Bengaluru Urban"
+hospital,12.9670215,77.5892667,1.5,Bangalore Kidney Stones Hospital
+hospital,12.9825937,77.6814736,1.5,Sree Lakshmi Hospital
+hospital,12.9271131,77.5471291,1.5,"Abhaya Eye Hospital, Super Speciality Eye Care Centre"
+hospital,12.9994472,77.6162584,1.5,Mediscope Hospital Private Limited
+hospital,13.0555559,77.6517145,1.5,Medi Derma Hospital
+hospital,12.9110975,77.4806057,1.5,Mathru Hospital - Bangalore
+hospital,12.9825845,77.6124926,1.5,Manjushree Speciality Hospital
+hospital,13.0045747,77.5432728,1.5,Namratha Nursing And Maternity Home
+hospital,12.9424801,77.5473283,1.5,The Pulse Multi Speciality Hospital
+hospital,12.9514854,77.5703564,1.5,Popular Hospital
+hospital,12.9526505,77.5548633,1.5,Gavipuramguttahalli Maternity Home
+hospital,13.0139247,77.6640775,1.5,Ayurseva Hospital
+hospital,12.9745134,77.5493883,1.5,Spine Care And Ortho Care Hospital
+hospital,12.8579673,77.5892687,1.5,Vijayashree Hospitals
+hospital,12.9733764,77.5474034,1.5,Tanmay Hospital
+hospital,12.9651587,77.7150508,1.5,Aayug Multi Speciality Hospital
+hospital,12.9568547,77.7002262,1.5,MGA Hospital
+hospital,12.8705439,77.6595353,1.5,Blossom Hospital
+hospital,12.9160636,77.6308219,1.5,Bhagavathi Multi Speciality Hospital
+hospital,12.9144587,77.6003156,1.5,Sri Sai Ram Hospital - Bangalore
+hospital,12.9645006,77.5427189,1.5,Susheel Hospital
+hospital,12.9654318,77.52312,1.5,Dhanush Hospital
+hospital,12.970023,77.6307987,1.5,"Sadhana Eye Hospital, Bengaluru Urban"
+hospital,12.938853,77.5786096,1.5,Av Hospital
+hospital,12.9632506,77.5602901,1.5,"Balaji Hospital, K.H. Ranganath Colony"
+hospital,13.0205082,77.6509675,1.5,Banasawadi Hospital
+hospital,13.0221036,77.6387729,1.5,Bangalore Eye Hospital And Retina Centre
+hospital,12.9110766,77.4800451,1.5,Belaku Eye Hospital
+hospital,12.9670615,77.5903161,1.5,Bhavatprabhu Hospitals Pvt Limited
+hospital,12.975802,77.6184806,1.5,Nikad Ortho Centre
+hospital,13.0195733,77.5419559,1.5,Raksha Multispeciality Hospital
+hospital,13.0195955,77.5419813,1.5,Cambridge Hospital
+hospital,13.0983472,77.5773677,1.5,"Prasad Hospital, Bengaluru Urban"
+hospital,13.1215236,77.6126106,1.5,Saranalaya Hospital
+hospital,12.9559644,77.5485635,1.5,Azad Nagar Maternity Home
+hospital,12.9403012,77.5764705,1.5,Gunasheela Surgical and Maternity Hospital
+hospital,12.9207314,77.5736019,1.5,Excel Care Hospital
+hospital,12.9292015,77.5819811,1.5,"Vasan Eye Care Hospital, Jayanagar"
+hospital,12.9271389,77.579028,1.5,Hi Tech Kidney Stone Hospital
+hospital,12.9242515,77.573217,1.5,Dr. Vidyananda's Surgery and Dia Centre
+hospital,12.8981572,77.6207364,1.5,"Srushti Hospital, Bengaluru Rural"
+hospital,12.9004567,77.6005474,1.5,Parimala Speciality Hospital
+hospital,12.8443653,77.583809,1.5,Banashankari Hospital
+hospital,13.0138123,77.6354731,1.5,"R K Hospital, Bengaluru Urban"
+hospital,12.9356703,77.6079905,1.5,"Prasad Eye Hospital, Bengaluru Urban"
+hospital,12.9819768,77.5108275,1.5,Unity Lifline Hospital Pvt Ltd
+hospital,13.0098352,77.5384723,1.5,J.P.Nursing Home
+hospital,13.0267995,77.5870813,1.5,North Side Health Centre
+hospital,12.8548947,77.6681162,1.5,Anugrahaa Hospital
+hospital,13.0657486,77.5992653,1.5,Amrutha Hospital
+hospital,12.910823,77.5207892,1.5,"Unity Hospital, Bengaluru Urban"
+hospital,12.9675989,77.6565533,1.5,Dr Chaitanyas Dental Care & Implant Centre
+hospital,12.9188948,77.6058905,1.5,Kareem E.N.T and Multispeciality Centre
+hospital,12.9777106,77.6459773,1.5,Chinmaya Narayana Super Specialty Centre
+hospital,12.9496114,77.5790786,1.5,Jyothi The Lasik Vision Centre
+hospital,12.9563042,77.5830996,1.5,Bengaluru West Lions Hospital
+hospital,12.9716291,77.5371969,1.5,Vijayanagar Hospital
+hospital,12.9550181,77.5683897,1.5,Abhinava Eye Hospital
+hospital,12.9067079,77.5849275,1.5,North Star Maternity and Nursing Home
+hospital,12.9685305,77.5843965,1.5,"Punarjyoti Eye Hospital, Bengaluru Urban"
+hospital,13.0080166,77.6221479,1.5,Sundar Hospital
+hospital,13.0121705,77.6961802,1.5,"Sri Ramakrishna Hospital, Bengaluru Urban"
+hospital,13.0423919,77.5136653,1.5,Sri Venkateshwara Eye Hospital
+hospital,13.015884,77.5973475,1.5,V Care Hospital
+hospital,12.9601022,77.5315556,1.5,A.M. Hospital
+hospital,12.9586907,77.5352668,1.5,"Divya Drishti Eye Hospital, Vijayanagar"
+hospital,12.9617045,77.5217172,1.5,"Shridevi Hospital, Bengaluru Urban"
+hospital,13.0147224,77.6515616,1.5,Srinivasa Eye Hospital
+hospital,13.0112166,77.6743939,1.5,Spandana Hospital And Medical Centre
+hospital,12.9732706,77.5725357,1.5,Sreeniwasa Hospital
+hospital,12.988865,77.5078006,1.5,Ashraya Medinova Pvt Ltd
+hospital,12.9741253,77.561823,1.5,Magadi Road Maternity Home
+hospital,12.9980009,77.5432779,1.5,Pristine Hospital
+hospital,13.0021978,77.6329015,1.5,Dr Zamindar's Micro Surgical Eye Centre
+hospital,13.0004769,77.5054027,1.5,K.T.G. Hospital
+hospital,12.8980516,77.6339279,1.5,Vasan Eye Care Hospital
+hospital,12.9709143,77.6321116,1.5,Health Cottage Hospital
+hospital,12.89708,77.5473364,1.5,Samastha Hospitals Pvt Ltd
+hospital,13.0263344,77.595128,1.5,Poornima Hospital
+hospital,13.0357404,77.7347061,1.5,S.N. Hospital
+hospital,13.0178594,77.6547577,1.5,Dr.Zamindar Microsurgical Eye Centre
+hospital,13.0328036,77.633289,1.5,Good Shepherd Hospital
+hospital,12.9960196,77.6128413,1.5,"Dr.Agarwal Eye Hospital, Frazer Town, Bangalore"
+hospital,13.0377564,77.5744454,1.5,"Mamta Hospital, Bengaluru Rural"
+hospital,13.0360827,77.575065,1.5,S. J. Hospital
+hospital,12.964162,77.5982255,1.5,Republic Hospital
+hospital,12.9074269,77.5716318,1.5,R.R. Hospital and Trauma Centre
+hospital,13.0357169,77.7351701,1.5,Geetha Hospital
+hospital,13.0080397,77.6971089,1.5,"Suresh Hospital, Bengaluru Urban"
+hospital,13.0088071,77.6948659,1.5,Sri Ram Netralaya and Surgical Centre
+hospital,13.0090854,77.6969567,1.5,"Patil Hospital, Bengaluru Urban"
+hospital,13.011968,77.6659168,1.5,Sri Sai Eye Hospital
+hospital,12.9543777,77.6209764,1.5,Sri Ram Speciality Hospital
+hospital,13.0149675,77.6354957,1.5,Zion Hospital And Research Centre Pvt.Ltd.
+hospital,13.0068811,77.5055636,1.5,Jai Maruthi Hospital
+hospital,12.9619528,77.5728562,1.5,Institute Of Nephro Urology hospital
+hospital,12.9425676,77.6224349,1.5,Well Spring hospital
+hospital,13.0105038,77.5502452,1.5,Aaroyha Mandir Hospital
+hospital,12.9862161,77.5374853,1.5,"Punya Hospital, Bengaluru Urban"
+hospital,12.9418827,77.48376,1.5,"Vijaya Hospital, Bengaluru Urban"
+hospital,12.9761802,77.5261763,1.5,Sandhyashree Hospital
+hospital,13.0276736,77.6614188,1.5,Dr. Sailaja's Super Speciality Eye Hospital
+hospital,12.9162753,77.5589544,1.5,Hillside Hospital
+hospital,12.9646359,77.5926509,1.5,Pd Hinduja Sindhi Hospital
+hospital,12.9986239,77.542782,1.5,Sri Ranga Arogyadhama
+hospital,12.978053,77.5115959,1.5,Brinda Hospital
+hospital,12.95119,77.4918039,1.5,Sankalpa Hospital
+hospital,12.9705902,77.5108503,1.5,Deepashri Hospital
+hospital,12.9817233,77.5549364,1.5,Rotary Eye Hospital (A Unit Of Bangalore North Rotary Trust)
+hospital,13.0218344,77.5567093,1.5,Acharya Tulsi Jain Hospital
+hospital,12.9526616,77.61503,1.5,Get Well Hospital
+hospital,13.0241863,77.5960574,1.5,Premier Hospital
+hospital,13.0001802,77.5461146,1.5,Gurukripa Hospital and Health Care Centre
+hospital,13.0269276,77.6227882,1.5,Avian Medicare and Research Centre
+hospital,12.8919999,77.6257829,1.5,Vinayaka Health Care and Maternity Home
+hospital,13.0113204,77.6771966,1.5,Little Flower Hospital
+hospital,12.9543465,77.5755649,1.5,"Venkateswara Hospital, Bengaluru Urban"
+hospital,13.0093599,77.5222108,1.5,Sai Baba Hospital
+hospital,12.8914666,77.5612113,1.5,"Metro Hospital, Bengaluru Rural"
+hospital,12.9783164,77.5429603,1.5,"Madhu Hospital, Bengaluru Urban"
+hospital,13.0236062,77.6196139,1.5,Al- Habeeb Hospital
+hospital,12.9439008,77.6065864,1.5,"Santhigiri Ayurveda and Siddha Hospital, Bengaluru Urban"
+hospital,12.9745983,77.5436792,1.5,Padmashree Diagnostics
+hospital,12.9721779,77.6807872,1.5,Venus MultiSpeciality Hospital
+hospital,12.8541208,77.6624811,1.5,Ramakrishna Hospital
+hospital,12.9102142,77.6244654,1.5,Roopena Agrahara Government Hospital
+hospital,12.922327,77.736038,1.5,"Government Hospital, Gunjur"
+hospital,13.031132,77.483923,1.5,Thippenalli Government Hospital
+hospital,13.009817,77.5231852,1.5,Laggere Government Hospital
+hospital,13.0164321,77.7169887,1.5,Seegehalli Government Hospital
+hospital,12.993382,77.5694167,1.5,K.C. General Hospital
+hospital,13.1376521,77.744809,1.5,"Government Hospital, Budigere"
+hospital,13.049152,77.510442,1.5,NELAMAHESHWARI Government Hospital
+hospital,13.0701337,77.6329103,1.5,Sai Hospital
+hospital,12.9358669,77.4927128,1.5,Sree Ranga Hospital
+hospital,13.0324318,77.6085263,1.5,Cure Hospital
+hospital,12.9853993,77.5454024,1.5,Yashas Neurocare
+hospital,12.9870634,77.549951,1.5,Focus Diagnostic Center
+hospital,12.931298,77.5412566,1.5,Vittal Eye HOspital
+hospital,13.0413777,77.5050224,1.5,naveen clinc
+hospital,12.9240924,77.6177848,1.5,Chamundi Hi Tech Hospital
+hospital,12.9807257,77.6823734,1.5,Little Flower Hospital
+hospital,13.006205,77.7004289,1.5,NMPC Hospital
+hospital,13.0082031,77.697197,1.5,R R Hospital
+hospital,12.9901305,77.6713322,1.5,Jeevan Hospital
+hospital,13.0031618,77.7059531,1.5,Vicky Family Life
+hospital,12.9946786,77.6709989,1.5,Vedam Ayurveda Multi Speciality Hospital
+hospital,13.0239995,77.6585299,1.5,Stroke Treatment Paralysis
+hospital,13.0283977,77.6599575,1.5,Geriatric Hospitals
+hospital,13.0219523,77.6994046,1.5,Health Plus Multi Speciality Hospital
+hospital,12.9966313,77.671863,1.5,Pragathi Piles Hospital
+hospital,12.9895049,77.6741439,1.5,Mahaveer Hospitals
+hospital,13.033219,77.6747693,1.5,Eshawar HospItal
+hospital,12.973637,77.675186,1.5,Medihope Super Specialty Hospital
+hospital,12.989869,77.676589,1.5,Cure N Care Hospital
+hospital,13.0106539,77.6969464,1.5,Sad Bydya Shala Ayurvedic Hospital
+hospital,13.011115,77.697361,1.5,Sri Lakshmi Super Speciality Hospital
+hospital,13.0031938,77.7128759,1.5,Kids Health Link
+hospital,12.991561,77.6757833,1.5,Prakruti Hospital
+hospital,13.0042616,77.7114153,1.5,Amrutha Healthcare
+hospital,12.975501,77.534972,1.5,Kamadhenu Hospital
+hospital,12.9688989,77.6422131,1.5,Dr. Rajesh Hospitals Eye and Dental
+hospital,12.957269,77.653945,1.5,OJUS Multi Speciality Hospital
+hospital,12.9835824,77.5289448,1.5,Benaka Hospital
+hospital,12.9744928,77.5342045,1.5,"Goverment Hospital, Hosahalli"
+hospital,12.9635299,77.6662889,1.5,Jhon's Medical Hospital
+hospital,12.96767,77.5226459,1.5,Vijaya Hospital
+hospital,12.9780731,77.5251934,1.5,Government Hospital
+hospital,12.9734087,77.5462808,1.5,Sriprasad Ayurveda
+hospital,12.9707429,77.5377684,1.5,Vidya Eye Hospital
+hospital,12.9698194,77.6317472,1.5,Sai Baba Hospital
+hospital,12.9555948,77.6418006,1.5,Shree Sai Speciality Hospital
+hospital,12.9615606,77.5222312,1.5,Shree Dhanvantari Ayurveda Hospital
+hospital,12.961509,77.523151,1.5,Srinivasam Cancer Care Multi Speciality Hospital
+hospital,12.9589495,77.6603768,1.5,Magdum Hospital
+hospital,12.9673428,77.6424996,1.5,Athoz Hospitals
+hospital,12.9802303,77.5548818,1.5,G.R. Hospital
+hospital,12.9754301,77.5358001,1.5,Sneha Horizon Hospital
+hospital,12.968292,77.524492,1.5,Jagjeevanram Hospital
+hospital,12.974339,77.542325,1.5,Kangroo Hospital
+hospital,12.9757486,77.553782,1.5,Abhinav Hospital
+hospital,12.969102,77.534951,1.5,Suhusannidhi Hospital
+hospital,12.963967,77.4973049,1.5,Abivrud Cancer Care & Research Centre
+hospital,12.9745497,77.5208943,1.5,Panchsheela Nagar Hospital
+hospital,12.9693009,77.6317545,1.5,ESIC Hospital
+hospital,12.9698191,77.5360801,1.5,Sai Ortho and Dental Centre
+hospital,12.9794315,77.5441641,1.5,Ammashrees Hospital
+hospital,12.963951,77.64308,1.5,Lohitha Hospital
+hospital,12.9639829,77.5188899,1.5,Government Hospital
+hospital,12.9679971,77.5015759,1.5,Revathi Hospital
+hospital,12.9637162,77.5188263,1.5,Shanthakumari Hospital
+hospital,12.9735574,77.5461246,1.5,Bengaluru Child Neurology and Rehabilitaion Centre
+hospital,12.976379,77.524439,1.5,Sumati Hospital
+hospital,12.9583212,77.659636,1.5,Dr. Hemant Agrawal
+hospital,12.975423,77.540659,1.5,Dr. Nothesh Child Specialist
+hospital,12.9544981,77.6401572,1.5,Swasthya Hospitals
+hospital,12.958861,77.654322,1.5,Miracle Hopital
+hospital,12.9698787,77.5332834,1.5,Sastry Memorial Hospital
+hospital,12.852699,77.667688,1.5,Springleaf Hospital
+hospital,12.8859649,77.6489078,1.5,Hospitec Multispeciality Hospital
+hospital,12.9056165,77.6122688,1.5,Sri Venkateswara Hospital
+hospital,12.895426,77.607662,1.5,Rajashri Grandhim Hospitals
+hospital,12.8908362,77.6040715,1.5,Goldage Hospital
+hospital,12.8350141,77.6953077,1.5,JJ Hospitals
+hospital,12.850377,77.6567056,1.5,Best E City Hospital
+hospital,12.93753,77.549675,1.5,Vinayaka Hospital
+hospital,12.9633185,77.5790145,1.5,Unani Hospital
+hospital,12.9596227,77.6146819,1.5,Rahul Maternity & Child Health Centre
+hospital,12.9405198,77.5794387,1.5,Bangaluru Unani Hospital
+hospital,12.953049,77.574203,1.5,Medcare Hospital
+hospital,12.9417439,77.5601782,1.5,Sumanjara Hospital
+hospital,12.961345,77.560893,1.5,Corporation Hospital
+hospital,12.945591,77.5712865,1.5,Mitralaya Hospital
+hospital,12.942076,77.553598,1.5,People Tree Hospitals
+hospital,12.936459,77.584422,1.5,Apollo Specialty Hospital
+hospital,12.9609494,77.5613939,1.5,Government Hospital
+hospital,12.940404,77.5580361,1.5,Verna Hospital
+hospital,12.9587464,77.5573456,1.5,"Government Hospital, Banglore"
+hospital,12.960311,77.568274,1.5,Royan Maternity & Child Welfare Centre
+hospital,12.9652304,77.6104334,1.5,Alisa Eye Hospital
+hospital,12.945944,77.567404,1.5,Shekhar Hospital
+hospital,12.949104,77.563226,1.5,Government Hospital
+hospital,12.9415883,77.5641917,1.5,Jeevini Sarvodaya Hospital
+hospital,12.9569684,77.5695045,1.5,Mahaveer Ortho Care Speciality Centre
+hospital,12.938787,77.554296,1.5,Raghavendra Hospital
+hospital,12.938453,77.551329,1.5,Apaara Multi Speciality
+hospital,12.939882,77.573989,1.5,Khincha Orthopaedic Centre
+hospital,12.948971,77.563543,1.5,Parameshwari Hospital
+hospital,12.9422541,77.5506328,1.5,Drishti Nethralaya
+hospital,12.9654649,77.5894756,1.5,Furtde Hospital
+hospital,12.9702549,77.5734571,1.5,Manavarthapet Pregnancy Hospital
+hospital,12.9434996,77.5796583,1.5,Trinity Hospital and Heart Foundation
+hospital,12.957222,77.566486,1.5,Spandana Heart Centre
+hospital,12.960296,77.614714,1.5,Shas Eye Care
+hospital,12.9420276,77.575634,1.5,Matha Pitha Hospital
+hospital,12.972126,77.573351,1.5,ESI Hospital
+hospital,12.960972,77.5609696,1.5,Herige Hospital
+hospital,12.9654497,77.5999044,1.5,Gleneagles Global Hospitals
+hospital,12.9658901,77.589928,1.5,Punarjyoti Eye Hospital
+hospital,12.9479647,77.5696395,1.5,Swastik Eye Hospital
+hospital,12.9458294,77.5799015,1.5,Dave Gray Hospital
+hospital,12.9650303,77.5954946,1.5,Dr. Rudrappa's Hospital
+hospital,13.081777,77.54091,1.5,Aveksha Hospital
+hospital,13.0193799,77.6535352,1.5,Shishuka Children's Speciality Hospital
+hospital,13.0091103,77.6579493,1.5,Skin Remediez
+hospital,13.0524836,77.6120857,1.5,Navya Hospital
+hospital,13.0201491,77.6516628,1.5,Ovum Birthing Centre
+hospital,13.0528211,77.6041042,1.5,Icon Hospital
+hospital,13.0283463,77.6298629,1.5,Medicure Hospital
+hospital,13.0102697,77.6525909,1.5,Motherhood Women & Children Hospital
+hospital,13.0866852,77.5535728,1.5,Santhamma Hospital
+hospital,13.0263661,77.6302142,1.5,Feran Hospital
+hospital,13.0166883,77.6604049,1.5,Super Specialty Eye Hospital
+hospital,13.013761,77.648529,1.5,Endocrine Speciality Centre
+hospital,13.0885791,77.5455057,1.5,Shree Sai Hospital
+hospital,13.065863,77.604213,1.5,Axis Hospital
+hospital,13.0188119,77.647187,1.5,Anjani Women's Day Care Hospital
+hospital,13.0658472,77.5992844,1.5,Eswar Women and Day Care Hospital
+hospital,13.026989,77.6281742,1.5,CDEC Hospital
+hospital,13.029101,77.620568,1.5,Pranam Dental Hospital
+hospital,13.0109537,77.6476418,1.5,Milaan Hospital
+hospital,13.020084,77.654053,1.5,Cloudnine Hospital
+hospital,13.1051735,77.6027864,1.5,NDR Multi Speciality Hospital
+hospital,13.120977,77.6176084,1.5,Valens Hospitals
+hospital,13.1039081,77.5754898,1.5,Bengalure Hospital
+hospital,13.102578,77.627895,1.5,Amruth Hospital
+hospital,13.098943,77.576716,1.5,Rangalakshmi Netralaya
+hospital,13.121743,77.629478,1.5,Saralaya Hospital
+hospital,13.101335,77.59858,1.5,Apurva Hospital
+hospital,13.1215701,77.6126077,1.5,Om Shakthi Hospital
+hospital,13.1025229,77.6278506,1.5,Shadab Hospital
+hospital,13.0997321,77.5760891,1.5,Rainbow Health Care
+hospital,13.098909,77.596219,1.5,Jayalakshmi Hospital
+hospital,13.10051,77.595603,1.5,NDR Orthopaedic
+hospital,13.1215659,77.6250507,1.5,Sri Arogya Hospital
+hospital,13.1213668,77.6174817,1.5,Sapthagiri Hospital
+hospital,13.0981485,77.596139,1.5,Pavan Hospitals
+hospital,13.0938081,77.5804166,1.5,Kushi Hospital
+hospital,13.1026581,77.6297932,1.5,Varsha Hospital
+hospital,13.098668,77.5826843,1.5,Just Smiles
+hospital,12.925461,77.609021,1.5,Lavis Hospital
+hospital,12.9215119,77.5724702,1.5,Sevakshetra Hospital
+hospital,12.9055752,77.5425258,1.5,Perfetual Help Hospital
+hospital,12.9121632,77.6098276,1.5,Shree Vaishnavi Heart Centre and Multi Speciality
+hospital,12.9136262,77.6045369,1.5,Marigold Hospital
+hospital,12.9334096,77.5622345,1.5,Bharathi Hospitals
+hospital,12.9239445,77.6198634,1.5,Devi Hospital
+hospital,12.924153,77.565797,1.5,Devagiri Hospital
+hospital,12.9159348,77.6034098,1.5,Pothys Hospital
+hospital,12.916234,77.593019,1.5,Center for Liver Disease Hospital
+hospital,12.9254569,77.5467101,1.5,Sudha Prevention Centre
+hospital,12.920651,77.5746118,1.5,Sahasra Hospital
+hospital,12.9265183,77.6090995,1.5,Health India Hospital
+hospital,12.9202202,77.5772991,1.5,Shanti Hospital
+hospital,12.923857,77.611355,1.5,Spurthy Hospital
+hospital,12.916885,77.585258,1.5,Apollo Cradle Maternity & Children's Hospital
+hospital,12.906113,77.542548,1.5,St. Martha's Hospital
+hospital,12.9778121,77.6459447,1.5,Chinmaya Hrudayalaya
+hospital,12.8812376,77.7516894,1.5,Sri Lakshmi Multi Speciality Hospital
+hospital,13.0903942,77.4966765,1.5,Government Hospital
+hospital,13.0803204,77.5535057,1.5,Government Hospital
+hospital,13.0770012,77.5581038,1.5,Bangalore Healthcare Center Pranav Ayurveda Hospital
+hospital,13.070554,77.5388968,1.5,Government Hospital
+hospital,13.0650144,77.5041964,1.5,Kruthika Hospital
+hospital,13.0621628,77.5177637,1.5,Dr Saju George Kottakkal
+hospital,13.0559513,77.5329456,1.5,Fathima Hospital
+hospital,13.0439933,77.5065494,1.5,Esi Dispensary
+hospital,13.0313399,77.5055985,1.5,Ashwini Hospital
+hospital,13.0280728,77.5231858,1.5,Esi Hospital Peenya 1st Stage
+hospital,13.006795,77.571159,1.5,Nayanalaya Super Speciality Eye Care Centre
+hospital,13.005821,77.5725746,1.5,Srinidhi Health Centre
+hospital,13.0054934,77.5719519,1.5,Orthopedic & Eye Care Center
+hospital,13.004596,77.5540033,1.5,ESI Hospital
+hospital,13.0044307,77.5785238,1.5,Ramani Orthopaedic Hospital
+hospital,13.004314,77.547749,1.5,Atharva Ayurdhama Ayurvedic Hospital
+hospital,13.0015461,77.5721683,1.5,RICH CARE HOMEOPATHY
+hospital,12.998238,77.551173,1.5,Poornayu Ayurveda Hospital
+hospital,12.9981064,77.6008126,1.5,Appllo Diagnostic
+hospital,12.9969996,77.5730038,1.5,Supra Diagnostics Spine Care And Ortho Care Hospital
+hospital,12.9960244,77.5693714,1.5,K.C.General Hospital
+hospital,12.9916924,77.5539007,1.5,ESIC Model Hospital
+hospital,12.9905045,77.5566355,1.5,Government Hospital
+hospital,12.9904985,77.5530924,1.5,Esi Hospital Bangalore
+hospital,12.9844963,77.5551801,1.5,Government Hospital
+hospital,13.0332219,77.5549236,1.5,Sun Orthopaedic center
+hospital,12.9305937,77.6186159,1.5,St. Johns hospital Emergency ward
+hospital,12.9128623,77.5714903,1.5,Healing Hands Advanced Physiotherapy Clinic
+hospital,12.9288444,77.5828703,1.5,Narayan Multispeciality clinic
+hospital,12.9208444,77.4847891,1.5,Adarsh Hospital
+hospital,12.9395279,77.586437,1.5,clinic
+hospital,13.0544507,77.6316369,1.5,Shree Manyata Hospitals
+hospital,12.9355966,77.5971575,1.5,Kidwai Cancer Institute Radiation Block
+hospital,13.0344639,77.6291947,1.5,Altius Hospital
+hospital,12.8474,77.6439378,1.5,Neo Hospital
+hospital,12.9365283,77.7046741,1.5,Maya Hospital
+hospital,12.9556074,77.7216631,1.5,Devi Eye Hospital
+hospital,12.9337751,77.7433234,1.5,Sahasra Hospital
+hospital,12.8832909,77.5500857,1.5,Cloudnine Hospital
+hospital,12.9429852,77.5460604,1.5,My Dentist
+hospital,12.9563317,77.7305782,1.5,Siddanth Hospital
+hospital,12.9263862,77.6766068,1.5,Apollo Pharmacy
+hospital,13.048083,77.628791,1.5,Suraksha Hospital
+hospital,12.9094156,77.663997,1.5,The Local Dentist
+hospital,12.9918503,77.5437825,1.5,Janani Clinics
+hospital,12.9144825,77.6491563,1.5,Lotus Hospital
+hospital,12.9782618,77.6435889,1.5,Ayaans Hospital
+hospital,12.9400516,77.5954768,1.5,NIMHANS Department Of Psychiatric and Neuro Rehabilitation
+hospital,12.9396498,77.5967825,1.5,Nimhans Mr-pet Center
+hospital,12.9402037,77.5954721,1.5,NIMHANS Physiotherapy Center
+hospital,12.8784742,77.5450234,1.5,Zymus Hospitals
+hospital,12.906071,77.5869281,1.5,Cadabam's Hospitals
+hospital,12.8350455,77.693987,1.5,JJ Hospital
+hospital,12.9596032,77.5112481,1.5,"Fortis Hospital, Nagarbhavi"
+hospital,13.058128,77.5860405,1.5,MEDSTAR Speciality Hospital
+hospital,12.9774449,77.6271297,1.5,Span Health Center
+hospital,12.8804891,77.6552588,1.5,Smile Smart Dental & Implant Centre
+hospital,12.9778346,77.6282837,1.5,Uvin Care Hospital
+hospital,12.8933895,77.6368614,1.5,Sai Sparsh Hospital
+hospital,12.9075935,77.5707809,1.5,Bengaluru City Hospital
+hospital,12.9971683,77.6145878,1.5,Aspire Hospital
+hospital,12.8835095,77.550214,1.5,Dhee Hospital
+hospital,12.9240012,77.6481809,1.5,Sai Thunga Hospitals
+hospital,13.098072,77.567378,1.5,Esha Hospital
+hospital,12.9058817,77.6037517,1.5,Chirag Global Hospital
+hospital,13.0624568,77.592227,1.5,Manipal Hospital OPD
+hospital,13.0065047,77.5545009,1.5,PMC Hospital
+hospital,12.9988382,77.5550964,1.5,New Varalakshmi Hospital
+hospital,13.0988482,77.5978974,1.5,Ashwini Hospital
+hospital,13.002768,77.5536287,1.5,Apollo Cradle Children's Hospital
+hospital,13.0620051,77.5930638,1.5,Motherhood Children's Hospital
+hospital,12.8728525,77.6515698,1.5,Abiramm Hospital
+hospital,12.99743,77.5510293,1.5,Netradhama
+hospital,12.871395,77.6542581,1.5,Sri Sai Hospital
+hospital,12.8841477,77.6492549,1.5,Unknown
+hospital,12.8892622,77.6505317,1.5,Raksha Hospital
+hospital,12.9658506,77.6109015,1.5,St Philomenas Hospital OPD Building
+hospital,12.9754354,77.5358965,1.5,Hiremath Hospital
+hospital,12.9962739,77.6075693,1.5,Gawai Hospital
+hospital,12.9678752,77.7500478,1.5,Dr. Agarwal's Eye Hospital
+hospital,12.9342277,77.6296323,1.5,Beams Hospitals Private Limited
+hospital,12.9569057,77.5824398,1.5,H Siddiah Referral Hospital
+hospital,12.939978,77.7467408,1.5,Suraksha Hospitsls
+hospital,12.9433908,77.7475266,1.5,Aria
+hospital,12.9519863,77.4989075,1.5,"Shri Mokambika Women's Clinic, Child care and Nethralaya"
+hospital,12.9519538,77.4990341,1.5,Suraksha Diagnostic Centre
+hospital,12.9566829,77.7414284,1.5,Cloud Nine
+hospital,12.9937247,77.5539724,1.5,Jindal Charitable Hospital
+hospital,12.9644726,77.6143018,1.5,Hosmat Hospitals
+hospital,12.9160037,77.6523087,1.5,Bangalore Gastro Centre
+hospital,12.980602,77.7092104,1.5,Narayana Nethralaya
+hospital,12.9762006,77.7258334,1.5,Nethradhama
+hospital,12.9388501,77.7472104,1.5,Sree Venkateshwara Hospital
+hospital,12.9296701,77.5764082,1.5,AMC Multispeciality Hospital
+hospital,12.9346221,77.6284665,1.5,Proteeth Dental
+hospital,13.0170153,77.6429262,1.5,Trilife Hospital
+hospital,12.9405054,77.5848675,1.5,Big Hospitals
+hospital,13.0202419,77.6516186,1.5,Motherhood
+hospital,13.0058328,77.6597392,1.5,NASA Hospitals
+hospital,13.0219385,77.6385853,1.5,Bangalore Orthopeadic And Surgical Hospital
+hospital,12.9070989,77.5460762,1.5,Nano Hospitals
+hospital,12.932315,77.6852483,1.5,Sakra World Hospital
+hospital,12.9779337,77.6461885,1.5,Chinmaya Mission Hospital
+hospital,13.0305079,77.535667,1.5,KLE Dental College
+hospital,13.0157723,77.5638038,1.5,Health Centre
+hospital,12.9950532,77.5697431,1.5,K C General Hospital
+hospital,12.9708175,77.5857431,1.5,St Marthas Hospital
+hospital,12.9681553,77.5950421,1.5,Vydehi Superspeciality Hospital
+hospital,12.9261175,77.592549,1.5,Jayanagar General Hospital
+hospital,12.9383683,77.5899069,1.5,Hospital Complex
+hospital,12.918526,77.599254,1.5,Sri Jayadeva Institute Of Cardiology
+hospital,13.04958,77.5509219,1.5,HMT Hospital
+hospital,13.0503387,77.5567647,1.5,BEL Hospital
+hospital,12.8947511,77.5985816,1.5,"Fortis Hospitals, Bannerghatta Road"
+hospital,12.89632,77.5983495,1.5,Apollo Hospital
+hospital,12.9914884,77.5952993,1.5,Bhagwan Mahaveer Jain Hospital
+hospital,12.9830115,77.6047116,1.5,Bowring and Lady Curzon Hospitals
+hospital,12.9837175,77.599792,1.5,Sir Haji Ismail Gosha Sait Hospital
+hospital,12.9641529,77.5676947,1.5,Government Veterinary Hospital
+hospital,12.9798353,77.5651105,1.5,Railways Hospital
+hospital,13.0347249,77.5901708,1.5,Baptist Hospital
+hospital,12.9713479,77.6367243,1.5,ESI Hospital
+hospital,13.1041114,77.5829963,1.5,Railways Hospital
+hospital,13.0971434,77.5893851,1.5,KK Hospital
+hospital,12.992488,77.7062224,1.5,ESI Dispensary
+hospital,12.9110143,77.5797725,1.5,Rajshekhar Hospital
+hospital,12.9574104,77.7134875,1.5,Karunashraya
+hospital,12.9571436,77.7128215,1.5,Sankara Eye Hospital
+hospital,12.9833345,77.5945358,1.5,"Sparsh Hospital For Advanced Surgeries, Bengaluru Urban"
+hospital,12.9808814,77.7303132,1.5,Sri Sathya Sai Institute of Higher Medical Sciences
+hospital,12.908884,77.5136186,1.5,Manipal Speciality Hospital
+hospital,12.9587074,77.6490296,1.5,"Manipal Hospital, Bengaluru Urban"
+hospital,13.0990774,77.5861467,1.5,Chaitanya Nursing Home
+hospital,12.9409612,77.5455617,1.5,Radhakrishna Multispeciality Hospital
+hospital,12.9164637,77.5796155,1.5,Rajalakshmi Multispeciality Hospital
+hospital,12.9585777,77.6481409,1.5,Manipal Hospital
+hospital,12.9829238,77.6446972,1.5,Indiranagar Government Hospital
+hospital,12.9839262,77.6436191,1.5,Isolation Hospital
+hospital,12.9864155,77.6437586,1.5,Epidemic Disesase Hospital
+hospital,12.9909528,77.5534579,1.5,Employees' State Insurance Corporation Model Hospital
+hospital,12.9308127,77.5412224,1.5,"Vittala International Institute Of Ophthalmology, Hosakerehalli"
+hospital,12.966082,77.656317,1.5,ISRO Employees Hospital
+hospital,13.0282176,77.569775,1.5,Ramaiah Memorial Hospital
+hospital,12.9691251,77.6133228,1.5,Hosmat Hospital
+hospital,12.9634957,77.5736948,1.5,Victoria Hospital
+hospital,13.050953,77.5938654,1.5,Manipal Hospital
+hospital,12.9643477,77.5845256,1.5,Dasappa Maternity Hospital
+hospital,12.9858278,77.6429649,1.5,Isolation Hospital
+hospital,12.9803669,77.5390159,1.5,Sarvodaya Hospital
+hospital,12.9773598,77.5428202,1.5,Dasarahalli Referral Hospital
+hospital,13.0271503,77.5768623,1.5,Nethra Eye Hospital
+hospital,12.936526,77.5981388,1.5,Kidwai Memorial Institute of Oncology
+hospital,12.9904017,77.7335762,1.5,Narayana Health
+hospital,12.9644407,77.5926745,1.5,P.D. Hinduja Sindhi Hospital
+hospital,13.0224158,77.6580401,1.5,Nmpc Hospital
+hospital,12.9173301,77.5851028,1.5,Shri Krishna Sevashrama Hospital
+hospital,12.9555043,77.7053083,1.5,Lions Seva Hospital
+hospital,12.9907432,77.5649082,1.5,Sreerampura Referal Hospital
+hospital,12.9623685,77.6664034,1.5,HAL Hospital
+hospital,12.9294355,77.564005,1.5,Pro MED Hospital
+hospital,12.9362818,77.5843424,1.5,Apollo Speciality Hospital
+hospital,12.9216723,77.5721649,1.5,"Sevakshetra Hospital, Bengaluru Urban"
+hospital,12.9253024,77.5774064,1.5,Netradhama Hospital
+hospital,13.0302068,77.560704,1.5,Subbaiah Hospital
+hospital,12.9884932,77.5945504,1.5,"Fortis Hospitals Limited, Bengaluru Urban"
+hospital,12.9952564,77.6527138,1.5,ESI Hospital
+hospital,13.1256158,77.5468302,1.5,Institute of Ayurveda and Integrative Medicine (I-AIM)
+hospital,12.9788013,77.6380849,1.5,Milann Fertility Center
+hospital,13.0116917,77.5438731,1.5,Sanjeevani Hospital
+hospital,12.9103586,77.600474,1.5,Dr. Agarwal's Eye Hospital
+hospital,12.9356389,77.5935945,1.5,Sanjay Gandhi Accident and Trauma Hospital
+hospital,12.9357711,77.5939433,1.5,Sanjay Gandhi Accident and Trauma Hospital
+hospital,12.9191928,77.6381223,1.5,Greenview Hospital
+hospital,12.9744546,77.5640222,1.5,Leprosy Hospital
+hospital,13.0384676,77.527802,1.5,Ravi Kirloskar Memorial Hospital
+hospital,13.0943148,77.58071,1.5,Dr. Agarwal Eye Hospital
+hospital,12.9999803,77.6144986,1.5,Annasawmy Mudaliar General Hospital
+hospital,12.9685282,77.6457748,1.5,Arth Ayurveda World
+hospital,13.1077314,77.5717299,1.5,"Neha Prakash Hospital, Bengaluru Urban"
+hospital,13.1056278,77.5772997,1.5,Sri Lakshmi Venkateshwara Hospital
+hospital,13.065084,77.5936343,1.5,Prolife Hospital
+hospital,12.9829065,77.7478025,1.5,Amrik Hospital
+hospital,13.0146094,77.6464563,1.5,Indicus
+hospital,12.9657452,77.6097161,1.5,Fortis La Femme Hospital
+hospital,12.9714272,77.627494,1.5,Shyamala Hospital
+hospital,12.9599619,77.7126304,1.5,Ways2Guide Speech Therapy Center
+hospital,12.9718119,77.693776,1.5,Government Primary Health Centre
+hospital,12.9920515,77.7064747,1.5,Kinder Women's Hospital & Fertility Center
+hospital,13.0285228,77.5587301,1.5,Medicare Diagnostics
+hospital,12.9462798,77.5947839,1.5,Abhaya Hospital
+hospital,12.9807106,77.646011,1.5,MS Diabetes Speciality Center
+hospital,12.9265095,77.5808392,1.5,Shashank Clinic
+hospital,12.9491979,77.596808,1.5,BBMP Maternity Hospital
+hospital,12.978694,77.5744614,1.5,Ramakrishna Clinic
+hospital,12.9279948,77.5894064,1.5,ESI Hospital
+hospital,12.9346732,77.6287815,1.5,Unknown
+hospital,12.9346254,77.6284672,1.5,Proteeth Dental
+hospital,12.9883152,77.5726942,1.5,Apollo Hospital
+hospital,12.9928137,77.5386455,1.5,Supra Hospital
+hospital,12.9929463,77.5386927,1.5,GM Hospital
+hospital,12.9052747,77.6031945,1.5,Sakhi Hospital (A Unit Of Prasad Healthcare Services)
+hospital,12.9391883,77.5513126,1.5,Prashanth Hospitals
+hospital,13.0084773,77.5684217,1.5,Vagus Super Speciality Hospital
+hospital,13.0171298,77.6432944,1.5,Ovum Hospitals
+hospital,13.0546111,77.5915016,1.5,Unknown
+hospital,12.9262236,77.5775108,1.5,Deepak Hospital
+hospital,12.9955667,77.5354224,1.5,ChanRe Rheumatology And Immunology Center And Research
+hospital,12.9883622,77.5343261,1.5,Gopala Eye Care Centre
+hospital,12.9583496,77.7454332,1.5,Manipal Hospitals
+hospital,12.9659074,77.7025531,1.5,Jeevika Hospital
+hospital,13.0152635,77.6467105,1.5,Sharada Medicals
+hospital,12.973692,77.6266773,1.5,Halasuru Referal Hospital
+hospital,12.9882084,77.5921572,1.5,Manipal Hospital
+hospital,12.9591543,77.6464476,1.5,BBMP Primary Health Center
+hospital,13.0081737,77.5634644,1.5,The Fracture and Orthopaedic Clinic
+hospital,12.991305,77.6011314,1.5,CSI Hospital
+hospital,12.9490229,77.6199247,1.5,Government Hospital
+hospital,12.9279005,77.5998446,1.5,Sagar Hospitals
+hospital,12.9078674,77.5651623,1.5,Sagar Hospital
+hospital,12.9638649,77.6279636,1.5,Command Hospital (Air Force)
+hospital,13.0995716,77.5962927,1.5,Yelahanka Government Hospital
+hospital,12.9649568,77.6111375,1.5,St. Philomena's Hospital
+hospital,12.9377267,77.5697859,1.5,Government Maternity Hospital
+hospital,12.9637737,77.5896796,1.5,HCG Cancer Hospital
+hospital,12.9898869,77.5942601,1.5,Al-Ameen Hospital
+hospital,13.0067504,77.5529489,1.5,St. Theresa's Hospital
+hospital,13.0668492,77.6394164,1.5,Shirdi Sai Hospital
+hospital,12.9756177,77.6470614,1.5,Life Hospital
+hospital,12.9496516,77.5803074,1.5,South City Hospital
+hospital,12.9880712,77.7286414,1.5,Manipal Hospitals Whitefield
+hospital,12.9179135,77.6722553,1.5,Motherhood
+hospital,12.9199685,77.6652549,1.5,Manipal Hospitals
+hospital,12.9135595,77.6795552,1.5,Suvarnamukhi
+hospital,12.9322182,77.6853258,1.5,Sakra World
+hospital,12.9753078,77.697834,1.5,Rainbow Children's Hospital
+hospital,12.9492019,77.5977936,1.5,Agadi Hospital
+hospital,12.8964133,77.6950639,1.5,Punarjani Ayurvedic Multispeciality Hospital
+hospital,12.9659234,77.7494061,1.5,Svastha Hospital
+hospital,13.0277509,77.5429924,1.5,Sparsh Hospital
+hospital,12.8980981,77.6338265,1.5,Unknown
+hospital,12.9413364,77.5674679,1.5,BMS Hospital
+hospital,12.9246391,77.5006239,1.5,Medical Centre
+hospital,12.9980069,77.5459005,1.5,M C Modi Eye Hospital
+hospital,12.9689357,77.7494971,1.5,Pushpa Nursing Home
+hospital,13.0177672,77.5417058,1.5,Unknown
+hospital,13.0725243,77.5035875,1.5,Nrr Hospital
+hospital,13.057066,77.508511,1.5,Arunodaya Hospitals
+hospital,13.048319,77.5080361,1.5,Dr Ramachandra Hospital
+hospital,13.0991845,77.5968656,1.5,Government Hospital
+hospital,13.0982401,77.5970471,1.5,Deeksha Hospital
+hospital,12.9414292,77.5226387,1.5,Puneeth Rajkumar Multispeciality Hospital
+hospital,13.1247842,77.5764128,1.5,CRPF Hospital
+hospital,13.028489,77.6325562,1.5,"HOSMAT Hospital, Kalyan Nagar"
+hospital,13.1036126,77.5837987,1.5,Navachethana Hospital
+hospital,12.9427199,77.525514,1.5,Natus Woman and Children Hospital
+hospital,13.0507482,77.4832827,1.5,Jindal Naturecure Institute hospital
+hospital,13.0046358,77.6823567,1.5,ITI General Hospital
+hospital,13.0099309,77.5941222,1.5,JC Nagar Municipal Hospital
+hospital,13.1114469,77.5550611,1.5,NIKISA Dementia Village
+hospital,12.9830337,77.5365274,1.5,Government Homeopathic Hospital
+hospital,12.9863583,77.5792111,1.5,Dr. P.R. Desai Hospital Pvt Ltd
+hospital,13.0142942,77.5560784,1.5,Manipal Hospital Yeshwantpur
+hospital,12.9900045,77.5989675,1.5,"Shifa Hospital, Bengaluru Urban"
+hospital,13.0037443,77.5498305,1.5,Diacon Hospital
+hospital,13.0022012,77.5491011,1.5,Fortis Hospital
+hospital,13.0545318,77.5918707,1.5,Aster CMI Hospital
+hospital,13.0655778,77.5937383,1.5,Rainbow Children's Hospital
+hospital,12.9244197,77.6724971,1.5,Cloudnine
+hospital,12.8670052,77.7671289,1.5,Spandana
+hospital,12.9124863,77.6765573,1.5,BN Specialty Hospital
+hospital,12.9883438,77.7339468,1.5,Aster Women and Children Hospital
+hospital,13.0463371,77.5065296,1.5,Prakriya Hospital
+hospital,12.9589657,77.7467194,1.5,Motherhood Whitefield
+hospital,12.9849552,77.556924,1.5,Unknown
+hospital,13.0011093,77.5639472,1.5,Unknown
+hospital,13.0282887,77.5391464,1.5,People Tree Hospitals
+hospital,12.9667949,77.7172659,1.5,Apollo Cradle
+hospital,12.9896386,77.60226,1.5,Charaka Super Speciality Hospital
+hospital,13.0058093,77.5694388,1.5,Unknown
+hospital,12.9112661,77.7075837,1.5,Karunalayam Hospital
+hospital,12.9166101,77.6450517,1.5,Phoenix Hospital
+hospital,13.0151199,77.5600013,1.5,ESI Hospital Malleshwaram Branch
+hospital,12.9116986,77.6495441,1.5,Bhoomi Diagnostics
+hospital,12.9082086,77.6435134,1.5,Narayana Multispeciality Hospital
+hospital,12.9033828,77.6007409,1.5,Rainbow Children's Hospital
+hospital,13.0949654,77.5986449,1.5,Sparsh Hospital
+hospital,13.0091404,77.7590705,1.5,Miracle Hospital
+hospital,12.9882302,77.5600393,1.5,Suguna Hospital
+hospital,13.040171,77.6406846,1.5,"Sparsh Hospital, Hennur"
+hospital,12.9569001,77.6047605,1.5,Dr Agarwal's Eye Hospital
+hospital,13.097274,77.6477522,1.5,Government Primary Health Centre
+hospital,12.9017283,77.7155216,1.5,Snehadaan Hospital
+hospital,12.9264187,77.5216783,1.5,SS Sparsh Hospital
+hospital,13.1166792,77.5800714,1.5,KPTCL Hospital Yelahanka
+hospital,12.9156928,77.6752029,1.5,Cloud Nine
+hospital,12.9949885,77.5937862,1.5,BBMP Hospital
+hospital,12.9609247,77.5611731,1.5,Unknown
+hospital,13.1076284,77.6033814,1.5,Manipal Hospital North
+hospital,12.9162232,77.5890151,1.5,Jnana Sanjeevini
+hospital,13.0937967,77.5893672,1.5,Anupamaa Hospital
+hospital,12.9478274,77.5924806,1.5,Brains Super Speciality Hospital
+hospital,12.8628027,77.6663559,1.5,PESU HOSPITAL
+hospital,12.9031532,77.5603082,1.5,Vasavi Hospital
+hospital,13.1183866,77.6082057,1.5,Brains Hospital
+hospital,13.0249864,77.530936,1.5,ESI Hospital Peenya
+hospital,12.9202359,77.6674739,1.5,Rainbow Childrens Hospital
+hospital,12.9447394,77.5964164,1.5,Safa Medicure Hospital
+hospital,13.0924907,77.5863327,1.5,Chaitanya Medical Centre Maternity and Surgical Care
+hospital,12.9538911,77.5711462,1.5,Rangadore Memorial Hospital
+hospital,12.9606538,77.5840403,1.5,Trustwell Hospitals
+hospital,12.971172,77.6651791,1.5,BEML Hospital
+hospital,12.9566836,77.712382,1.5,Sri Vishveshathirtha Memorial Hospital
+hospital,13.0214559,77.553599,1.5,Government Maternity Hospital
+hospital,12.9510658,77.4810597,1.5,Government Multi-Speciality Hospital
+hospital,12.9090409,77.66389,1.5,Klinik Guhen - Dental Clinic
+hospital,12.9271061,77.576658,1.5,Yadiyuru Maternity Hospital
+hospital,12.9267938,77.5772972,1.5,Ayurveda Prathisthana Hospital
+hospital,13.0529326,77.7172701,1.5,East Point Hospital and Medical College
+hospital,12.8348606,77.6807681,1.5,Vimalaya Hospital
+hospital,13.0207585,77.7016687,1.5,Shanthinilaya Hospital
+hospital,13.115139,77.6339212,1.5,Apex Hospital
+hospital,12.9438635,77.5969221,1.5,Vignan Hospital
+hospital,12.967036,77.717977,1.5,Mahanandi
+hospital,12.9005656,77.6757868,1.5,Aarogya Hastha Hospital
+hospital,12.9239736,77.6133232,1.5,Life Care Hospital
+hospital,13.0564574,77.7156811,1.5,Unknown
+hospital,12.9614692,77.5736889,1.5,Vanivilas Women and Children Hospital
+hospital,12.9610731,77.572289,1.5,Minto Eye Hospital
+hospital,13.0297293,77.5685912,1.5,M S Ramaiah Hospital
+hospital,13.0292222,77.5693751,1.5,Faculty Of Dental Sciences
+hospital,12.9754934,77.7293535,1.5,Vydehi Institute Of Medical Sciences And Research Centre
+hospital,13.0705768,77.5023526,1.5,Sapthagiri Hospital
+hospital,12.929648,77.6185932,1.5,St.John's Medical College Hospital
+university,12.8630037,77.6594242,1.5,International Business School
+university,13.0151185,77.5681179,1.5,Centre for Product Design and Manufacturing (CPDM)
+university,13.0132383,77.5686174,1.5,CiSTUP
+university,13.0155209,77.5681206,1.5,Interdisciplinary Centre for Energy Research
+university,13.0158581,77.5683888,1.5,Interdisciplinary Centre for Water Research
+university,13.0164088,77.5682496,1.5,Organic Chemistry
+university,13.016856,77.5682738,1.5,Inorganic and Physical Chemistry
+university,13.0173833,77.5659752,1.5,Central Purchase and Stores
+university,13.0171773,77.5648502,1.5,Insdoc
+university,13.0186339,77.5709242,1.5,Electronic Systems Engineering
+university,13.0175447,77.5700198,1.5,Joint Advanced Technology Programme
+university,13.0185648,77.5645301,1.5,Amenities Hall
+university,13.018047,77.5649882,1.5,Tata Memorial Club
+university,13.0268228,77.6329007,1.5,Florida College of Management and Computer Science
+university,13.0269256,77.6329391,1.5,Florida College of Education
+university,13.0271338,77.6330115,1.5,Florence College of Physiotherapy
+university,13.026313,77.5845772,1.5,National Bureau of Agriculturally Important Insects
+university,13.0769358,77.6665076,1.5,Vijaya Vittala Institute of Technology
+university,13.0763297,77.6654991,1.5,Alpha College of Engineering
+university,13.0184079,77.5707285,1.5,Computer Aided Design Laboratory
+university,13.0245647,77.5783085,1.5,RRI Hostel
+university,13.0137034,77.5816225,1.5,Light and Matter Physics
+university,13.0145591,77.5608745,1.5,Student Amenities Center
+university,13.0179477,77.5661498,1.5,Student Council Office
+university,13.0163759,77.5651518,1.5,Hostel Office
+university,13.0129211,77.5690015,1.5,Society for Innovation and Development
+university,12.9279136,77.5866159,1.5,Vijaya Pre-University College
+university,12.9494661,77.7026457,1.5,Dr. Shyamala Reddy Dental College
+university,13.1246098,77.6202857,1.5,Bridavan College of Engineering
+university,13.0155366,77.5687483,1.5,Society of Biological Chemists
+university,12.9001507,77.630134,1.5,The Oxford Dental College & Hospital
+university,12.8617178,77.6643703,1.5,PESIT Bengaluru South
+university,12.9551259,77.5741985,1.5,Bangalore Institute of Technology
+university,12.9564316,77.5741194,1.5,Kempegowda Institute of Medical Sciences
+university,12.9541058,77.5741524,1.5,VV Puram College of Arts and Commerce
+university,12.9089389,77.5664343,1.5,Dayanand Sagar College of Engineering
+university,12.9659306,77.6616713,1.5,Sacred Heart College
+university,12.9441664,77.5969354,1.5,Bangalore Institute of Dental Sciences
+university,12.9865401,77.5772559,1.5,Yadava College
+university,12.9017846,77.5183793,1.5,RNS Institute of Technology
+university,12.9169487,77.6194004,1.5,Alliance Business School Admin Office
+university,12.8849462,77.5818317,1.5,Capitol College of Nursing
+university,13.0138137,77.5694411,1.5,Satish Dhawan Auditorium
+university,12.9444702,77.5847747,1.5,Horticulture Training Center
+university,13.0155815,77.6426558,1.5,East Point College
+university,12.9753608,77.5313481,1.5,ASC Study Center
+university,12.9761551,77.5305492,1.5,ASC Degree College
+university,12.9900378,77.537746,1.5,Zee Institute of Creative Arts
+university,12.9608934,77.527289,1.5,Chandra Gymkhana Institute
+university,12.9797671,77.5858092,1.5,CMS
+university,13.0192552,77.5707254,1.5,Divecha Centre for Climate Change
+university,12.8872703,77.5817854,1.5,Amaravathy PU College
+university,12.9020523,77.631261,1.5,The Oxford College of Engineering
+university,12.8990538,77.4963065,1.5,SJB Institute of Technology
+university,12.921883,77.5675933,1.5,BNM Institute of Technology
+university,12.9792701,77.6393682,1.5,Kairalee Nikethan Education Trust
+university,12.977444,77.6367467,1.5,K M J College Of Nursing.
+university,12.9824741,77.6381006,1.5,Business Excellence Institute
+university,12.9096963,77.5808492,1.5,The Oxford College of Hotel Management
+university,12.9098009,77.5808465,1.5,The Oxford Pre-University College
+university,12.9095343,77.5808465,1.5,The Oxford Evening Polytechnic
+university,12.9098532,77.5808465,1.5,The Oxford Polytechnic
+university,12.9801411,77.6374953,1.5,FFE IT - Foundation for excellence india trust
+university,12.9313595,77.5135774,1.5,Urban DIET
+university,12.9175685,77.6143926,1.5,"Iqra International School, Bangalore"
+university,12.9195986,77.608563,1.5,Wisdom International School
+university,12.993765,77.5393225,1.5,S Cadambi Pre University College
+university,13.0788225,77.5717807,1.5,Agricultural Engineering
+university,13.0165683,77.5709518,1.5,Department of Computational and Data Sciences
+university,13.016558,77.5707323,1.5,Supercomputer Education and Research Centre
+university,12.9655881,77.6036377,1.5,Presidency University
+university,12.974863,77.6021343,1.5,Stracey Memorial Composite PU College
+university,12.9237659,77.5696566,1.5,MVJ PU College
+university,12.9853846,77.5444298,1.5,Allen Career Institute
+university,13.044455,77.5801705,1.5,Brindavan College
+university,13.03269,77.6305228,1.5,Vbr pu college
+university,12.9933689,77.5528214,1.5,Government First Grade College
+university,12.9848766,77.5559878,1.5,Rajajinagar PU Degree College
+university,12.9913348,77.5507951,1.5,Hindi Shikshak Training College
+university,13.0282133,77.6306485,1.5,Teacher's Academy Degree College
+university,13.0267394,77.5633585,1.5,IISc-ISRO Space Technology Cell
+university,13.0254093,77.5633894,1.5,Centre for High Energy Physics
+university,13.0249311,77.5629804,1.5,Astronomy and Astrophysics Programme
+university,13.0235748,77.5634176,1.5,"Molecular Reproduction, Development & Genetics"
+university,13.0234782,77.5643228,1.5,Microbiology & Cell Biology
+university,13.0233135,77.5637421,1.5,Centre for Ecological Sciences
+university,13.0241471,77.5640331,1.5,Biochemistry
+university,13.0168248,77.5653917,1.5,Centre for Cryogenic Technology
+university,12.9741814,77.6081923,1.5,JD Institute of Fashion Technology
+university,13.0682855,77.5044244,1.5,Academic Block Sapthagiri College
+university,12.938738,77.5230114,1.5,Vidya Vikas Polytechnic
+university,13.0123129,77.6793137,1.5,St. Anne's Pre-University College For Girls
+university,12.902777,77.5073782,1.5,Chitrakala Parishattu
+university,12.9668354,77.6369007,1.5,Lavonne Academy of Baking Science and Pastry Arts
+university,12.9454491,77.509215,1.5,Department of Geology
+university,12.9698416,77.5082103,1.5,NRI Institute
+university,13.0066617,77.5449837,1.5,Anupama College of Management And Science
+university,12.9900587,77.5661228,1.5,Government Pre University College
+university,12.9864281,77.7166625,1.5,GPUC-Gopalan PU College
+university,12.979487,77.510375,1.5,Bsv Pu College Malagala
+university,12.97713,77.4824667,1.5,East West College of Nursing And Management
+university,12.9764149,77.4825255,1.5,East West College of Pharmacy
+university,12.9686611,77.5856195,1.5,Global Institute of Medical Science
+university,12.905931,77.54275,1.5,G.r. Correspondence College
+university,13.019726,77.5552398,1.5,M.S.Polytechnic
+university,13.0836189,77.4841495,1.5,Acharya graduate studies
+university,12.9215629,77.5911575,1.5,Rang De Bharat Foundation
+university,12.921552,77.5911015,1.5,Sampratishta School of Fine Arts & Design
+university,12.9990996,77.5502801,1.5,Sri Aurobindo College
+university,13.0264468,77.5918691,1.5,The Bangalore School of Music
+university,13.0293422,77.5837058,1.5,Dairy Science College
+university,13.0285112,77.5835663,1.5,National Bureau of Soil Survey and Landuse Planning
+university,13.1265925,77.5898427,1.5,"Manipal Law School, Bengaluru"
+university,13.1251819,77.5905025,1.5,"Department of Public Policy, MAHE"
+university,13.1254954,77.5904596,1.5,"Department of Liberal Arts, Humanities and Social Sciences, MAHE"
+university,13.1264958,77.5904864,1.5,"Manipal Institute of Technology, Bengaluru"
+university,12.8582964,77.5896874,1.5,Dr. Ramanah Manohar College of Law
+university,13.0297739,77.5678793,1.5,M S Ramaiah Faculty of Pharmacy
+university,12.9793318,77.6151279,1.5,Hasnath College for Women
+university,13.0074059,77.5819464,1.5,"IIHS, Bengaluru City Campus Annexe - I"
+university,12.9692353,77.7006739,1.5,Srushti Degree College
+university,12.9533506,77.5700275,1.5,South India Banks Staff Training College
+university,13.0058168,77.6267398,1.5,Peniel Community College for Women
+university,13.0015536,77.5695007,1.5,Nagarathna Srikantaiah Paramedical College
+university,13.0093598,77.5800587,1.5,"IIHS, Bengaluru City Campus - Annexe II"
+university,12.9874213,77.5948654,1.5,IDeA College
+university,12.9879659,77.5909142,1.5,St. Anne's PU College
+university,12.9736287,77.5861788,1.5,Government Science College
+university,12.9738939,77.5850362,1.5,Government Arts College
+university,12.975095,77.5842717,1.5,Central College
+university,12.980325,77.5832927,1.5,"Maharani's Arts, Commerce and Management College"
+university,12.9775492,77.583451,1.5,VHD Home Science College
+university,12.9795827,77.5839847,1.5,Maharani's Science College for Women
+university,13.1285502,77.5867957,1.5,Management Studies Department
+university,13.1284405,77.5877371,1.5,EEE Department
+university,13.1284784,77.5870505,1.5,ECE Department
+university,13.1284562,77.5872771,1.5,CSE Department
+university,13.1285737,77.5879464,1.5,Physics Department
+university,13.1287331,77.5879531,1.5,Chemistry Department
+university,13.1287057,77.5868145,1.5,MCA Department
+university,13.1284549,77.5875024,1.5,ISE Department
+university,13.1274479,77.5861976,1.5,NMIT Polytechnic
+university,13.1277797,77.5863504,1.5,Nitte School of Architecture Planning & Design
+university,13.1286482,77.5864591,1.5,Aeronautical Department
+university,13.1288493,77.5864604,1.5,Mechanical Department
+university,13.1290439,77.5864698,1.5,Civil Department
+university,13.1303461,77.5868466,1.5,Nitte School of Fashion Technology and Interior Design
+university,13.1309703,77.5886518,1.5,NITTE School of Management
+university,13.1307666,77.5869191,1.5,Nitte College of Pharmaceutical Sciences
+university,12.9994188,77.6769089,1.5,Lowry Adventist College And Group Of Institutions
+university,12.9777914,77.6367793,1.5,Indian Institute of Fashion Technology
+university,13.0612215,77.5874562,1.5,Cauvery First Grade college
+university,13.0378544,77.5215723,1.5,GPS Institute of Agricultural Management
+university,13.0473955,77.50291,1.5,Sacred Heart College of Nursing
+university,12.9683857,77.4818304,1.5,KLE Law College
+university,12.915418,77.4809643,1.5,Seshadripuram Independent Pre-University College
+university,12.9155804,77.4811537,1.5,Seshadripuram Academy of Business Studies
+university,12.9790145,77.5852812,1.5,Government Institute of Printing Technology
+university,12.9747615,77.5816294,1.5,University Law College
+university,12.9233711,77.499694,1.5,RV University
+university,12.9637093,77.5064206,1.5,AIT Information Science
+university,12.963542,77.505565,1.5,AIT Medical Electronics
+university,12.9640334,77.5065815,1.5,AIT Mechanical Engineering
+university,12.9647601,77.5068685,1.5,AIT Civil Engineering
+university,13.077387,77.579739,1.5,Institute of Agri-Business Management
+university,13.0773825,77.57973,1.5,Institute of Agri-Business Management
+university,12.9754949,77.5570151,1.5,Seshadripuram Commerce College
+university,12.9865202,77.7166571,1.5,GCC-Gopalan College of Commerce
+university,12.9864718,77.7171122,1.5,GCEM-Gopalan College of Engineering and Management
+university,13.0841838,77.4856544,1.5,Acharya Institute of technology
+university,12.8657518,77.6013598,1.5,Maaruti Dental College Campus
+university,12.8958685,77.6023239,1.5,Indian Institute of Management Bangalore
+university,12.9085681,77.5925762,1.5,Vasavi Education Trust
+university,12.9328613,77.6165599,1.5,Jyoti Nivas Women's College
+university,12.9210822,77.5962995,1.5,ME & WA College
+university,13.0389095,77.6402952,1.5,Sadupadesa College
+university,13.0364055,77.6388752,1.5,Asanath College
+university,13.0342791,77.5326462,1.5,Indian Plywood Industries Research and Training Institute
+university,13.0347813,77.5350017,1.5,National Institute of Design - NID R&D Campus
+university,13.063974,77.6693003,1.5,Shri Vidya Niketan School and College
+university,13.0618103,77.6538567,1.5,South Asia Institute of Advanced Christian Studies
+university,13.0301869,77.5675088,1.5,MS Ramaiah University
+university,13.0312504,77.6696022,1.5,Saint John's Academy of Management Studies
+university,13.0284669,77.6397006,1.5,Bangalore City College
+university,13.0266869,77.6401929,1.5,Indo Asian Academy of Management Studies
+university,13.0113749,77.5685918,1.5,Maharani Lakhsmi Ammani
+university,13.0170508,77.565731,1.5,Old Physics Building
+university,12.9781351,77.586146,1.5,Sri Jayachamarajendra Government Polytechnic
+university,12.973065,77.585197,1.5,Nrupathunga University
+university,12.9551191,77.5745838,1.5,Unknown
+university,12.9641582,77.5873338,1.5,United Mission PUC and Degree College
+university,12.9337333,77.6051298,1.5,Christ University
+university,13.0130745,77.5811095,1.5,Raman Research Institute
+university,13.0009049,77.5829668,1.5,National Tuberculosis Institute
+university,13.0336431,77.535953,1.5,Central Manufacturing Technology Institute
+university,13.1355146,77.4943559,1.5,Indian Institute of Horticultural Research
+university,12.9559164,77.5728761,1.5,Theosophical Society
+university,12.9255074,77.5788375,1.5,National College Jayanagar
+university,12.9247333,77.5788669,1.5,National College
+university,12.9268815,77.5996431,1.5,Carmel Convent PU College
+university,12.9270063,77.5888743,1.5,BES Educational Institutions
+university,12.9225159,77.5927214,1.5,RV Institute of Management
+university,12.95715,77.6640427,1.5,Institute of Aerospace Medicine - IAM
+university,13.043819,77.5448045,1.5,St. Claret College
+university,13.0458868,77.5497795,1.5,Government College
+university,13.0428557,77.5383775,1.5,National Academy of Customs Excise and Narcotics
+university,13.0502782,77.5552088,1.5,BEL PU Composite College and First Grade College
+university,13.056135,77.5530783,1.5,Central Research Labarotary
+university,13.0715402,77.6503968,1.5,Southern Asia Bible College
+university,13.0031052,77.5678141,1.5,Government Ladies College
+university,12.9891598,77.5807461,1.5,Karnataka Chitrakala Parishath
+university,12.9889187,77.5762497,1.5,Sheshadripuram College
+university,13.0456314,77.5333949,1.5,Ministry of Fisheries Training
+university,13.0372145,77.6438639,1.5,National Institute of Creative Communication - NICC
+university,13.0237647,77.5312839,1.5,Foremen Training Institute - FTI
+university,13.0090184,77.5698089,1.5,Government First Grade College
+university,12.9746977,77.5861015,1.5,University Visvesvaraya College of Engineering
+university,12.9764135,77.5636204,1.5,Bapuji College
+university,12.9667564,77.5395051,1.5,Government Degree College
+university,13.0380171,77.5903177,1.5,Government First Grade College
+university,12.9280149,77.5870065,1.5,Vijaya College
+university,12.9232,77.5006374,1.5,R. V. College of Engineering
+university,13.0722766,77.6574607,1.5,Visthar
+university,12.9636618,77.6379214,1.5,The Energy Resource Institute
+university,12.9765873,77.6342897,1.5,Sri Bhagavan Mahaveer Jain College
+university,13.0994426,77.5853965,1.5,Jyothi College
+university,13.0998328,77.588044,1.5,Seshadripuram First Grade College
+university,13.1025091,77.5846333,1.5,National Insittute of Public Cooperation and Child Development
+university,13.083563,77.5908706,1.5,Central Institute of Medicinal and Aromatic Plants
+university,12.9025617,77.5050775,1.5,JSS Academy of Technical Education
+university,12.9646119,77.5066686,1.5,Dr. Ambedkar Institute of Technology
+university,12.9617018,77.5054207,1.5,Indian Institute of Plantation Management
+university,13.0049784,77.570229,1.5,Malleshwaram Ladies Association
+university,13.0054003,77.5635104,1.5,MES College of Arts and Science
+university,12.8792524,77.544629,1.5,KS Institute of Technology
+university,12.8887443,77.5506312,1.5,City Engineering College
+university,12.9665657,77.7123549,1.5,CMR Institute of Technology
+university,12.9578114,77.6583092,1.5,Vishweshwaraiah College
+university,12.9657747,77.6932731,1.5,HAL Management Academy
+university,12.9324122,77.5041669,1.5,Indian Statistical Institute
+university,12.9143275,77.7238616,1.5,Krupanidhi Institutions
+university,13.0012666,77.7595963,1.5,Sri Sathya Sai Institute of Higher Learning
+university,12.9323472,77.5814061,1.5,NMKRV College
+university,12.9626697,77.586985,1.5,Bishop Cotton's Women's Christian College
+university,13.0897175,77.5458768,1.5,Sambhram Institute of Technology
+university,13.1338993,77.5680227,1.5,BMS Institute of Technology and Management
+university,13.0971325,77.5934644,1.5,Government School
+university,13.096833,77.5944513,1.5,Government PU College
+university,12.9125019,77.5574602,1.5,Sri Kumarans College
+university,12.8694537,77.5924812,1.5,Loyola Industrial Training Centre
+university,13.0994512,77.5861481,1.5,Chaitanya Nursing College
+university,12.935516,77.6070148,1.5,Ghousia Polytechnic
+university,13.0091201,77.5550382,1.5,Vivekananda Degree College
+university,12.9167312,77.634495,1.5,Vidhya Bharathi College
+university,12.9262511,77.6296512,1.5,St. Francis College
+university,12.9238171,77.6293555,1.5,Krupanidhi College
+university,12.9261331,77.5784875,1.5,"City College, Bangalore"
+university,12.9269091,77.5777418,1.5,Bangalore International Academy
+university,12.9296226,77.6225779,1.5,Vemana Institute of Technology
+university,12.9294621,77.6230045,1.5,RJS Institute of Management Studies
+university,12.9977389,77.6796542,1.5,Lowry Memorial College
+university,12.985557,77.6466045,1.5,Montfort College
+university,12.9720071,77.6379617,1.5,Dr Ambedkar College
+university,12.9612179,77.5904079,1.5,Government Pharmacy College
+university,12.888835,77.6625981,1.5,Sadhguru Sainath International School and College
+university,12.970355,77.602831,1.5,St. Joseph's College of Business Administration
+university,12.9711296,77.6041777,1.5,St. Joseph's Pre-University College
+university,12.929527,77.5438362,1.5,NCERT
+university,13.074814,77.4992054,1.5,Sri Krishna Institute of Technology
+university,12.9909868,77.513684,1.5,National Institute of Unani Medicine
+university,12.9959167,77.5535397,1.5,K L E Society's S. Nijalingappa College
+university,12.99118,77.575137,1.5,Seshadripuram Law College
+university,12.9543874,77.5748847,1.5,Vokkaligara Sangha Dental College
+university,13.0206562,77.7000103,1.5,St. Anthony Composite P. U. College
+university,12.9961923,77.5988126,1.5,United Theological College
+university,12.9181468,77.5919059,1.5,Jain University
+university,12.9351012,77.6276505,1.5,Chinmaya Mission School
+university,13.0309173,77.565225,1.5,M S Ramaiah Institute of Technology
+university,12.9837431,77.5566697,1.5,MEI Polytechnic College
+university,12.9258463,77.4993799,1.5,Bangalore Institute of Management Studies
+university,13.0250286,77.508529,1.5,NTTF Technical Training Institute
+university,13.0291538,77.569833,1.5,M S Ramaiah Institute of Management Sciences
+university,12.983033,77.5376807,1.5,Government Homeopathy College & Hospital
+university,12.9651167,77.5434098,1.5,Ayurvedic Medical College
+university,12.9768386,77.4831368,1.5,East West Group of Institutions
+university,12.8482756,77.6748978,1.5,Xavier Institute of Management and Entrepreneurship
+university,12.9415239,77.5659049,1.5,BMS College of Engineering
+university,12.9378089,77.5583328,1.5,Unknown
+university,13.0108569,77.6214886,1.5,Siddhartha PU College
+university,13.0241073,77.6148515,1.5,Dr. Ambedkar Medical College
+university,12.9849166,77.7627604,1.5,M V Jayaram College of Engineering
+university,12.988373,77.5905885,1.5,St. Anne's First Grade College for Women
+university,13.0270303,77.6362369,1.5,Chris Canadian Institutions
+university,13.0304973,77.6223395,1.5,Darul Uloom Sabeelur Rashad Arabic College
+university,13.0362002,77.619781,1.5,HKBK College of Engineering
+university,12.9363361,77.5782076,1.5,Surana College
+university,13.0772767,77.5777437,1.5,College of Agriculture
+university,12.9715432,77.6096095,1.5,KSRP Research and Training Center
+university,12.9835106,77.58689,1.5,Govt R C College
+university,13.0499709,77.7168805,1.5,East Point College of Engineering
+university,12.8442717,77.6632889,1.5,International Institute of Information Technology Bangalore
+university,12.9119735,77.6527313,1.5,National Institute of Fashion Technology
+university,12.847096,77.6690976,1.5,NTTF
+university,13.0061592,77.6507354,1.5,CMR College
+university,12.9984828,77.7531194,1.5,"Government High School & Junior College,Belatur Colony"
+university,12.9357539,77.6001395,1.5,Government Technical Industrial Institute
+university,12.9331301,77.5980883,1.5,Fire Service Campus
+university,13.0071785,77.6910615,1.5,ITI Bhavan
+university,13.0249583,77.7151415,1.5,SJES College
+university,12.9159389,77.6428677,1.5,Oxford Management College
+university,12.916582,77.6425948,1.5,Shakuntala Devi International Institute of Management Sciences and PreUniversity
+university,12.9209039,77.5591701,1.5,Regional Institute of Co-operative Management
+university,12.8330573,77.6822436,1.5,Suvidya College
+university,12.991534,77.5534904,1.5,Employees' State Insurance Corporation Medical College & Post Graduate Institute of Medical Science & Research
+university,12.940415,77.5808636,1.5,Vijaya College
+university,12.8682011,77.6165729,1.5,Fullinfaws College
+university,12.8494542,77.6624983,1.5,IFIM Business School
+university,12.8411504,77.66877,1.5,Symbiosis Institute of Business Mangament
+university,12.8411306,77.6682417,1.5,Symbiosis Institute of Business Mangament
+university,12.9815956,77.5529529,1.5,RPA First Grade College
+university,13.1232871,77.5494145,1.5,The Institute of Transdisciplinary Health Sciences and Technology
+university,12.9267695,77.5624631,1.5,KIMS - Kempegowda Institute of Medical Sciences
+university,13.1344116,77.5673293,1.5,Football/Cricket ground
+university,12.9849608,77.7174195,1.5,Gopalan International School
+university,12.9623462,77.575312,1.5,Government College of Nursing
+university,12.9637904,77.5759033,1.5,Government Dental College and Research Institute
+university,12.9702345,77.6116398,1.5,Senior Police Officers Research and Training Institute
+university,12.9012695,77.4972635,1.5,Adichunchanagiri Shikshana Trust
+university,12.9529705,77.5881572,1.5,Al Ameen Pre and Degree College
+university,12.9432616,77.5807346,1.5,R V Teachers College
+university,12.9765722,77.6931115,1.5,Bangalore Management Academy
+university,12.9415238,77.5543245,1.5,Unknown
+university,12.9933779,77.5533031,1.5,"Rural DIET, Rajajinagar"
+university,12.90101,77.6309346,1.5,Oxford College
+university,12.9854416,77.5821636,1.5,Karnataka Judicial Academy
+university,13.1155417,77.6358788,1.5,REVA University
+university,12.861641,77.6654393,1.5,PESU Electronic City Campus
+university,12.9699963,77.6074034,1.5,St Josephs College of Commerce
+university,13.0437363,77.5626393,1.5,BEL Academy for Excellence
+university,12.9795326,77.5737218,1.5,Government Ayurvedic Medical College
+university,12.9311425,77.513619,1.5,Unknown
+university,13.0054864,77.6608858,1.5,New Horizon PU College
+university,12.9740209,77.6256572,1.5,St Anne's Degree College
+university,12.9797744,77.6158045,1.5,Hasnath Group of Institutions
+university,12.9815448,77.6150722,1.5,RBANMS College
+university,13.0709875,77.4945382,1.5,Soundarya Institute of Management
+university,12.9644861,77.6446189,1.5,PU Cauvery College
+university,13.0735071,77.5108905,1.5,RR College of Pharmacy
+university,12.9305145,77.6135148,1.5,Indian Institute of Psychology & Research
+university,12.9533742,77.5975797,1.5,Indira Gandhi National Open University
+university,13.005556,77.5809082,1.5,"IIHS, Bengaluru City Campus"
+university,12.9794794,77.6460622,1.5,International Instittute of Hotel Management
+university,12.9794893,77.6462176,1.5,International Instittute of Hotel Management
+university,13.1046531,77.5727797,1.5,SB Nursing College
+university,13.0506431,77.5980043,1.5,Presidency College
+university,12.9662043,77.585701,1.5,Abbas Khan College
+university,12.9077922,77.5667401,1.5,Dayanand Sagar Institutions
+university,12.9709976,77.6355707,1.5,College of Nursing - ESIC
+university,13.0111621,77.7016114,1.5,Silicon City College
+university,13.1293899,77.5879044,1.5,Nitte Meenakshi Institute of Technology
+university,12.9767231,77.7303716,1.5,Vydehi Institute of Medical Science and Research Center
+university,12.8871419,77.6977273,1.5,Bhoomi College
+university,13.0576618,77.6420218,1.5,Unknown
+university,13.058229,77.6424351,1.5,Kristu Jayanti University
+university,13.0279653,77.6338225,1.5,Royal College of Management Studies
+university,12.9645727,77.6614009,1.5,Sacred Heart Degree College
+university,13.1240154,77.6204825,1.5,Brindavan Group of Institutions
+university,12.9174984,77.6714888,1.5,ALT training college
+university,12.9786163,77.5866665,1.5,Institute of Hotel Management
+university,12.9343765,77.6921961,1.5,New Horizon College of Engineering
+university,12.9482151,77.5968238,1.5,Unknown
+university,13.0218135,77.7031995,1.5,Kristu Jyoti College
+university,12.8573496,77.7617347,1.5,ALLEN Career Institute
+university,13.0297477,77.6415271,1.5,St Vincent Pallotti College
+university,12.9348535,77.5321405,1.5,PES University
+university,12.9810372,77.6246913,1.5,Aavishkar Academy
+university,12.8796357,77.7597267,1.5,International School Of Management Excellence
+university,12.9244411,77.4968578,1.5,Bangalore Integrated Management Academy
+university,13.093793,77.5763393,1.5,TIFR Centre for Applicable Mathematics
+university,12.9272671,77.5262224,1.5,Global Academy of Technology
+university,13.005314,77.5533932,1.5,Indian Institute of Spirituality
+university,13.0302427,77.6355917,1.5,Indian Academy Group of Institutions
+university,13.013045,77.573415,1.5,"IIHS, Tharangavana"
+university,12.9818346,77.5757991,1.5,SJR College of Law
+university,12.9270487,77.6301463,1.5,St. Francis Composite PU College
+university,13.0532657,77.4965581,1.5,Karnataka State Labour Institute
+university,13.0856894,77.4824135,1.5,Acharya Institute of Technology
+university,13.0022168,77.5921105,1.5,Indian Institute of Ayurvedic Medicine & Research
+university,13.0714927,77.5801602,1.5,NCBS Bangalore
+university,13.0883323,77.6371783,1.5,KNS Institute of Technology
+university,13.0787857,77.7348013,1.5,Swami Vivekananda College of Nursing
+university,12.9821724,77.5612902,1.5,SJR College for Women
+university,12.9871277,77.5426566,1.5,VVS Girls College
+university,12.9864581,77.7169589,1.5,GSAP-Gopalan College Of Architecture
+university,12.926725,77.49845,1.5,St. Anthony's PU College
+university,13.0537899,77.5810306,1.5,Impact College of Engineering and Applied Sciences
+university,13.0005642,77.622022,1.5,Unknown
+university,13.0248754,77.5830666,1.5,"ICAR - Indian Veterinary Research Institute, Hebbal"
+university,13.127423,77.5581059,1.5,"ICAR - Indian Veterinary Research Institute, Yelahanka"
+university,12.8854855,77.6996336,1.5,Bangalore Technological Institute
+university,12.9293924,77.6231114,1.5,Unknown
+university,12.9613493,77.6061795,1.5,Baldwin Methodist College
+university,12.998356,77.5584602,1.5,Mariyappa First Grade College
+university,12.9725039,77.6130568,1.5,St. Joseph's Institute of Management
+university,12.9141478,77.5689536,1.5,National Power Training Institute
+university,12.983676,77.6014367,1.5,BBMP PU College
+university,12.9147432,77.6505752,1.5,Government First Grade College
+university,13.0755928,77.6653777,1.5,Alpha College of Engineering
+university,13.0770721,77.6659517,1.5,Vijaya Vittala Institute of Technology
+university,12.9834643,77.5099921,1.5,Kempegowda Institute of Management Studies and Research
+university,12.9566063,77.5057463,1.5,"National School of Drama, Bengaluru"
+university,13.0846319,77.6377418,1.5,Manipal Academy Of BFSI
+university,13.0860699,77.6359056,1.5,Karnataka College of Pharmacy
+university,12.9821415,77.6151763,1.5,RBANMS First Grade Evening College
+university,12.9533833,77.5138572,1.5,Institute for Social and Economic Change
+university,12.9529327,77.5159691,1.5,National Law School of India University
+university,12.9494982,77.5171654,1.5,"Dr. B. R. Ambedkar School of Economics University, Bengaluru"
+university,12.9525207,77.5188218,1.5,Maulana Azad National Urdu University
+university,12.9704168,77.6032839,1.5,St Joseph's College of Law
+university,13.0029512,77.5725513,1.5,Rajiv Gandhi College Of Law
+university,12.9882336,77.5449871,1.5,Carmel PUC
+university,13.0357273,77.5056937,1.5,Chirst University Yeshwantpur Campus
+university,12.8778683,77.596113,1.5,Christ University Bannerghatta Road
+university,12.8439822,77.777077,1.5,Azim Premji University
+university,13.0293756,77.5635513,1.5,National Institute of Advanced Studies - NIAS
+university,13.0994183,77.5868339,1.5,Bishop Cotton Academy of Professional Management
+university,13.094775,77.5904173,1.5,Agragami College of Aeronautical Engineering
+university,13.0957382,77.590225,1.5,East West College of Engineering
+university,12.9542208,77.5867157,1.5,Al-Ameen Arts and Science College
+university,13.1264517,77.5890581,1.5,"Manipal Academy of Higher Education, Bengaluru"
+university,12.8622781,77.5829112,1.5,Jeevalaya Institute of Philosophy
+university,12.9482501,77.6086002,1.5,National Institute of Animal Nutrition and Physiology
+university,13.0767034,77.6267551,1.5,Police Training School
+university,13.0346158,77.5056378,1.5,St. Paul's College
+university,12.9129825,77.7085325,1.5,Carmelaram Theology College
+university,12.9104666,77.7069506,1.5,Karunalayam Convent
+university,12.9969519,77.6065676,1.5,MQI College
+university,13.0120786,77.5709861,1.5,Institute of Wood Science and Technology
+university,12.9944436,77.5579391,1.5,Unknown
+university,12.9988218,77.5616587,1.5,Vivekananda College of Law
+university,12.993391,77.5528384,1.5,Government First Grade College
+university,13.0731527,77.596779,1.5,"Gyan Jyothi, State Bank of India"
+university,12.902964,77.5074479,1.5,Chitrakala Parishattu
+university,12.9007364,77.5173828,1.5,RNS Institute of Technology
+university,13.0034333,77.4842662,1.5,Acharya Bangalore Business School
+university,13.0005476,77.5477816,1.5,Unknown
+university,12.964601,77.6108833,1.5,St. Philomena's College of Nursing
+university,13.1258755,77.5915553,1.5,"Srishti Manipal Institute of Art, Design and Technology"
+university,13.064321,77.620289,1.5,Ashoka Trust for Research in Ecology and Environment
+university,12.9852447,77.7331674,1.5,Jain University School of Allied Healthcare & Sciences
+university,13.0651208,77.6371661,1.5,Bible College and Ministry Training Center
+university,12.9276077,77.4981982,1.5,Maulana Azad National Urdu University
+university,12.9263091,77.4976197,1.5,Darshan College
+university,12.9838498,77.5988818,1.5,Bowring and Lady Curzon Medical College
+university,13.0836863,77.6536819,1.5,Faran Group of Institutions
+university,12.8507133,77.5945794,1.5,T John College
+university,12.997409,77.5546015,1.5,Sri Sai College for Women
+university,13.1186237,77.658857,1.5,CMR University Campus (Lakeside)
+university,12.9603662,77.5871967,1.5,Jain Centre for Management Studies
+university,12.9609027,77.5853359,1.5,Jain University
+university,13.0874394,77.5895866,1.5,Manipal Institute of Regenerative Medicine
+university,13.0205206,77.7041678,1.5,Visvadeep: Institute of Youth Ministry and Faith Education
+university,13.025362,77.706808,1.5,Garden City University
+university,13.0229356,77.7024819,1.5,Don Bosco College
+university,13.0184908,77.5079984,1.5,"M.S. Ramaiah University of Applied Sciences, Peenya Campus"
+university,12.8736599,77.5989796,1.5,Unknown
+university,12.8745052,77.5966313,1.5,Islamia Institute of Technology
+university,12.8883329,77.6113151,1.5,Bosch Learning Campus
+university,13.0859941,77.6318433,1.5,Kotak Manipal Academy of Banking
+university,12.9649692,77.6004187,1.5,Baldwin Women's Methodist College
+university,12.935714,77.6026979,1.5,Dharmaram Vidya Kshetra
+university,12.8332195,77.5121822,1.5,Indus Business Academy
+university,13.0727709,77.5009673,1.5,Sapthagiri Institute of Allied Health Sciences
+university,13.0740179,77.500558,1.5,Sapthagiri School of Nursing
+university,13.0619238,77.6566243,1.5,Gateway Community College
+university,12.9769337,77.5870753,1.5,Government SKSJ Technology Institute
+university,12.9764406,77.5829357,1.5,Bangalore Medical College Gents Hostel
+university,13.1143915,77.6088685,1.5,MVM Institute of Nursing Sciences
+university,12.9271233,77.6018707,1.5,Unknown
+university,13.0584836,77.649554,1.5,Unknown
+university,13.1028982,77.6236634,1.5,"Presidency PU College, Kogilu"
+university,12.8422553,77.5129468,1.5,Jyothy Institute of Technology
+university,13.0833502,77.4800867,1.5,Unknown
+university,13.0893182,77.5569728,1.5,Adhyayana PU College
+university,13.0328569,77.5298236,1.5,"Government PU College, Peenya"
+university,13.033209,77.5311007,1.5,GFGC Peenya
+university,13.0649412,77.5326224,1.5,Ashoka College
+university,12.8781579,77.5130235,1.5,RV College of Architecture
+university,13.1070127,77.5141591,1.5,Lakshya Career Academy PU College
+university,12.9111596,77.5096932,1.5,Panchasheela Polytechnic School
+university,12.8727897,77.5758253,1.5,RV Institute of Technology and Management
+university,12.9749836,77.5327686,1.5,KTSV PU College
+university,12.9702948,77.538012,1.5,Unknown
+university,13.0031927,77.5481465,1.5,Unknown
+university,12.8412265,77.6684158,1.5,Unknown
+university,13.0269962,77.6569341,1.5,"Sri Chaitanya PU College, Horamavu"
+university,12.8866517,77.5462158,1.5,Unknown
+university,13.0028438,77.60042,1.5,Unknown
+university,12.8836678,77.5461093,1.5,Hillside College of Nursing
+university,12.8387846,77.7135958,1.5,National School of Business
+university,13.0707812,77.6355525,1.5,Traffic Training and Road Safety Institute
+university,12.8669346,77.5912825,1.5,Nirmala Jyothi Technical Institute Salesian Sisters
+university,12.8807,77.753788,1.5,Unknown
+university,12.8808705,77.7479607,1.5,Unknown
+university,12.8568683,77.5895168,1.5,Unknown
+university,13.1056977,77.5676809,1.5,Indira Priyadarshini College of Law
+university,13.0457712,77.5191873,1.5,Govt. First Grade College
+university,13.0170434,77.6349303,1.5,St. Paul PU College
+university,13.0269906,77.6328477,1.5,Unknown
+university,12.9950655,77.6098557,1.5,Goodwill College for Women
+university,12.9049222,77.4948419,1.5,St. Mary's Global Academy
+university,13.1161867,77.5619876,1.5,Nagarjuna Degree College
+university,13.0097817,77.6524884,1.5,New Shores International College
+university,12.8834247,77.7019935,1.5,Vidya Shri College
+university,13.0322731,77.6347837,1.5,Indian Academy PUC
+university,13.0388245,77.5754737,1.5,SYA PU College
+university,13.038576,77.5760886,1.5,SM PU and Degree College
+university,13.1107187,77.5013599,1.5,Unknown
+university,13.1099755,77.4968639,1.5,Unknown
+university,13.0333663,77.5979688,1.5,Rajiv Gandhi Institute of Technology
+university,13.0338347,77.5974269,1.5,Sri Rajiv Gandhi College of Dental Sciences & Hospital
+university,13.0294084,77.5892348,1.5,Vidya Vahini School and PU College
+university,13.0220826,77.6021684,1.5,Lal Bahabur Shastri Degree College
+university,12.9864958,77.5092195,1.5,RVS College of Nursing Sciences
+university,12.9837378,77.5092114,1.5,Vokkaligara Sangha Industrial Training Institute
+university,12.8804042,77.5894824,1.5,Universal College of Nursing
+university,12.9892009,77.497977,1.5,Unknown
+university,12.9918313,77.4989305,1.5,Unknown
+university,12.9899715,77.5067244,1.5,GT College
+university,12.9268959,77.5832353,1.5,RV Dental College
+university,12.8398924,77.6865267,1.5,Florence Institutions
+university,13.0271904,77.636099,1.5,Unknown
+university,13.0130342,77.7049303,1.5,Garden City College
+university,13.0125259,77.704656,1.5,Cambridge Institute of Technolgy
+university,13.0142399,77.6985279,1.5,"Government First Grade College, KR Puram"
+university,12.9621435,77.5901163,1.5,Government Pharmacy College
+university,12.8957568,77.6740463,1.5,Karnataka Reddyjana Sangha Medical College
+university,13.1213492,77.5519578,1.5,Ramakrishna Ayurvedic College
+university,13.0160783,77.6638777,1.5,Havnur College of Law
+university,12.903684,77.6303209,1.5,ICAT Design & Media College
+university,13.0096578,77.7151675,1.5,SEA College
+university,13.1304871,77.6928744,1.5,Unknown
+university,12.9403342,77.5787453,1.5,Unknown
+university,13.1040841,77.6337162,1.5,Westline College
+university,13.1250135,77.6648169,1.5,VBR College
+university,12.9805772,77.7585201,1.5,Government Polytechnic College
+university,13.0434005,77.7366755,1.5,Unknown
+university,13.0343176,77.7145589,1.5,Divine Grace Institute of Health Sciences
+university,12.9959368,77.5476351,1.5,Goutham College
+university,13.1062897,77.6659571,1.5,Koshys Group Of Institutions
+university,13.1050337,77.6657847,1.5,Maseehul Uloom University
+university,13.1130946,77.6680468,1.5,AP Securitas Training Academy
+university,13.1025584,77.5303875,1.5,DR Academy
+university,13.0541358,77.6533225,1.5,Narayana PU College
+university,12.9290774,77.6238607,1.5,RJS Polytechnic
+university,12.9753372,77.7307526,1.5,Vydehi Medical College Building
+university,13.0294206,77.5849792,1.5,Government Veterinary College
+university,12.9636901,77.5759855,1.5,Unknown
+university,13.0839707,77.5755568,1.5,GKVK Campus
+university,12.9404664,77.5810125,1.5,"Vijaya PU College, RV Road (Vijaya Main)"
+university,12.937639,77.5971954,1.5,National Institute of Mental Health and NeuroSciences
+university,12.9341811,77.5347038,1.5,PES University
+university,13.0208701,77.5656546,1.5,Indian Institute of Science
+university,13.0334858,77.5848788,1.5,"University of Agricultural Sciences, Hebbal"
+university,12.9441802,77.50847,1.5,Bangalore University
+university,12.9459903,77.6110678,1.5,National Dairy Research Institute Adugodi
+university,13.0115048,77.560448,1.5,St. Peter's Pontifical Seminary
+university,12.9296794,77.6171269,1.5,St. John's Medical College
+university,13.069358,77.6110025,1.5,Jawaharlal Nehru Centre for Advanced Scientific Research
+university,12.9932717,77.5878914,1.5,Mount Carmel College
+university,12.8948249,77.6761678,1.5,Amrita Vishwa Vidyapeetham
+university,12.978671,77.5835962,1.5,Maharani Cluster University
+university,12.9625903,77.5966361,1.5,St. Joseph's University
+university,12.975045,77.5829122,1.5,Bengaluru City University
