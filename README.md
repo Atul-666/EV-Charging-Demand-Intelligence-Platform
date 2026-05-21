@@ -241,21 +241,27 @@ EV-Charging-Demand-Intelligence-Platform/
 
 ---
 
-## Geospatial Clustering
+## ROI Tier Distribution
 
-![Clustering](screenshots/clustering-output.png)
-
----
-
-## Congestion Heatmap
-
-![Heatmap](screenshots/congestion-map.png)
+![Clustering](screenshots/08_roi_distribution.png)
 
 ---
 
-## Forecasting Output
+## Feature Importance
 
-![Forecast](screenshots/forecasting.png)
+![Heatmap](screenshots/08_feature_importance.png)
+
+---
+
+## EV Demand vs  charger supply
+
+![Forecast](screenshots/08_ci_distribution.png)
+
+---
+
+## Zone Deployment Priority
+
+![Forecast](screenshots/08_site_score_rankings.png)
 
 ---
 
