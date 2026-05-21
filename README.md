@@ -235,9 +235,9 @@ EV-Charging-Demand-Intelligence-Platform/
 
 # 📸 Screenshots
 
-## Architecture Diagram
+## CaaS Mobile Unit Deployment
 
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/08_cds_priority.png)
 
 ---
 
