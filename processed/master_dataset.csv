@@ -1,0 +1,21 @@
+zone_id,zone_name,zone_archetype,lat_centroid,lon_centroid,area_km2,ev_registrations,ev_growth_rate_yoy,poi_score,it_park_count,mall_count,hotel_count,hospital_count,university_count,petrol_pump_count,footfall_composite,charger_count_total,slow_charger_count,fast_charger_count,operators_present,planned_supply_6mo,price_psf_residential,price_psf_commercial,hcpi_estimated,new_projects_pipeline_count,new_projects_units_total,s_score
+1,HSR Layout,commercial_transit,12.8983828125,77.61369010416666,48.0,5234,1.097,314.0,0,0,11,103,40,72,3.38,4,3,1,"Unknown, Magenta Group, BESCOM, Honda e:swap",10,8700.0,11916.67,0.45,67,10270,1.0
+2,Whitefield ITPL,it_corridor,13.045907718120803,77.5305889261745,37.25,4384,1.097,263.0,5,0,7,66,53,52,1.8,3,3,0,"Unknown, Honda e:swap",3,7400.0,10000.0,0.4,17,1950,1.0
+3,Koramangala,it_corridor,12.97179,77.62751,6.25,6593,1.097,395.5,6,2,117,38,8,12,19.7,1,1,0,Unknown,0,8000.0,11333.33,0.45,0,0,1.0
+4,Electronic City,commercial_transit,12.97125,77.607875,1.0,1225,1.097,73.5,2,1,11,17,7,2,66.8,2,2,0,Unknown,1,8000.0,11333.33,0.45,0,0,1.0
+5,Sarjapur Road,it_corridor,12.979508823529413,77.59527352941177,21.25,14045,1.097,842.5,8,0,115,212,114,42,8.6,3,3,0,Unknown,2,8000.0,11333.33,0.45,0,0,1.0
+6,Marathahalli,premium_commercial,12.9628125,77.6154375,2.0,1242,1.097,74.5,2,18,7,5,3,3,30.41,1,1,0,Unknown,0,8000.0,11333.33,0.45,0,0,1.0
+7,Rajajinagar,commercial_transit,12.90772265625,77.71525390625,32.0,2367,1.097,142.0,1,0,16,21,17,42,2.83,5,1,4,"êpump, Bolt Earth",6,8000.0,11333.33,0.57,73,15400,1.0
+8,JP Nagar,it_corridor,12.965875,77.62636111111111,9.0,3759,1.097,225.5,6,36,22,34,7,19,13.14,0,0,0,None,0,8000.0,11333.33,0.45,0,0,1.0
+9,MG Road,it_corridor,12.9763125,77.68075,2.0,2684,1.097,161.0,39,1,14,3,1,1,17.35,2,1,1,"Shell, Jio BP",3,7650.0,10250.0,0.48,25,4100,1.0
+10,Indiranagar,it_corridor,12.97287,77.63543,6.25,2125,1.097,127.5,8,2,16,19,12,13,13.79,4,3,1,"Ather Energy, Unknown, Honda e:swap",2,13000.0,19000.0,0.44,5,410,1.0
+11,Bellandur,commercial_transit,13.010150602409638,77.70238554216867,41.5,5001,1.097,300.0,0,0,17,79,42,76,1.97,4,4,0,"BESCOM, Unknown, Sun Mobility",4,6350.0,8900.0,0.43,34,5740,1.0
+12,Hebbal,commercial_transit,12.978,77.57625,0.5,1959,1.097,117.5,2,1,42,1,2,0,23.88,5,4,1,"Ather, Unknown, Honda e:swap",6,10000.0,13500.0,0.3,11,980,1.0
+13,Yelahanka,it_corridor,12.968578125,77.65588541666666,24.0,8010,1.097,480.5,96,0,23,48,22,30,4.4,0,0,0,None,1,8000.0,11333.33,0.45,0,0,1.0
+14,Devanahalli,it_corridor,12.94167050209205,77.53639225941423,59.75,10711,1.097,642.5,7,0,9,222,94,125,2.75,1,1,0,Unknown,5,5200.0,6500.0,0.35,10,1300,1.0
+15,Jayanagar,commercial_transit,12.9602109375,77.623171875,16.0,5226,1.097,313.5,3,0,34,102,29,23,27.31,0,0,0,None,0,8000.0,11333.33,0.45,0,0,1.0
+16,BTM Layout,premium_commercial,12.9639375,77.6223125,2.0,1125,1.097,67.5,1,4,13,12,2,3,93.85,0,0,0,None,0,8000.0,11333.33,0.45,0,0,1.0
+17,Kengeri,commercial_transit,13.06719642857143,77.61168080357143,56.0,6576,1.097,394.5,1,0,17,93,91,73,2.95,2,2,0,Unknown,11,6500.0,8700.0,0.5,120,21500,1.0
+18,Tumkur Road,it_corridor,12.953395161290322,77.64242741935485,7.75,5168,1.097,310.0,66,3,22,12,14,12,11.22,0,0,0,None,1,8000.0,11333.33,0.45,0,0,1.0
+19,Outer Ring Road,it_corridor,12.94965,77.63345,1.25,767,1.097,46.0,5,0,5,0,11,2,7.16,5,5,0,"Unknown, ChargePoint",2,12500.0,18000.0,0.48,8,950,1.0
+20,Hoskote,premium_commercial,12.97125,77.60925,0.25,742,1.097,44.5,1,6,10,0,3,0,100.0,1,1,0,Honda e:swap,0,14000.0,22000.0,0.42,3,280,1.0
